@@ -1,1 +1,31 @@
-{}
+{
+    "recipes": [
+        {
+            "category": "Breakfast",
+            "title": "Pasta with Tomato Cream Sauce",
+            "image": "images/abc.jpg",
+            "ingredients": [
+                "1/2 cup butter",
+                "1/2 cup flour",
+                "1/2 cup milk",
+                "1/2 cup cream",
+                "1/2 cup tomato sauce",
+                "1/2 cup parmesan cheese",
+                "1/2 cup mozzarella cheese",
+                "1/2 cup pasta"
+            ],
+            "instructions": [
+                "Melt butter in a saucepan over medium heat.",
+                "Add flour and cook, stirring constantly, until mixture is smooth and bubbly.",
+                "Gradually add milk and cream, stirring constantly.",
+                "Cook and stir until mixture is thickened and bubbly.",
+                "Stir in tomato sauce and cheeses.",
+                "Cook and stir until cheese is melted.",
+                "Stir in pasta and serve."
+            ]
+        },
+        {
+
+        }
+    ]
+}
