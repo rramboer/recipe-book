@@ -1,3 +1,8 @@
-.nav_header {
-    margin: 0 auto;
+.navbar-brand {
+    font-size: 1.3rem !important;
+    font-weight: bold;
+}
+
+.nav-item {
+    font-size: 1.3rem;
 }
