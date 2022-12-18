@@ -20,36 +20,33 @@
 
 <body>
     <div id="app">
-    <nav class="navbar navbar-expand-sm navbar-dark bg-black nav_header flex-sm-nowrap flex-wrap">
-        <div class="container-fluid">
-            <span><a class="navbar-brand flex-grow-1 px-2" href="$">Healthy For Life</a></span>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-black nav_header flex-sm-nowrap flex-wrap">
+            <div class="container-fluid">
+                <span><a class="navbar-brand flex-grow-1 px-2" href="$">Healthy For Life</a></span>
 
-            <div class="navbar-collapse collapse flex-grow-1 justify-content-center" id="navbar">
-            <ul v-for="(category,i) in categories" class="navbar-nav m-auto px-auto">
-                <li class="nav-item px-3">
-                    <a class="nav-link" :class="{active:category.toggle === i}" href="#">{{category.name}}</a>
-                </li>
-            </ul>
-            </div>
-            <div class="flex-grow-1">
-            <!--spacer-->
-            </div>
-        </div>
-    </nav>
-
-<div class="main container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4  g-4 g-lg-5">
-            <div v-for="category in categories"> 
-                    <div class="card border-dark h-100">
-                        <a href="https://www.google.com/" class="stretched-link"></a>
-                        <img src="images/temp1.jpeg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-title">{{category.name}}</p>
-                        </div>
-                    </div>
+                <div class="navbar-collapse collapse flex-grow-1 justify-content-center" id="navbar">
+                <ul v-for="(category,i) in categories" class="navbar-nav m-auto px-auto">
+                    <li class="nav-item px-3">
+                        <a class="nav-link" :class="{active:category.toggle === i}" href="#">{{category.name}}</a>
+                    </li>
+                </ul>
+                </div>
+                <div class="flex-grow-1">
+                <!--spacer-->
                 </div>
             </div>
+        </nav>
+
+    <div class="main container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4  g-4 g-lg-5">
+        <div v-for="category in categories"> 
+            <div class="card border-dark h-100">
+                <a href="https://www.google.com/" class="stretched-link"></a>
+                <img src="images/temp1.jpeg" class="card-img-top" alt="...">
+                         <div class="card-body">
+                             <p class="card-title">{{category.name}}</p>
+                        </div>
+            </div>
         </div>
-    </div>
     </div>
 </div>
 </body>
