@@ -22,42 +22,42 @@ Vue.createApp({
             categories: [
                 {
                     name: "Entrées",
-                    image: "category_images/green_chicken.jpg",
+                    image: "category_images/green_chicken_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Appetizers",
-                    image: "category_images/garlic_rosemary.jpg",
+                    image: "category_images/garlic_rosemary_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Breakfast",
-                    image: "category_images/breakfast_bowl.png",
+                    image: "category_images/breakfast_bowl_1080p.png",
                     toggle: null,
                 },
                 {
                     name: "Desserts",
-                    image: "category_images/oreo_cookies.jpg",
+                    image: "category_images/oreo_cookies_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Soup & Sauces",
-                    image: "category_images/broccoli_fennel_soup.jpg",
+                    image: "category_images/broccoli_fennel_soup_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Crockpot",
-                    image: "category_images/meatloaf.jpg",
+                    image: "category_images/meatloaf_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Drinks",
-                    image: "category_images/mango_mint.jpg",
+                    image: "category_images/mango_mint_1080p.jpg",
                     toggle: null,
                 },
                 {
                     name: "Miscellaneous",
-                    image: "category_images/paleo_bread.jpg",
+                    image: "category_images/paleo_bread_1080p.jpg",
                     toggle: null,
                 },
             ],
