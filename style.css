@@ -1,3 +1,8 @@
+:root {
+    --border-radius-mobile: 10px;
+    --border-radius-desktop: 20px;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +12,7 @@
 
 
 .card img {
-    border-radius: 35px 35px 0px 0px;
+    border-radius: var(--border-radius-desktop) var(--border-radius-desktop) 0px 0px;
 }
 
 .navbar {
@@ -29,7 +34,7 @@
 }
 
 .card {
-    border-radius: 35px !important;
+    border-radius: var(--border-radius-desktop) !important;
     background-color: lightgray !important;
     margin-left: 3vw;
     height: 15vw;
@@ -50,16 +55,17 @@
 }
 
 @media (max-width: 768px) {
-    p{
+    p {
         font-size: 12px;
     }
+
     .card {
-        border-radius: 5px !important;
+        border-radius: var(--border-radius-mobile) !important;
         background-color: lightgray !important;
-        width:100%;
+        width: 100%;
     }
 
     .card img {
-        border-radius: 5px 5px 0px 0px;
+        border-radius: var(--border-radius-mobile) var(--border-radius-mobile) 0px 0px;
     }
 }
