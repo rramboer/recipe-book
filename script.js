@@ -65,6 +65,16 @@ Vue.createApp({
     }
 }).mount("#app");
 
+let darkModeFlag = false; // false = light mode, true = dark mode
+
 function toggleDarkMode() {
     var element = document.body;
+    if (darkModeFlag) { // if currently is dark mode, switch to light mode
+        element.classList.remove("dark-mode");
+        darkModeFlag = false;
+    }
+    else { // if currently is light mode, switch to dark mode
+        element.classList.add("dark-mode");
+        darkModeFlag = true;
+    }
 }
