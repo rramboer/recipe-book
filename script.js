@@ -62,10 +62,9 @@ Vue.createApp({
                 },
             ],
         };
-    },
-    methods: {
-        toggleDarkMode() {
-
-        }
     }
 }).mount("#app");
+
+function toggleDarkMode() {
+    var element = document.body;
+}
