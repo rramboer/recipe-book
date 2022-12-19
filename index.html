@@ -41,7 +41,7 @@
             <div v-for="category in categories">
                 <div class="card border-dark h-100">
                     <a href="https://www.google.com/" class="stretched-link"></a>
-                    <img src="images/temp1.jpeg" class="card-img-top" alt="...">
+                    <img :src="category.image" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-title"><strong>{{category.name}}</strong></p>
                     </div>
