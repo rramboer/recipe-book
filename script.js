@@ -23,7 +23,7 @@ Vue.createApp({
       categories: [
         {
           name: "Appetizers",
-          toggle: 0,
+          toggle: null,
         },
         {
           name: "Entrées",
