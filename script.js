@@ -23,34 +23,42 @@ Vue.createApp({
       categories: [
         {
           name: "Entrées",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Appetizers",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Breakfast",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Desserts",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Soup & Sauces",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Crockpot",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Drinks",
+          image: "category_images/entrees.png",
           toggle: null,
         },
         {
           name: "Miscellaneous",
+          image: "category_images/entrees.png",
           toggle: null,
         },
       ],
