@@ -22,23 +22,19 @@ Vue.createApp({
       ],
       categories: [
         {
-          name: "Appetizers",
-          toggle: null,
-        },
-        {
           name: "Entrées",
           toggle: null,
         },
         {
-          name: "Desserts",
-          toggle: null,
-        },
-        {
-          name: "Drinks",
+          name: "Appetizers",
           toggle: null,
         },
         {
           name: "Breakfast",
+          toggle: null,
+        },
+        {
+          name: "Desserts",
           toggle: null,
         },
         {
@@ -47,6 +43,10 @@ Vue.createApp({
         },
         {
           name: "Crockpot",
+          toggle: null,
+        },
+        {
+          name: "Drinks",
           toggle: null,
         },
         {
