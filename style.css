@@ -1,6 +1,10 @@
 :root {
     --border-radius-mobile: 10px;
     --border-radius-desktop: 20px;
+    /* DARK MODE VARIABLES */
+    --background: #e8e8e8;
+    --card-font: #000;
+    --card-background: lightgray;
 }
 
 * {
@@ -61,7 +65,7 @@
 
     .card {
         border-radius: var(--border-radius-mobile) !important;
-        background-color: lightgray !important;
+        background-color: var(--card-background) !important;
         width: 100%;
     }
 
