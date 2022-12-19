@@ -1,8 +1,9 @@
 :root {
     --border-radius-mobile: 10px;
     --border-radius-desktop: 20px;
-    /* DARK MODE VARIABLES */
-    --background: #e8e8e8;
+    --dbackground: #1d1f20;
+    --dcard-background:
+        --background: #e8e8e8;
     --card-font: #000;
     --card-background: lightgray;
 }
@@ -14,6 +15,31 @@
     text-decoration: none;
 }
 
+.dark {
+    background-color: var(--dbackground);
+    color: black;
+}
+
+.material-symbols-outlined {
+    color: black;
+    vertical-align: middle !important;
+    display: table !important;
+    margin: auto !important;
+    margin-top: 8px !important;
+    font-variation-settings:
+        'FILL'0,
+        'wght'1000,
+        'GRAD'0,
+        'opsz'48
+}
+
+.circle {
+    height: 40px;
+    width: 40px;
+    background-color: var(--card-background);
+    z-index: 999;
+    border-radius: 50px;
+}
 
 .card img {
     border-radius: var(--border-radius-desktop) var(--border-radius-desktop) 0px 0px;
