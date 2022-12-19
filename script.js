@@ -73,7 +73,7 @@ Vue.createApp({
       cat.toggle = index;
       this.active = index;
     },
-      darkMode() {      
+    darkMode() {      
         if ($("body").hasClass("dark")) {
             $("body").removeClass("dark");
             $(".dark").css("color", "black");
@@ -86,17 +86,3 @@ Vue.createApp({
     }
   }
 }).mount("#app");
-
-let darkModeFlag = false; // false = light mode, true = dark mode
-
-/*function toggleDarkMode() {
-    let root = document.documentElement;
-    if (darkModeFlag) { // if currently is dark mode, switch to light mode
-        root.style.setProperty(); // TODO: do this a bunch of times
-        darkModeFlag = false;
-    }
-    else { // if currently is light mode, switch to dark mode
-        root.style.setProperty();
-        darkModeFlag = true;
-    }
-}*/
