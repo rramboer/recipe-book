@@ -25,8 +25,8 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-xxl navbar-dark bg-dark">
-            <a class="navbar-brand flex-grow-1 px-2 order-0" href="#" @click="home()"><strong>Healthy For Life</strong></a>
-            <button class="navbar-toggler order-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
+            <a id="brand" class="navbar-brand px-2 order-0" href="#" @click="home()"><strong>Healthy For Life</strong></a>
+            <button class="navbar-toggler order-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
                 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -40,7 +40,7 @@
                 </span>
             </div>
 
-            <div class="collapse navbar-collapse order-3" id="navbarTogglerDemo02">
+            <div class="collapse navbar-collapse order-3" id="navbarToggler">
                 <ul v-for="(category,i) in categories" class="navbar-nav m-auto px-auto">
                     <li class="nav-item px-3">
                         <a @click="toggle(category,i)" class="nav-link" :class="{active:category.toggle === i}" href="#"

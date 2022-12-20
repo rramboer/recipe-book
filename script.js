@@ -96,3 +96,12 @@ Vue.createApp({
         }
     }
 }).mount("#app");
+
+$(window).on('resize', function () {
+    if ($(window).width() < 1400) {
+        $('#brand').addClass('flex-grow-1');
+    }
+    else {
+        $("#brand").removeClass("flex-grow-1");
+    }
+});
