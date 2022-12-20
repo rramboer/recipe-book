@@ -1,10 +1,9 @@
+/*Global Settings*/
 :root {
     --border-radius-mobile: 10px;
     --border-radius-desktop: 20px;
     --dbackground: #1d1f20;
-    --dcard-background:
-        --background: #e8e8e8;
-    --card-font: #000;
+    --background: #e8e8e8;
     --card-background: lightgray;
 }
 
@@ -15,6 +14,7 @@
     text-decoration: none;
 }
 
+/*Dark Mode*/
 .dark {
     background-color: var(--dbackground);
     color: black;
@@ -22,57 +22,74 @@
 
 .material-symbols-outlined {
     color: black;
-    vertical-align: middle !important;
     display: table !important;
     margin: auto !important;
     margin-top: 8px !important;
     font-variation-settings:
-        'FILL' 0,
-        'wght' 1000,
-        'GRAD' 0,
-        'opsz' 48
+        'FILL'0,
+        'wght'1000,
+        'GRAD'0,
+        'opsz'48
 }
 
 .circle {
     height: 40px;
     width: 40px;
     background-color: var(--card-background);
+    margin-right: 2vw;
+    margin-left: 1vw;
     z-index: 999;
     border-radius: 50px;
     cursor: pointer;
 }
 
-.card img {
-    border-radius: var(--border-radius-desktop) var(--border-radius-desktop) 0px 0px;
-}
-
+/*Navigation Bar*/
 .navbar {
     border-bottom: 1px solid lightgray;
 }
 
-
 .navbar-brand {
-    font-size: 1.3rem !important;
+    font-size: 1.3rem;
     font-weight: bold;
+    margin-left: 2vw;
+}
+
+.navbar-toggler {
+    margin-right: 1vw;
 }
 
 .nav-item {
     font-size: 1.3rem;
 }
 
-.main {
+.right {
+    margin-left: auto;
+}
+
+/*Page Organization*/
+.home,
+.cat {
     padding-top: 5vw;
+}
+
+/*Card View*/
+.container-fluid {
+    max-width: calc(95vw) !important;
+    padding-left: 5vw !important;
 }
 
 .card {
     border-radius: var(--border-radius-desktop) !important;
-    background-color: lightgray !important;
     margin-left: 3vw;
     height: 15vw;
 }
 
+.card img {
+    border-radius: var(--border-radius-desktop) var(--border-radius-desktop) 0px 0px;
+}
+
 .card-img-top {
-    height: 15vw;
+    height: 8vw;
     object-fit: cover;
 }
 
@@ -83,20 +100,34 @@
 
 .card-title {
     text-align: center;
+    font-size: 1vw !important;
 }
 
+/*Responsive UI*/
 @media (max-width: 768px) {
-    p {
-        font-size: 12px;
+    .card-title {
+        font-size: 2vw !important;
     }
 
     .card {
         border-radius: var(--border-radius-mobile) !important;
-        background-color: var(--card-background) !important;
         width: 100%;
     }
 
     .card img {
         border-radius: var(--border-radius-mobile) var(--border-radius-mobile) 0px 0px;
+    }
+}
+
+
+@media (min-width: 1350px) {
+    .navbar-expand-xxl .navbar-collapse {
+        display: flex !important;
+        flex-basis: auto;
+    }
+
+    .navbar-expand-xxl .navbar-collapse .circle {
+        margin-top: 2vw !important;
+        margin-left: 2vw !important;
     }
 }

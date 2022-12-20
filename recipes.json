@@ -3,7 +3,7 @@
         {
             "category": "Breakfast",
             "title": "Pasta with Tomato Cream Sauce",
-            "image": "images/abc.jpg",
+            "image": "images/beefstew.png",
             "ingredients": [
                 "1/2 cup butter",
                 "1/2 cup flour",
@@ -25,7 +25,32 @@
             ]
         },
         {
-
+            "category": "Entrées",
+            "title": "Beef Stew",
+            "image": "images/beefstew.png",
+            "ingredients": [
+                "2 lbs. Grass Fed Stew Meat, Cut into 1” Cubes",
+                "2 Tbsp Avocado Oil",
+                "Sea Salt and Pepper to Taste",
+                "2 cups Organic Beef Broth",
+                "1 Clove Garlic, Minced",
+                "5 Carrots, Peeled and Sliced",
+                "1 Large Onion, Chopped",
+                "3 Stalks Celery, Sliced",
+                "1 Sweet Potato, Cubed",
+                "1 Tsp Dried Parsley",
+                "2 Tsp Adobo Seasoning",
+                "⅛ Cup Worcestershire Sauce"
+            ],
+            "instructions": [
+                "Heat the avocado oil in a skillet.",
+                "Add the meat and cook on medium/low heat until edges are browned.",
+                "Place meat in a slow cooker.",
+                "Add salt and pepper, and stir to coat.",  
+                "Add remaining ingredients and stir to mix.",
+                "Cover and cook on LOW 8-10 hours (or HIGH 4-5 hours).",  
+                "Stir thoroughly before serving."
+            ]
         }
     ]
 }
