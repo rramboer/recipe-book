@@ -52,8 +52,8 @@ Vue.createApp({
     },
     methods: {
         selectCategory(cat) {
+            this.current = "category";
             if (!this.setup) {
-                this.current = "category";
                 fetch("./recipes.json")
                     .then((res) => res.json())
                     .then((res) => {
@@ -89,6 +89,7 @@ Vue.createApp({
         },
         home() {
             this.current = "home";
+            this.categories[this.active].toggle = null;
         }
     }
 }).mount("#app");
