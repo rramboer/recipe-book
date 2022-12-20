@@ -63,10 +63,11 @@ Vue.createApp({
                         );
                         this.setup = true;
                     });
+            } else {
+                this.recipes = [];
+                this.recipes = this.original.filter((o) => o.category === cat);
+                console.log(this.recipes);
             }
-            this.recipes = [];
-            this.recipes = this.original.filter((o) => o.category === cat);
-            console.log(this.recipes);
         },
         toggle(cat, index) {
             if (this.active != null) {
