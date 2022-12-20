@@ -130,7 +130,7 @@
 }
 
 
-@media (min-width: 1350px) {
+@media (min-width: 1400px) {
     .navbar-expand-xxl .navbar-collapse {
         display: flex !important;
         flex-basis: auto;
