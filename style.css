@@ -75,12 +75,12 @@
 /*Card View*/
 .container-fluid {
     max-width: calc(95vw) !important;
-    padding-left: 5vw !important;
+    padding-left: 8vw !important;
 }
 
 .card {
     border-radius: var(--border-radius-desktop) !important;
-    margin-left: 3vw;
+    margin-left: 1vw;
     height: 15vw;
 }
 
@@ -105,7 +105,7 @@
 
 .card-title {
     text-align: center;
-    font-size: 1vw !important;
+    font-size: 1.2vw !important;
 }
 
 /*Responsive UI*/
