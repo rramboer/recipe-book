@@ -25,26 +25,28 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-xxl navbar-dark bg-dark">
-            <a class="navbar-brand flex-grow-1 px-2" href="#" @click="home()"><strong>Healthy For Life</strong></a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
+            <a id="brand" class="navbar-brand px-2 order-0" href="#" @click="home()"><strong>Healthy For Life</strong></a>
+            <button class="navbar-toggler order-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
                 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+
+            <div v-if="!darkmode" @click="darkMode()" class="circle order-2 order-xxl-4"><span class="material-symbols-outlined">
+                    dark_mode
+                </span>
+            </div>
+            <div v-else @click="darkMode()" class="circle order-2 order-xxl-4"><span class="material-symbols-outlined">
+                    light_mode
+                </span>
+            </div>
+
+            <div class="collapse navbar-collapse order-3" id="navbarToggler">
                 <ul v-for="(category,i) in categories" class="navbar-nav m-auto px-auto">
                     <li class="nav-item px-3">
                         <a @click="toggle(category,i)" class="nav-link" :class="{active:category.toggle === i}" href="#"
                             data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show">{{category.name}}</a>
                     </li>
                 </ul>
-            </div>
-            <div v-if="!darkmode" @click="darkMode()" class="circle"><span class="material-symbols-outlined">
-                    dark_mode
-                </span>
-            </div>
-            <div v-else @click="darkMode()" class="circle"><span class="material-symbols-outlined">
-                    light_mode
-                </span>
             </div>
         </nav>
 
@@ -61,7 +63,7 @@
             </div>
         </div>
         <div v-if="current === 'category'"
-            class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4  g-4 g-lg-5">
+            class="cat container-fluid row row-cols-3 row-cols-xs-3 row-cols-md-5 row-cols-xl-6 gy-5">
             <div v-for="(recipe,r) in recipes">
                 <div :class="['darkmode'? 'bg-secondary border-secondary':'border-dark']" class="card dark h-100">
                     <img :src="recipe.image" class="card-img-top" alt="...">
