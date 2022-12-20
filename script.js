@@ -1,24 +1,6 @@
 Vue.createApp({
   data() {
     return {
-      recipes: [
-        {
-          title: "Avocado Toast",
-          image: "images/temp1.jpeg",
-        },
-        {
-          title: "Chocolate Chip Pancakes",
-          image: "images/temp2.png",
-        },
-        {
-          title: "Avocado Toast",
-          image: "images/temp3.jpeg",
-        },
-        {
-          title: "Avocado Toast",
-          image: "images/temp3.jpeg",
-        },
-      ],
       categories: [
         {
           name: "Entrées",
@@ -60,29 +42,50 @@ Vue.createApp({
           image: "category_images/paleo_bread.jpg",
           toggle: null,
         },
-        ],
-        darkmode: false
+      ],
+      original: [],
+      recipes: [],
+      darkmode: false,
+      setup: false,
+      current: "home",
     };
   },
-  methods: {
-    toggle(cat, index) {
-      if (this.active != null) {
-        this.categories[this.active].toggle = null;
-        console.log(this.categories[this.active].toggle);
-      }
-      cat.toggle = index;
-      this.active = index;
-    },
-    darkMode() {      
-        if ($("body").hasClass("dark")) {
-            $("body").removeClass("dark");
-            $(".dark").css("color", "black");
-            this.darkmode = false;
-        } else {
-            $("body").addClass("dark");
-            $(".dark").css("color", "white");
-            this.darkmode = true;
-        }
+    methods: {
+        selectCategory(cat) {
+            if (!this.setup) {
+                this.current = "category";
+                fetch("./recipes.json")
+                    .then((res) => res.json())
+                    .then((res) => {
+                        this.original = res.recipes;
+                        this.recipes = this.original.filter(
+                          (o) => o.category === cat
+                        );
+                        this.setup = true;
+                    });
+            }
+            this.recipes = [];
+            this.recipes = this.original.filter((o) => o.category === cat);
+            console.log(this.recipes);
+        },
+        toggle(cat, index) {
+            if (this.active != null) {
+                this.categories[this.active].toggle = null;
+            }
+            cat.toggle = index;
+            this.selectCategory(cat.name);
+            this.active = index;
+        },
+        darkMode() {      
+            if ($("body").hasClass("dark")) {
+                $("body").removeClass("dark");
+                $(".dark").css("color", "black");
+                this.darkmode = false;
+            } else {
+                $("body").addClass("dark");
+                $(".dark").css("color", "white");
+                this.darkmode = true;
+            }
+        }     
     }
-  }
 }).mount("#app");
