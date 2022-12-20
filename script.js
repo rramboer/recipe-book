@@ -53,6 +53,7 @@ Vue.createApp({
     methods: {
         selectCategory(cat) {
             this.current = "category";
+            this.current = "category";
             if (!this.setup) {
                 fetch("./recipes.json")
                     .then((res) => res.json())
@@ -63,10 +64,10 @@ Vue.createApp({
                         );
                         this.setup = true;
                     });
-            } else {
+            }
+            else {
                 this.recipes = [];
                 this.recipes = this.original.filter((o) => o.category === cat);
-                console.log(this.recipes);
             }
         },
         toggle(cat, index) {
@@ -90,6 +91,7 @@ Vue.createApp({
         },
         home() {
             this.current = "home";
+            this.categories[this.active].toggle = null;
             this.categories[this.active].toggle = null;
         }
     }
