@@ -1,56 +1,36 @@
 {
-    "recipes": [
-        {
-            "category": "Breakfast",
-            "title": "Pasta with Tomato Cream Sauce",
-            "image": "images/beefstew.png",
-            "ingredients": [
-                "1/2 cup butter",
-                "1/2 cup flour",
-                "1/2 cup milk",
-                "1/2 cup cream",
-                "1/2 cup tomato sauce",
-                "1/2 cup parmesan cheese",
-                "1/2 cup mozzarella cheese",
-                "1/2 cup pasta"
-            ],
-            "instructions": [
-                "Melt butter in a saucepan over medium heat.",
-                "Add flour and cook, stirring constantly, until mixture is smooth and bubbly.",
-                "Gradually add milk and cream, stirring constantly.",
-                "Cook and stir until mixture is thickened and bubbly.",
-                "Stir in tomato sauce and cheeses.",
-                "Cook and stir until cheese is melted.",
-                "Stir in pasta and serve."
-            ]
-        },
-        {
-            "category": "Entrées",
-            "title": "Beef Stew",
-            "image": "images/beefstew.png",
-            "ingredients": [
-                "2 lbs. Grass Fed Stew Meat, Cut into 1” Cubes",
-                "2 Tbsp Avocado Oil",
-                "Sea Salt and Pepper to Taste",
-                "2 cups Organic Beef Broth",
-                "1 Clove Garlic, Minced",
-                "5 Carrots, Peeled and Sliced",
-                "1 Large Onion, Chopped",
-                "3 Stalks Celery, Sliced",
-                "1 Sweet Potato, Cubed",
-                "1 Tsp Dried Parsley",
-                "2 Tsp Adobo Seasoning",
-                "⅛ Cup Worcestershire Sauce"
-            ],
-            "instructions": [
-                "Heat the avocado oil in a skillet.",
-                "Add the meat and cook on medium/low heat until edges are browned.",
-                "Place meat in a slow cooker.",
-                "Add salt and pepper, and stir to coat.",  
-                "Add remaining ingredients and stir to mix.",
-                "Cover and cook on LOW 8-10 hours (or HIGH 4-5 hours).",  
-                "Stir thoroughly before serving."
-            ]
-        }
-    ]
+  "recipes": [
+    {
+      "category": "Miscellaneous",
+      "title": "Chai Exfoliating Face Scrub",
+      "image": "images/chai_exfoliating_face_scrub.png",
+      "notes": "",
+      "ingredients": [
+        "1 cup - Organic Cane Sugar",
+        "1/4 cup - Coconut Oil",
+        "1 Tbsp - Ground Cinnamon",
+        "1/2 tsp - Ground Ginger",
+        "1/4 tsp - Ground Cloves"
+      ],
+      "instructions": [
+        "In a small glass bowl, mix together all ingredients until well-combined.",
+        "Store in a small tightly-capped glass jar for up to 6 months.",
+        "To use, wet your skin. Scoop out a small amount of sugar scrub and gently rub into the skin in a circular motion to exfoliate. Rinse well."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Egg Substitutes",
+      "image": "images/egg_substitutes.png",
+      "notes": "Can also use 1/4 cup unsweetened applesauce or 1/4 cup mashed banana.",
+      "ingredients": [
+        "1 1/4 tsp - Unflavored Grass-Fed Beef Gelatin",
+        "3 Tbsp - Hot Water"
+      ],
+      "instructions": [
+        "Place the gelatin and hot water in a small glass bowl.",
+        "Blend together until it becomes frothy, about 30 seconds. Add immediately to your baking recipe."
+      ]
+    }
+  ]
 }
