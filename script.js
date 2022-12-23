@@ -45,7 +45,7 @@ Vue.createApp({
             ],
             original: [],
             recipes: [],
-            darkmode: false,
+            darkmode: true,
             setup: false,
             current: "home",
         };
@@ -102,8 +102,4 @@ $(window).on('resize', function () {
     else {
         $("#brand").removeClass("flex-grow-1");
     }
-});
-
-$(document).ready(function () {
-    darkMode();
 });
