@@ -48,7 +48,7 @@
 
 /*Navigation Bar*/
 .navbar {
-    border-bottom: 1px solid lightgray;
+    border-bottom: 2px solid lightgray;
     user-select: none;
 }
 
