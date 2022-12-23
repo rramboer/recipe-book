@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
 /*Global Settings*/
 :root {
     --border-radius-mobile: 10px;
@@ -51,9 +53,13 @@
 }
 
 .navbar-brand {
-    font-size: 1.3rem;
     font-weight: bold;
     margin-left: 2vw;
+    font-family: "Shadows Into Light", serif;
+}
+
+#brand {
+    font-size: 2rem;
 }
 
 .navbar-toggler {
