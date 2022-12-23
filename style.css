@@ -3,7 +3,7 @@
     --border-radius-mobile: 10px;
     --border-radius-desktop: 20px;
     --dbackground: #1d1f20;
-    --background: #e8e8e8;
+    --text-color: white;
     --card-background: lightgray;
 }
 
@@ -17,7 +17,7 @@
 /*Dark Mode*/
 .dark {
     background-color: var(--dbackground);
-    color: black;
+    color: var(--text-color);
 }
 
 .material-symbols-outlined {
