@@ -74,27 +74,26 @@ Vue.createApp({
                 this.categories[this.active].toggle = null;
             }
             cat.toggle = index;
-            this.selectCategory(cat.name);
             this.active = index;
+            this.selectCategory(cat.name);
         },
         darkMode() {
             if ($("body").hasClass("dark")) {
                 $("body").removeClass("dark");
                 $(".dark").css("color", "black");
                 $(".cat-title").css("color", "black");
-                $(".cat-title").css("font-weight", "bold");
                 this.darkmode = false;
             } else {
                 $("body").addClass("dark");
                 $(".dark").css("color", "white");
                 $(".cat-title").css("color", "white");
-                $(".cat-title").css("font-weight", "normal");
                 this.darkmode = true;
             }
         },
         home() {
             this.current = "home";
             this.categories[this.active].toggle = null;
+            this.active = null;
         }
     }
 }).mount("#app");

@@ -67,6 +67,9 @@
     font-family: "Shadows Into Light", serif;
     text-align: center;
     user-select: none;
+    font-weight: normal;
+    border-radius: var(--border-radius-mobile);
+    color: var(--text-color);
 }
 
 .navbar-toggler {
