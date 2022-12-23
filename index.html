@@ -25,13 +25,16 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-xxl navbar-dark bg-dark">
-            <a id="brand" class="navbar-brand px-2 order-0" href="#" @click="home()"><strong>Healthy For Life</strong></a>
-            <button class="navbar-toggler order-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
-                aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+            <a id="brand" class="navbar-brand px-2 order-0" href="#" @click="home()"><strong>Healthy For
+                    Life</strong></a>
+            <button class="navbar-toggler order-1" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarToggler" aria-controls="navbarTogglerDemo02" aria-expanded="false"
+                aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div v-if="!darkmode" @click="darkMode()" class="circle order-2 order-xxl-4"><span class="material-symbols-outlined">
+            <div v-if="!darkmode" @click="darkMode()" class="circle order-2 order-xxl-4"><span
+                    class="material-symbols-outlined">
                     dark_mode
                 </span>
             </div>
