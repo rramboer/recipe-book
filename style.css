@@ -115,11 +115,11 @@
 
 .card-title {
     text-align: center;
-    font-size: 1.2vw !important;
+    font-size: 1.3vw !important;
 }
 
 /*Responsive UI*/
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
     .card-title {
         font-size: 2vw !important;
     }
