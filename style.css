@@ -26,10 +26,10 @@
     margin: auto !important;
     margin-top: 8px !important;
     font-variation-settings:
-        'FILL'0,
-        'wght'1000,
-        'GRAD'0,
-        'opsz'48
+        'FILL' 0,
+        'wght' 1000,
+        'GRAD' 0,
+        'opsz' 48
 }
 
 .circle {
@@ -85,6 +85,7 @@
     margin-left: 1vw;
     height: 15vw;
     cursor: pointer;
+    user-select: none;
 }
 
 .card img {
