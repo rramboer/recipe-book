@@ -80,7 +80,7 @@
             class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
             <div class="w-100 cat-title text-bg-dark">{{categories[active].name}}</div>
             <div v-for="recipe in recipes">
-                <div :class="['darkmode'? 'bg-dark border-secondary':'border-primary']" class="card dark h-100">
+                <div :class="['darkmode'? 'bg-dark border-primary':'border-dark']" class="card dark h-100">
                     <a @click="showRecipe(recipe)" class="stretched-link"></a>
                     <img :src="recipe.image" class="card-img-top" alt="...">
                     <div class="card-body">
