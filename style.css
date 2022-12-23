@@ -66,6 +66,7 @@
     font-size: 3rem;
     font-family: "Shadows Into Light", serif;
     text-align: center;
+    user-select: none;
 }
 
 .navbar-toggler {
