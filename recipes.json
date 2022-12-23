@@ -51,10 +51,131 @@
     {
       "category": "Miscellaneous",
       "title": "Grain-Free Baking Powder",
-      "image": "images/",
+      "image": "images/grain_free_baking_powder.png",
       "notes": "",
-      "ingredients": [""],
-      "instructions": [""]
+      "ingredients": [
+        "1/4 cup - Baking Soda",
+        "1/4 cup - Arrowroot Flour",
+        "1/2 cup - Cream of Tartar"
+      ],
+      "instructions": [
+        "Combine and mix all ingredients.",
+        "Store in an airtight canning jar in the fridge."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Homemade Citrus Cleaner",
+      "image": "images/homemade_citrus_cleaner.png",
+      "notes": "Do not use vinegar solutions to clean granite, marble or stone.",
+      "ingredients": ["32 oz - White Vinegar", "3 Lemon Peels"],
+      "instructions": [
+        "Peel the lemons and place into a large glass jar with a lid.",
+        "Pour the entire bottle of vinegar over the top of the lemon peels.",
+        "Screw on the lid and let sit for 2-4 weeks.",
+        "Strain the liquid into a storage container. This is your concentrate. When ready to use, dilute with half vinegar solution and half water into a spray bottle."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Natural Powder Blush",
+      "image": "images/natural_powder_blush.png",
+      "notes": "The amounts of each ingredient to use will vary per person. You will have to experiment to find out what works for you.",
+      "ingredients": ["Arrowroot Flour", "Cocoa Powder", "Ground Hibiscus"],
+      "instructions": [
+        "Start with 1 tsp arrowroot in a small 4 oz mason jar.",
+        "Add cocoa powder and hibiscus until you reach desired shade.",
+        "Measure each time you are adding something so once you find the perfect shade you can reproduce it easily.",
+        "Store in the 4 oz mason jar with a lid and apply with a blush brush."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Paleo Sandwich Bread",
+      "image": "images/paleo_sandwich_bread.png",
+      "notes": "",
+      "ingredients": [
+        "2 cups - Almond Flour",
+        "2 Tbsp - Coconut Flour",
+        "1/4 cup - Flax Seed Meal",
+        "1/2 cup - Tapioca or Arrowroot Flour",
+        "1/2 tsp - Baking Soda",
+        "1 1/2 tsp - Baking Powder",
+        "3/4 tsp - Sea Salt",
+        "3 Eggs, whisked",
+        "2 Egg Whites, whisked",
+        "6 Tbsp - Almond or Coconut Milk",
+        "1/2 Tbsp - Apple Cider Vinegar",
+        "1/4 cup - Coconut Oil, melted, cooled"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees and line a 4” x 8” loaf pan with parchment paper.",
+        "In a large bowl, combine all dry ingredients and set aside.",
+        "In a separate bowl, whisk together the eggs and egg whites, milk, vinegar and coconut oil.",
+        "Immediately stir the dry mixture into the wet mixture, stirring until moistened, but do not overmix.",
+        "Transfer the batter into the loaf pan and spread out evenly.",
+        "Bake for 60 minutes or until loaf has risen and top is a deep golden brown.",
+        "Cool on a wire rack for about 30 minutes, then remove from the pan by holding the sides of the parchment paper and continue to cool on the rack until fully cooled.",
+        "Slice as desired and store tightly in the fridge for up to 4 days. Bread can also be frozen."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Pumpkin Seeds",
+      "image": "images/pumpkin_seeds.png",
+      "notes": "",
+      "ingredients": ["Pumpkin Seeds", "Coconut Oil"],
+      "instructions": [
+        "Remove and wash seeds.",
+        "Pat dry",
+        "Mix with melted coconut oil.",
+        "Spread flat on a cookie sheet on unbleached parchment paper",
+        "Bake at 275 degrees for 1 hour."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Strawberry Freezer Jam",
+      "image": "images/strawberry_freezer_jam.png",
+      "notes": "Recipe yields 6 half-pint jars.",
+      "ingredients": [
+        "6 Mason Jars and Lids",
+        "4 cups - Lightly Blended Strawberries",
+        "1 cup - Organic Cane Sugar",
+        "Dab of Coconut Oil (optional)",
+        "Pomona's Universal Low Sweetener Pectin (2 tsp pectin powder and 2 tsp calcium water)"
+      ],
+      "instructions": [
+        "Before beginning, make calcium water:  Mix 1/2 tsp calcium powder (smaller packet in Pamona's box) with 1/2 cup water in a jar with a lid.",
+        "Wash strawberries and cut off tops.",
+        "Rinse jars and fill with hot water.  Set aside.",
+        "Pulse blend the strawberries in the blender until it reaches desired consistency.",
+        "Pour strawberry puree into the saucepan, add 2 tsp calcium water, and stir.",
+        "Measure sugar into a separate bowl. Add 2 tsp pectin powder and thoroughly stir. Turn the saucepan burner up to med/high.",
+        "Bring strawberry puree to a boil, while stirring. Add sugar/pectin mixture and a dab of coconut oil and stir vigorously for 2 minutes to dissolve pectin. Return to a boil and remove from heat.",
+        "Pour water out of jars. Use a funnel to fill jars to 1/4 inches from the top.",
+        "Keep jars on the counter until they reach room temperature. Screw lids onto the jars, then freeze until ready to use. After removing from the freezer, store in the refrigerator."
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "title": "Taco Seasoning",
+      "image": "images/taco_seasoning.png",
+      "notes": "",
+      "ingredients": [
+        "1 Tbsp - Chili Powder",
+        "1/4 tsp - Garlic Powder",
+        "1/4 tsp - Onion Powder",
+        "1/4 tsp - Dried Oregano",
+        "1/2 tsp - Paprika",
+        "1 1/2 tsp - Ground Cumin",
+        "1 tsp - Sea Salt",
+        "1 tsp - Pepper"
+      ],
+      "instructions": [
+        "Combine and mix all ingredients.",
+        "Store in a small Mason jar with a lid."
+      ]
     },
     {
       "category": "",
