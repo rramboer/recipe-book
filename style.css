@@ -69,12 +69,6 @@
     margin-left: auto;
 }
 
-/*Page Organization*/
-.home,
-.cat {
-    padding-top: 5vw;
-}
-
 /*Card View*/
 .container-fluid {
     max-width: calc(95vw) !important;
