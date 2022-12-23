@@ -81,10 +81,14 @@ Vue.createApp({
             if ($("body").hasClass("dark")) {
                 $("body").removeClass("dark");
                 $(".dark").css("color", "black");
+                $(".cat-title").css("color", "black");
+                $(".cat-title").css("font-weight", "bold");
                 this.darkmode = false;
             } else {
                 $("body").addClass("dark");
                 $(".dark").css("color", "white");
+                $(".cat-title").css("color", "white");
+                $(".cat-title").css("font-weight", "normal");
                 this.darkmode = true;
             }
         },
