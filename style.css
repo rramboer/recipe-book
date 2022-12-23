@@ -47,6 +47,7 @@
 /*Navigation Bar*/
 .navbar {
     border-bottom: 1px solid lightgray;
+    user-select: none;
 }
 
 .navbar-brand {
