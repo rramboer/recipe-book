@@ -66,7 +66,7 @@
             </div>
         </div>
         <div v-if="current === 'category'"
-            class="cat container-fluid row row-cols-3 row-cols-xs-3 row-cols-md-5 row-cols-xl-6 gy-5">
+            class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4  g-4 g-lg-5">
             <div v-for="(recipe,r) in recipes">
                 <div :class="['darkmode'? 'bg-secondary border-secondary':'border-dark']" class="card dark h-100">
                     <img :src="recipe.image" class="card-img-top" alt="...">
