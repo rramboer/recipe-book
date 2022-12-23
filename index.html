@@ -21,6 +21,16 @@
 
     <title>Healthy For Life</title>
 </head>
+<script>
+    $(window).on('resize', function () {
+            if ($(window).width() < 1400) {
+                $('#brand').addClass('flex-grow-1');
+            }
+            else {
+                $("#brand").removeClass("flex-grow-1");
+            }
+        });
+</script>
 
 <body class="dark">
     <div id="app">
@@ -68,11 +78,39 @@
         <div v-if="current === 'category'"
             class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
             <div class="w-100 cat-title text-bg-secondary">{{categories[active].name}}</div>
-            <div v-for="(recipe,r) in recipes">
+             <div v-for="recipe in recipes">
                 <div :class="['darkmode'? 'bg-secondary border-secondary':'border-dark']" class="card dark h-100">
+                    <a @click="showRecipe(recipe)" class="stretched-link"></a>
                     <img :src="recipe.image" class="card-img-top" alt="...">
                     <div class="card-body">
                         <p class="card-title"><strong>{{recipe.title}}</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div v-if="current === 'recipe'" class="recipe">
+            <div class="row">
+                <div id="back" class="col-sm-12 col-xs-12">
+                    <button @click="backToRecipe()" type="button" class="btn btn-light">Back to
+                        All
+                        Recipes</button>
+                </div>
+            </div>
+
+            <div id="display" class="row">
+                <div class="col-md-6 col-sm-12 text-center d-flex justify-content-center flex-column">
+                    <h1 id="rec-title">{{rtitle}}</h1>
+                    <h5 id="rec-notes">{{rnotes}}</h5>
+                    <img id="rec-image" :src="rimage">
+                </div>
+                <div class="col-md-6 col-sm-12 d-flex flex-column">
+                    <h1 id="ingredients">Ingredients</h1>
+                    <div v-for="ingredient in ringredients">
+                        <ul><li id="rec-text">{{ingredient}}</li></ul>
+                    </div>
+                    <h1 id="instructions">Instructions</h1>
+                    <div>
+                        <ol><li  id="rec-text" v-for="instruction in rinstructions">{{instruction}}</li></ol>
                     </div>
                 </div>
             </div>
