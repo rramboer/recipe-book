@@ -93,7 +93,7 @@
         <div v-if="current === 'recipe'" class="recipe">
             <div class="row">
                 <div id="back" class="col-sm-12 col-xs-12">
-                    <button @click="backToRecipe()" type="button" class="btn btn-light">Back to
+                    <button @click="backToRecipe()" type="button" class="btn btn-secondary">Back to
                         {{categories[active].name}}</button>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                     <h5 id="rec-notes">{{rnotes}}</h5>
                     <img id="rec-image" :src="rimage">
                 </div>
-                <div class="col-md-6 col-sm-12 d-flex flex-column">
+                <div class="col-md-6 col-sm-12 flex-column">
                     <h1 id="ingredients">Ingredients</h1>
                     <div v-for="ingredient in ringredients">
                         <ul>
