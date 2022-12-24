@@ -154,12 +154,18 @@ body {
     -webkit-text-stroke-width: 0.1px;
     -webkit-text-stroke-color: white;
     font-weight: bold;
+
 }
 
 #rec-image {
     margin-left: 10%;
     margin-right: 10%;
     width: 80%;
+}
+
+#rec-notes {
+    color: gray;
+    font-size: 1rem;
 }
 
 #ingredients,
@@ -171,7 +177,11 @@ body {
 }
 
 .recipe ol li {
-    margin-top: 5px;
+    margin-top: 10px;
+}
+
+.recipe ul li {
+    margin-top: 0px;
 }
 
 #display {

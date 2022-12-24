@@ -54,7 +54,9 @@ Vue.createApp({
       rnotes: null,
       ringredients: null,
       rinstructions: null,
-      select: ""
+      select: "",
+      /* DARK MODE TOGGLE */
+      darkMode_ENABLED: false
     };
   },
   methods: {

@@ -43,12 +43,13 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div v-if="!darkmode" @click="darkMode()" class="circle order-2 order-xxl-4"><span
+            <div v-if="!darkmode && darkMode_ENABLED" @click="darkMode()" class="circle order-2 order-xxl-4"><span
                     class="material-symbols-outlined">
                     dark_mode
                 </span>
             </div>
-            <div v-else @click="darkMode()" class="circle order-2 order-xxl-4"><span class="material-symbols-outlined">
+            <div v-if="darkmode && darkMode_ENABLED" @click="darkMode()" class="circle order-2 order-xxl-4"><span
+                    class="material-symbols-outlined">
                     light_mode
                 </span>
             </div>
@@ -98,7 +99,7 @@
             </div>
 
             <div id="display" class="row">
-                <div class="col-md-6 col-sm-12 text-center d-flex justify-content-center flex-column">
+                <div class="col-md-6 col-sm-12 text-center d-flex flex-column">
                     <h1 id="rec-title">{{rtitle}}</h1>
                     <h5 id="rec-notes">{{rnotes}}</h5>
                     <img id="rec-image" :src="rimage">
