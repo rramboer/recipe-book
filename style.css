@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Shadows+Into+Light&display=swap');
 
 /*Global Settings*/
 :root {
@@ -32,10 +32,10 @@ body {
     margin: auto !important;
     margin-top: 8px !important;
     font-variation-settings:
-        'FILL'0,
-        'wght'1000,
-        'GRAD'0,
-        'opsz'48
+        'FILL' 0,
+        'wght' 1000,
+        'GRAD' 0,
+        'opsz' 48
 }
 
 .circle {
@@ -147,12 +147,13 @@ body {
 #back button {
     float: right;
     margin-right: 5vw;
-    margin-top:1vh;
+    margin-top: 1vh;
 }
 
 #rec-title {
-    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-width: 0.1px;
     -webkit-text-stroke-color: white;
+    font-weight: bold;
 }
 
 #rec-image {
@@ -163,9 +164,10 @@ body {
 
 #ingredients,
 #instructions {
-    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-width: 0.3px;
     -webkit-text-stroke-color: white;
     margin-left: 1vw;
+    font-weight: bold;
 }
 
 .recipe ol li {
@@ -173,11 +175,13 @@ body {
 }
 
 #display {
-    margin:3vw;
+    margin: 3vw;
+    font-family: "Noto Sans", sans-serif;
 }
 
-#rec-text{
-    font-size:2vh;
+#rec-text {
+    font-size: 2vh;
+    font-weight: normal;
 }
 
 /*Responsive UI*/
@@ -209,11 +213,12 @@ body {
     }
 }
 
-@media (max-width:768px){
-    #ingredients{
-        margin-top:5vh;
+@media (max-width:768px) {
+    #ingredients {
+        margin-top: 5vh;
     }
-    #rec-text{
+
+    #rec-text {
         font-size: 2.5vh;
     }
 }
