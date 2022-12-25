@@ -189,6 +189,7 @@ body::-webkit-scrollbar {
     -webkit-text-stroke-color: white;
     margin-left: 1vw;
     font-weight: bold;
+    margin-top: 3vw;
 }
 
 .recipe ol li {
