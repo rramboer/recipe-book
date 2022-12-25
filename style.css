@@ -20,6 +20,18 @@ body {
     padding-bottom: 50px;
 }
 
+body::-webkit-scrollbar {
+    display: none;
+    /* for Chrome, Safari, and Opera */
+}
+
+.scrollbar_remove {
+    -ms-overflow-style: none;
+    /* for Internet Explorer, Edge */
+    scrollbar-width: none;
+    /* for Firefox */
+}
+
 /*Dark Mode*/
 .dark {
     background-color: var(--dbackground);
@@ -136,6 +148,10 @@ body {
 }
 
 /*Recipe*/
+.recipe {
+    overflow-x: hidden;
+}
+
 .recipe .d-flex {
     gap: 30px;
 }
