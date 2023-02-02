@@ -1,6 +1,318 @@
 {
   "recipes": [
     {
+      "category": "Appetizers Sides and Salads",
+      "title": "Applesauce",
+      "image": "images/applesauce.png",
+      "notes": "",
+      "ingredients": [
+        "16-18 Apples",
+        "Desired spices: Cinnamon, Nutmeg, Allspice, Ginger"
+      ],
+      "instructions": [
+        "Peel and core apples and cut into chunks. Place in a large pot on the stove with 1” of water in the bottom of the pot.",
+        "Cover and boil until soft",
+        "Use a masher tool or mixer to blend apples. Add desired spices and mix.",
+        "Freezes well in glass jars after they are cooled."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Asian Slaw",
+      "image": "images/asian_slaw.png",
+      "notes": "",
+      "ingredients": [
+        "Slaw:",
+        "1 pound - Rainbow Slaw (can buy pre-packaged in produce section - any mix is fine)",
+        "1 1/2 cups - Almonds or Macadamia Nuts, Crushed",
+        "1/4 cup - Sesame Seeds",
+        "1 cup - Green Onion, Chopped",
+        "1 cup - Fresh Cilantro Leaves, Chopped",
+        "4 - Mandarin Oranges, peeled and Chopped",
+        "Dressing:",
+        "1/4 cup - Olive Oil",
+        "2 Tbsp - Coconut Aminos",
+        "2 Tbsp - White Wine Vinegar",
+        "1 Tbsp - Raw Honey",
+        "1 tsp - Ground Ginger",
+        "Sea Salt",
+        "Black Pepper"
+      ],
+      "instructions": [
+        "Combine all slaw ingredients in a large bowl, mix and set aside.",
+        "Combine all dressing ingredients in a medium bowl and mix well. Drizzle over the slaw mixture. Toss well to coat.",
+        "Refrigerate before serving."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Asparagus & Mushroom Salad",
+      "image": "images/asparagus_and_mushroom_salad.png",
+      "notes": "",
+      "ingredients": [
+        "5 1/2 oz - Asparagus Spears",
+        "1 Tbsp - Honey Mustard",
+        "1/4 cup - Orange Juice",
+        "2 Tbsp - Lemon Juice",
+        "1 Tbsp - Lime Juice",
+        "1 Tbsp - Orange Zest",
+        "2 tsp - Lemon Zest",
+        "2 tsp - Lime Zest",
+        "2 tsp - Minced Garlic",
+        "1/4 cup - Local Raw Honey",
+        "14 oz - Mushrooms, Halved",
+        "5 1/2 oz - Spinach or Arugula"
+      ],
+      "instructions": [
+        "Trim ends of asparagus and cut in half on diagonal. Place in a saucepan of boiling water and cook for 1 minute. Drain and plunge into cold water. Set aside.",
+        "In a separate saucepan, place mustard, juices, zests, garlic and honey. Season with pepper. Bring to a boil, then reduce heat and add the mushrooms. Toss for 2 minutes. Cool. Remove the mushrooms from the sauce with a slotted spoon.",
+        "Return the sauce to the heat, bring to a boil, then reduce heat and simmer 3-5 minutes until reduced and syrupy. Cool slightly.",
+        "Toss the mushrooms, spinach, and drained asparagus together. Serve drizzled with sauce."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Avocado Citrus Salad",
+      "image": "images/avocado_citrus_salad.png",
+      "notes": "",
+      "ingredients": [
+        "1 cup - Cucumber, Sliced Finely",
+        "1/4 cup - Red Onion, Sliced Finely",
+        "1 - Large Grapefruit, Sectioned (reserve juice)",
+        "1 Tbsp - Olive Oil",
+        "2 tsp - Local Raw Honey",
+        "4 1/2 tsp - Jalapeno Pappers, Seeded and Minced",
+        "1/4 tsp - Sea Salt",
+        "2 - Avocados, Halved, Pitted, Peeled, and Sliced",
+        "Chopped Lettuce Leaves"
+      ],
+      "instructions": [
+        "Combine cucumber and onion in a medium bowl.",
+        "In a small bowl, combine 3 Tbsp grapefruit juice, oil, honey, peppers and salt until well blended. Pour mixture over cucumber mix and toss.",
+        "Add grapefruit and avocado and gently toss again.",
+        "Divide lettuce onto plates and top with an equal portion of mixture."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Baked Sweet Potatoes",
+      "image": "images/baked_sweet_potatoes.png",
+      "notes": "",
+      "ingredients": [
+        "2 - Large Sweet Potatoes",
+        "1 tsp - Coconut Oil, melted",
+        "1/4 tsp - Onion Powder",
+        "1/4 tsp - Garlic Powder",
+        "1/2 tsp - Ground Cinnamon",
+        "Sea Salt and Black Pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees.",
+        "Peel the sweet potatoes and chop into 1 inch pieces. In a medium sized bowl, toss the sweet potato pieces with the coconut oil to coat them evenly.",
+        "In a small mixing bowl, combine the rest of the ingredients. Mix and add to the sweet potatoes. Toss to spread the spices evenly.",
+        "Place the potatoes evenly on a baking sheet and bake for about 30 minutes or until potatoes are fork tender."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Balsamic Brussel Sprouts",
+      "image": "images/balsamic_brussel_sprouts.png",
+      "notes": "",
+      "ingredients": [
+        "1 Stalk or Bag of Fresh Brussel Sprouts, Washed and Halved",
+        "4-5 Tbsp - Avocado Oil",
+        "1/3 Cup Balsamic Vinegar"
+      ], 
+      "instructions": [
+        "Heat oil in a large skillet on low/medium heat.",
+        "Add brussel sprouts.",
+        "Cook for about 12 minutes, stirring frequently. Add more oil if it begins to stick to the pan.",
+        "Add balsamic vinegar and stir for 1 more minute.",
+        "Remove from heat and serve warm."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Braised Cabbage and Apples",
+      "image": "images/braised_cabbage_and_apples.png",
+      "notes": "",
+      "ingredients": [
+        "1 tsp - Coconut Oil",
+        "1 - Large Leek, chopped",
+        "1 tsp - Minced Garlic",
+        "1 tsp - Dried Thyme",
+        "Sea Salt",
+        "Black Pepper",
+        "3 - Apples (skin on), cored and sliced into thin wedges",
+        "1/2 cup - Dried Cherries",
+        "1 1/2 cup - Vegetable or Chicken Broth",
+        "1 - Head of Cabbage, loosely chopped"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees.",
+        "Heat coconut oil oven medium-low heat. Add leeks and saute 3-5 minutes until softened. Stir in garlic, thyme, salt and pepper to taste and saute for 1 more minute.",
+        "Add the apples, cherries and broth and stir to combine. Transfer to a large rectangle baking dish. Fold in the cabbage, cover the dish and place in the oven for 40 minutes."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Broccoli Salad",
+      "image": "images/broccoli_salad.png",
+      "notes": "",
+      "ingredients": [
+        "3-4 Bunches Broccoli",
+        "3/4 lb. - Uncured Turkey Bacon (12oz)",
+        "1/2 cup - Chopped Almonds",
+        "1/2 cup - Green Onion, chopped",
+        "Dressing:",
+        "1/2 cup - Avocado Mayonnaise",
+        "1/3 cup - Local Raw Honey",
+        "2 tbsp - Apple Cider Vinegar"
+      ],
+      "instructions": [
+        "Mix dressing, pour over cooked bacon and broccoli.",
+        "Add other ingredients and mix well."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Brussel Sprout Pecan Salad",
+      "image": "images/brussel_sprout_pecan_salad.png",
+      "notes": "",
+      "ingredients": [
+        "1 Tbsp - Coconut Oil",
+        "1 pound - Brussel Sprouts",
+        "1/2 cup - Raisins",
+        "1/2 cup - Pecans, crushed",
+        "Optional: Cooked Turkey Bacon, chopped finely",
+        "Balsamic Vinegar"
+      ],
+      "instructions": [
+        "In a skillet, melt coconut oil and saute sprouts until slightly browned and tender.",
+        "Cool the sprouts and mix in raisins and pecans (and bacon if desired).",
+        "Top with Balsamic vinegar and salt to taste."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Butternut Squash Casserole",
+      "image": "images/butternut_squash_casserole.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Butternut Squash, peeled, halved, seeded and thinly sliced",
+        "1 - Onion, chopped",
+        "1/3 cup - Organic Apple Juice",
+        "2 Tbsp - Coconut Oil",
+        "2 Tbsp - Local Raw Honey",
+        "1/4 cup - Shelled Pistachios, crushed",
+        "1/4 tsp - Cumin Powder",
+        "1/4 tsp - Turmeric Powder"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. Melt coconut oil in a glass dish in the oven. Place squash in a casserole dish and cover with onions. Sprinkle spices on top.",
+        "In a small bowl, whisk together juice, honey, coconut oil and pistachios. Pour over squash and bake until tender, about 1 hour."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Candied Carrots",
+      "image": "images/candied_carrots.png",
+      "notes": "",
+      "ingredients": [
+        "8 - Large Carrots, peeled and chopped",
+        "4 - Dates, pitted and chopped",
+        "2 Tbsp - Coconut Oil",
+        "Sea Salt to taste"
+      ],
+      "instructions": [
+        "Steam the carrots and dates for 7-8 minutes. Remove from heat.",
+        "Add coconut oil and salt. Enjoy!"
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Cauliflower Salad",
+      "image": "images/cauliflower_salad.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Head Cauliflower, cut into bite sized pieces and steamed until tender",
+        "2 - Turnips, peeled, chopped and steamed until tender",
+        "2 - Stalks Celery, chopped small",
+        "1 - Small Red Onion, minced",
+        "1 tsp - Dried Dill",
+        "1 tsp - Dried Parsley",
+        "2 Tbsp - Apple Cider Vinegar",
+        "1 1/2 cups - Avocado Mayo or Unsweetened Plain Coconut Milk Yogurt",
+        "1 Tbsp - Dijon Mustard",
+        "1 tsp - Celery Seeds",
+        "1/2 tsp - Black Pepper",
+        "1/2 tsp - Sea Salt",
+        "Juice of Half a Lemon"
+      ],
+      "instructions": [
+        "Steam the cauliflower and turnips together in the same pot and cool.",
+        "In a large bowl, toss together the cauliflower, turnips, celery, onion, dill and parsley. Set aside.",
+        "In another bowl, whisk together vinegar, mayo/yogurt, mustard, celery seeds, pepper, salt and lemon juice. Mix well.",
+        "Pour the mixture over the veggies and mix until evenly coated. Chill for a couple hours."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Celery Wagons",
+      "image": "images/celery_wagons.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Stalk Celery",
+        "1 - Carrot, peeled and slices",
+        "Almond Butter",
+        "Fruit “People” of Choice",
+        "Toothpicks"
+      ],
+      "instructions": [
+        "Wash celery and cut into 2-3” pieces.",
+        "Stick a toothpick through each end of the celery piece and slide a carrot onto each end for the wheels. Spread almond butter onto the celery.",
+        "Add your drivers and drive it into your mouth!!"
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Cilantro Cauliflower Rice",
+      "image": "images/cilantro_cauliflower_rice.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Head Cauliflower or 1 Bag Frozen Riced Cauliflower",
+        "1 Tbsp - Coconut Oil",
+        "Sea Salt and Black Pepper to taste",
+        "1/4 cup - Fresh Cilantro, finely chopped"
+      ],
+      "instructions": [
+        "Shred the cauliflower with a grater.",
+        "In a large skillet over medium heat, melt the coconut oil and place the shredded cauliflower into the skillet. Add salt and pepper to taste.",
+        "Saute for about 10 minutes, stirring gently to be sure it cooks through. Remove cauliflower from heat, add cilantro and mix well."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Collard Greens",
+      "image": "images/collard_greens.png",
+      "notes": "",
+      "ingredients": [
+        "2 - Bunches Collard Greens",
+        "1 - Small Onion",
+        "3 - Garlic Cloves",
+        "4 - Full Pieces Uncured Turkey Bacon",
+        "2 cups - Organic Chicken Broth",
+        "3 Tbsp - Coconut Oil",
+        "Sea Salt and Pepper to taste"
+      ],
+      "instructions": [
+        "Cook bacon and set aside. Chop in small pieces when cool.",
+        "Wash greens and chop them into small pieces. Chop the onion and garlic into fine pieces.",
+        "Add coconut oil to a large skillet and heat to melt it. Add onion, garlic and bacon and cook on medium/low until the onion is soft.",
+        "Add chicken broth, collard greens, and salt and pepper and cover. Simmer for 1 hour and 30 minutes."
+      ]
+    },
+    {
       "category": "Miscellaneous",
       "title": "Chai Exfoliating Face Scrub",
       "image": "images/chai_exfoliating_face_scrub.png",
