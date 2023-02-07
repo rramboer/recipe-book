@@ -24,11 +24,11 @@
       "ingredients": [
         "Slaw:",
         "1 pound - Rainbow Slaw (can buy pre-packaged in produce section - any mix is fine)",
-        "1 1/2 cups - Almonds or Macadamia Nuts, Crushed",
+        "1 1/2 cups - Almonds or Macadamia Nuts, crushed",
         "1/4 cup - Sesame Seeds",
-        "1 cup - Green Onion, Chopped",
-        "1 cup - Fresh Cilantro Leaves, Chopped",
-        "4 - Mandarin Oranges, peeled and Chopped",
+        "1 cup - Green Onion, chopped",
+        "1 cup - Fresh Cilantro Leaves, chopped",
+        "4 - Mandarin Oranges, peeled and chopped",
         "Dressing:",
         "1/4 cup - Olive Oil",
         "2 Tbsp - Coconut Aminos",
@@ -76,14 +76,14 @@
       "image": "images/avocado_citrus_salad.png",
       "notes": "",
       "ingredients": [
-        "1 cup - Cucumber, Sliced Finely",
-        "1/4 cup - Red Onion, Sliced Finely",
-        "1 - Large Grapefruit, Sectioned (reserve juice)",
+        "1 cup - Cucumber, sliced finely",
+        "1/4 cup - Red Onion, sliced finely",
+        "1 - Large Grapefruit, sectioned (reserve juice)",
         "1 Tbsp - Olive Oil",
         "2 tsp - Local Raw Honey",
-        "4 1/2 tsp - Jalapeno Pappers, Seeded and Minced",
+        "4 1/2 tsp - Jalapeno Pappers, seeded and minced",
         "1/4 tsp - Sea Salt",
-        "2 - Avocados, Halved, Pitted, Peeled, and Sliced",
+        "2 - Avocados, halved, pitted, peeled, and sliced",
         "Chopped Lettuce Leaves"
       ],
       "instructions": [
@@ -119,7 +119,7 @@
       "image": "images/balsamic_brussel_sprouts.png",
       "notes": "",
       "ingredients": [
-        "1 Stalk or Bag of Fresh Brussel Sprouts, Washed and Halved",
+        "1 Stalk or Bag of Fresh Brussel Sprouts, washed and halved",
         "4-5 Tbsp - Avocado Oil",
         "1/3 Cup Balsamic Vinegar"
       ], 
@@ -504,6 +504,268 @@
         "Use a slated spoon to remove cauliflower pieces from the skillet and set on a plate lined with paper towel.",
         "Repeat with the remaining cauliflower.",
         "Season with salt and pepper to taste."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Garlic Rosemary Dinner Rolls",
+      "image": "images/garlic_rosemary_dinner_rolls.png",
+      "notes": "",
+      "ingredients": [
+        "1/2 Cup - Almond Flour",
+        "3/4 Cup + 2 Tbsp - Tapioca Flour",
+        "5 Tbsp - Coconut Flour (divided 3 Tbsp + 2 Tbsp)",
+        "1 Tsp - Garlic Powder",
+        "1 Tsp - Dried Chives",
+        "3/4 Tsp - Dried Rosemary",
+        "3/4 Tsp - Sea Salt",
+        "1 Tsp - Baking Powder",
+        "1/2 Tsp - Baking Soda",
+        "1/3 Cup - Coconut Oil, melted",
+        "1/3 Cup - Warm Water (not hot)",
+        "1 Tbsp - Apple Cider Vinegar",
+        "1 Egg, Room Temperature"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees and line a cookie sheet with parchment paper.",
+        "Combine dry ingredients in a large bowl with just 3 Tbsp of the coconut flour.",
+        "Melt the coconut oil. Set about 1 Tbsp aside for later.",
+        "In a separate bowl, combine the rest of the melted coconut oil, water and vinegar.",
+        "Stir the wet mixture into the dry mixture and combine.",
+        "Whisk the egg and add to the mixture. Then stir in the last 2 Tbsp of coconut flour one at a time, allowing the dough to set after each one.",
+        "Wet your hands with warm water. Shape the dough into about 8 balls and place spaced apart on the baking sheet. Lightly brush the tops of each roll with melted coconut oil.",
+        "Bake for 25 minutes or until golden brown. Serve Warm."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Grain Free Stuffing",
+      "image": "images/grain_free_stuffing.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "1 Medium Onion, diced",
+        "3 Stalks Celery, diced",
+        "1 Apple, Cored and diced",
+        "4 Large Dates, chopped",
+        "2 Tsp - Dried Parsley",
+        "4 Tsp - Adobo Seasoning",
+        "1/2 Tsp - Sea Salt",
+        "1/2 Tsp - Black Pepper",
+        "2 Cups Almond Flour",
+        "3 Eggs, Whisked"
+      ],
+      "instructions": [
+        "Preheat oven to 350 degrees.",
+        "Heat the coconut oil in an oven safe skillet over medium heat.",
+        "Add the onion, celery, apple, dates, parsley, adobo seasoning, salt and pepper and saute until soft, about 8 minutes.",
+        "Remove from heat. Stir in almond flour and mix well. Then stir in eggs and mix well.",
+        "Bake for 35-40 minutes, or until browned on top."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Guacamole",
+      "image": "images/guacamole.png",
+      "notes": "Goes great with the recipe for 'Cracked Pepper and Chive Crackers",
+      "ingredients": [
+        "4 Avocados",
+        "Juice from 2 Limes",
+        "1/2 White Onion, diced",
+        "Garlic Salt to taste",
+        "Cilantro, chopped"
+      ],
+      "instructions": [
+        "Mix together and enjoy."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Kohlrabi Bosc Pear Salad",
+      "image": "images/kohlrabi_bosc_pear_salad.png",
+      "notes": "",
+      "ingredients": [
+        "1/2 cup - Shelled Pistachios, chopped",
+        "2 Kohlrabi, peeled and grated",
+        "1 Bosc Pear, cored and grated",
+        "1/2 tsp - Lemon Zest",
+        "1 Tbsp - Lemon Juice",
+        "1 Tbsp - White Balsamic Vinegar Sea Salt",
+        "Sea Salt",
+        "1 Tbsp - Avocado Oil or Olive Oil",
+        "1/2 cup - Mint Leaves, optional"
+      ],
+      "instructions": [
+        "In a small bowl, toss the pistachios with the oil and set aside. Toss the rest of the ingredients in a bowl.",
+        "Add the nuts and enjoy!"
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Oven Roasted Veggies",
+      "image": "images/oven_roasted_veggies.png",
+      "notes": "",
+      "ingredients": [
+        "3 - Medium Sweet Potatoes, peeled and cut into 1 inch pieces",
+        "2 - Medium Carrots, halved lengthwise and cut into pieces",
+        "2 - Beets, cut into 1” pieces",
+        "1 - Medium Onion, sliced",
+        "Optional: Rutabaga, Parsnips or Winter Squash (skinned and cubed)",
+        "1/4 cup - Coconut Oil, melted",
+        "1 tsp - Basil and/or Oregano (or mixed)",
+        "1 Tbsp - Lemon Juice",
+        "3 tsp - Minced Garlic",
+        "1 tsp - Sea Salt",
+        "1/2 tsp - Black Pepper"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "In an oiled 9x13 baking dish, combine potatoes, carrots, beets, onion and other optional ingredients.",
+        "In a separate bowl, combine oil, herb, lemon juice, garlic, salt and pepper. Drizzle over veggies, toss to coat.",
+        "Bake covered for 45 min, stirring once.",
+        "Increase oven temperature to 450 degrees. Bake uncovered about 20 minutes or until veggies are tender and brown on edges, stirring occasionally."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Potato Salad",
+      "image": "images/potato_salad.png",
+      "notes": "",
+      "ingredients": [
+        "4 - Hard Boiled Eggs (no yolks)",
+        "3 pounds - Organic Gold Potatoes",
+        "2 Tbsp - Apple Cider Vinegar",
+        "1 1/4 cup - Avocado Mayonnaise",
+        "1 tsp - Celery Salt",
+        "1 tsp - Dijon Mustard",
+        "1/3 cup - Relish",
+        "2 - Stalks Celery, chopped",
+        "1/2 - Red Onion, chopped",
+        "Sea Salt/Pepper",
+        "Paprika"
+      ],
+      "instructions": [
+        "Boil eggs for 12 minutes, rinse and set aside to cool.",
+        "Peel, chop and boil potatoes in a large stock pot until tender (about 8-10 min). Drain and return to the pot. Drizzle with vinegar and set aside to cool for 25 minutes.",
+        "In a medium bowl, whisk together mayo, celery salt, mustard and relish. Add to potatoes and mix well.",
+        "Then add in celery, onion and hard boiled eggs (chopped). Toss until combined. Season with salt and pepper, and top with a sprinkle of paprika.",
+        "Refrigerate for at least 2 hours and serve cold."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Roasted Carrots and Fennel",
+      "image": "images/roasted_carrots_and_fennel.png",
+      "notes": "",
+      "ingredients": [
+        "3 - Medium Fennel Bulbs, stalks discarded, chopped into 1.2 inch thick wedges",
+        "6 - Carrots, peeled and cut lengthwise into 3” pieces",
+        "6 - Cloves Garlic, peeled",
+        "1/2 tsp - Dried Thyme",
+        "1/2 tsp - Dried Rosemary",
+        "2 Tbsp - Fresh Squeezed Orange Juice",
+        "1 1/2 Tbsp - Balsamic Vinegar",
+        "2 Tbsp - Avocado Oil",
+        "1 1/2 tsp - Sea Salt",
+        "Black Pepper to taste"
+      ],
+      "instructions": [
+        "Preheat the oven to 425 degrees.",
+        "In a large bowl, toss all ingredients together. Spread in a single layer in a roasting pan.",
+        "Bake for about 20 minutes."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Roasted Leek Spinach Salad with Poached Eggs",
+      "image": "images/roasted_leek_spinach_salad_with_poached_eggs.png",
+      "notes": "",
+      "ingredients": [
+        "4 - Medium Leeks, cut into 1 in. chunks",
+        "3 Tbsp - Coconut Oil, divided",
+        "2 Tbsp - Lemon Juice",
+        "4 tsp - Honey Mustard",
+        "6 - Large Eggs",
+        "8 cups - Fresh Spinach",
+        "2 cups sliced Mushrooms"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees.",
+        "Toss leeks with 2 Tbsp coconut oil in a glass dish. Season with salt and pepper if desired. Roast in the oven for 45 minutes or until golden, stirring several times.",
+        "Meanwhile, whisk together lemon juice, mustard and remaining 1 Tbsp coconut oil in a small bowl.",
+        "Fill a large skillet with 2 inches of water and bring to a boil. Add eggs and reduce heat to med-low. Poach eggs for 5-7 minutes, spooning simmering water over eggs.",
+        "Toss spinach with mushrooms, roasted leeks, and dressing in a large bowl.",
+        "Divide salad among 6 plates and top each with one poached egg."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Roasted Squash, Parsnips and Leeks",
+      "image": "images/roasted_squash_parsnips_and_leeks.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Butternut Squash, peeled and diced",
+        "6 - Parsnips, peeled and sliced",
+        "1 - Leek, sliced",
+        "1 tsp - Cumin",
+        "1 tsp - Coriander",
+        "1/4 tsp - Cinnamon",
+        "1/4 tsp - Ground Ginger",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Black Pepper",
+        "2 Tbsp - Melted Coconut Oil, or Avocado Oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Line a baking sheet with parchment paper.",
+        "In a large bowl, combine all ingredients and mix well.",
+        "Spread out the mixture on the baking sheet and roast for 45 minutes."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Sesame Asparagus",
+      "image": "images/sesame_asparagus.png",
+      "notes": "",
+      "ingredients": [
+        "3/4 lb. - Asparagus Spears, washed",
+        "1 Tbsp - Coconut Oil",
+        "1 Tbsp - Sesame Seeds",
+        "(Opt.) 1 cup - Sliced Fresh Mushrooms",
+        "1 tsp - Lemon Juice",
+        "1/4 tsp - Olive Oil"
+      ],
+      "instructions": [
+        "Snap off and discard woody bases from fresh asparagus.",
+        "Cut asparagus into 1 in. pieces",
+        "Steam asparagus in a small amount of boiling water for 4-6 minutes or until crisp-tender. Drain.",
+        "In the same pan, melt coconut oil and add sesame seed. Cook and stir over medium heat until seed is toasted.",
+        "Add mushrooms. Cook and stir for about 4 minutes or until tender.",
+        "Add lemon juice and olive oil.",
+        "Add aspargus back in, toss to coat."
+      ]
+    },
+    {
+      "category": "Appetizers Sides and Salads",
+      "title": "Sweet Potato Salad with Apple and Avocado",
+      "image": "images/sweet_potato_salad_with_apple_and_avocado.png",
+      "notes": "",
+      "ingredients": [
+        "3 Sweet Potatoes, peeled and cut into 1/2 cubes",
+        "1/4 cup - Pine Nuts",
+        "1 - Medium Apple, diced",
+        "1/2 - Small Onion, finely chopped",
+        "1/4 cup - Chopped Fresh Cilantro",
+        "1/4 cup - Lime Juice",
+        "2 Tbsp - Olive Oil",
+        "1/2 - Avocado, finely diced"
+      ],
+      "instructions": [
+        "Place sweet potatoes in large saucepan. Cover with water and bring to a boil. Cook until potatoes are tender. Drain and rinse under cold water to cool.",
+        "Drain well.",
+        "Combine apple, onion, cilantro and lime juice in a large bowl.",
+        "Stir in sweet potatoes, oil and pine nuts.",
+        "Stir in avocado just before serving. Season with salt and pepper if desired."
       ]
     },
     {
