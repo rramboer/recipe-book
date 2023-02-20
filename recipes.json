@@ -769,6 +769,426 @@
       ]
     },
     {
+      "category": "Breakfast",
+      "title": "Almond Butter Balls",
+      "image": "images/almond_butter_balls.png",
+      "notes": "",
+      "ingredients": [
+        "1/4 cup - Coconut Flour",
+        "3/4 cup - Protein Powder",
+        "1 1/2 cups - Almond Butter",
+        "Optional",
+        "1 Tbsp - Local Raw Honey",
+        "Raisins",
+        "Dried Cherries",
+        "Chopped Nuts",
+        "Chocolate Chips"
+      ],
+      "instructions": [
+        "Mis all ingredients together in a bowl until combined.",
+        "Pack into tight bite-size balls.",
+        "Refrigerate or freeze immediately"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Almond Paleo Pancakes",
+      "image": "images/almond_paleo_pancakes.png",
+      "notes": "",
+      "ingredients": [
+        "2 Large Eggs",
+        "1/3 cup - Unsweetened Applesauce",
+        "1/4 cup - Almond Flour",
+        "1/2 tsp - Baking Powder",
+        "1/4 tsp - Pure Vanilla Extract",
+        "1/2 Tbsp - 100% Pure Maple Syrup"
+      ],
+      "instructions": [
+        "Whisk 2 eggs in a small bowl. Add applesauce, maple syrup and vanilla.",
+        "Next, add almond flour and baking powder. Mix until combined.",
+        "Grease skillet with coconut oil and heat to medium. Once it is fully heated, spoon about 3 tablespoons of batter for each pancake.",
+        "Let cook for about 3-4 minutes on each side. Flip quickly with a spatula.",
+        "Serve warm."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Apple Bread",
+      "image": "images/apple_bread.png",
+      "notes": "",
+      "ingredients": [
+        "1 cup - Unsweetened Applesauce",
+        "4 eggs, at room temperature",
+        "1/2 cup - Coconut Oil, melted & cooled",
+        "1 tsp - Vanilla Extract",
+        "2 Tbsp - Pure Maple Syrup",
+        "1/2 cup - Coconut Flour",
+        "1/4 cup - Arrowroot Starch",
+        "2 tsp - Baking Soda",
+        "1 tsp - Cinnamon",
+        "1/2 tsp - Nutmeg",
+        "1/2 tsp - Sea Salt",
+        "1 cup - Finely Chopped Apple",
+        "Topping:",
+        "1/3 cup - Chopped Pecans or Walnuts",
+        "1 tsp - Coconut Oil",
+        "1/2 tsp Cinnamon"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. Line a loaf pan with parchment paper so the ends hang over the sides.",
+        "Combine applesauce, eggs, coconut oil, maple syrup and vanilla in a blender and pulse a few times to combine. Scrape down the side and blend for 30 seconds until smooth.",
+        "Add coconut flour, arrowroot starch, baking soda, cinnamon, nutmeg and sea salt and blend again for 30 seconds. Stir in chopped apple with the batter.",
+        "Transfer batter to loaf pan and smooth into an even layer.",
+        "Combine ingredients for the topping in a small bowl and stir together to coat. Distribute over top of the batter in the loaf pan.",
+        "Bake for 50 minutes, until a toothpick inserted in the center comes out clean.",
+        "Let cool for 30 min. before removing from the pan by lifting it up using the parchment paper. Slice and serve warm, store in the fridge up to a week or freeze."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Apple Cinnamon Waffles", 
+      "image": "images/apple_cinnamon_waffles.png",
+      "notes": "Makes about 15 waffles",
+      "ingredients": [
+        "Dry Ingredients",
+        "3 cups - Almond Flour",
+        "1/2 cup - Tapioca Starch",
+        "2 Tbsp - Coconut Flour",
+        "1 1/2 tsp - Ground Cinnamon",
+        "Pinch of Sea Salt",
+        "2 Tbsp - Baking Powder",
+        "Wet Ingredients:",
+        "4 Eggs, Yolks and Whites Separate",
+        "3 tsp - Pure Vanilla Extract",
+        "2 Apples, peeled and grated",
+        "1 cup - Coconut Milk",
+        "4 Tbsp - Coconut Oil, melted",
+        "Toppings: Fresh Fruit, Pure Maple Syrup"
+      ],
+      "instructions": [
+        "Melt coconut oil.",
+        "Combine together the dry ingredients.",
+        "In a separate bowl, combine together the egg yolks, vanilla, coconut milk, apple and melted coconut oil. Mix in with the dry ingredients.",
+        "With a mixer, whip the egg whites until frothy.",
+        "Fold the egg whites into the batter gently, just enough to mix.",
+        "Preheat waffle iron. Follow directions for waffle iron to cook."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Apple Egg Muffins",
+      "image": "images/apple_egg_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "3 large Green Apples, chopped into 1/2 in. pieces",
+        "3 Tbsp - Warm Water",
+        "2 tsp - Cinnamon, divided",
+        "9 Eggs",
+        "1 1/2 Tbsp - Coconut Oil, melted",
+        "3 Tbsp - Coconut Milk",
+        "1 1/2 Tbsp - Coconut Flour",
+        "1/4 tsp - Baking Soda",
+        "Pinch of Sea Salt"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "In a medium skillet, saute apples, water and 1 1/2 tsp. cinnamon until the apples are the consistency of chunky applesauce. Allow the mixture to cool before combining with the egg mixture.",
+        "In a medium sized bowl, whisk the eggs, coconut oil, coconut milk, coconut flour, 1/2 tsp. cinnamon, baking soda and salt until well combined. Add the cooled apple mixture, reserving 1/4 cup for a garnish.",
+        "Spoon mixture into lined muffin tins. Spoon 1 tsp of apples on top of each muffin. Bake for 40 minutes."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Banana Pancakes",
+      "image": "images/banana_pancakes.png",
+      "notes": "",
+      "ingredients": [
+        "2 Bananas",
+        "4 Organic Eggs",
+        "2 tsp - Pure Vanilla",
+        "3 Tbsp - Melted Coconut Oil OR Avocado Oil",
+        "1/8 tsp - Sea Salt",
+        "1/2 tsp - Baking Soda",
+        "2/3 cup - Almond Flour",
+        "1/4 cup - Coconut Flour"
+      ],
+      "instructions": [
+        "Place all ingredients in a blender and process for 2-3 minutes until smooth.",
+        "Grease a griddle with coconut or avocado oil and heat to medium.",
+        "Pour 1/2 cup of batter on griddle to form pancakes.",
+        "Cook for 4-5 min. on one side, then flip and cook for 1-2 min. more."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Blueberry Almond Crumb Muffins",
+      "image": "images/blueberry_almond_crumb_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "Coconut Oil (to grease muffin pan)",
+        "2 cups - Almond Flour, divided",
+        "1/2 cup - Coconut Flour",
+        "1/2 tsp - Sea Salt",
+        "6 Eggs",
+        "2/3 cup - Raw Honey",
+        "3/4 tsp - Pure Vanilla Extract",
+        "3/4 tsp - Pure Almond Extract",
+        "1 cup - Blueberries",
+        "1 Tbsp - Melted Coconut Oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. Grease muffin pan with coconut oil.",
+        "Set aside 2 tbsp of almond flour. In a mixing bowl, combine remaining almond flour, coconut flour and salt.",
+        "In a separate bowl, whisk together eggs, honey, vanilla, and almond extract. Then add to dry ingredients and mix thoroughly.",
+        "Fold in blueberries, then pour batter into muffin cups. Pat the tops down into rounded heaps and use a brush to dab with melted coconut oil. Sprinkle with remaining almond flour.",
+        "Bake for 30-40 min. The top should be springy, yet firm when ready. (For mini-muffins, bake for 26 min.)"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Bowl",
+      "image": "images/breakfast_bowl.png",
+      "notes": "",
+      "ingredients": [
+        "2 Fried Eggs",
+        "1 Avocado",
+        "2 Tbsp - Coconut Oil",
+        "1/2 Small Red Onion, finely chopped",
+        "4 cups - Cauliflower Rice",
+        "Sea Salt and Pepper to taste",
+        "PICO DE GALLO INGREDIENTS:",
+        "1/2 Small Red Onion, chopped",
+        "1/2 cup - Chopped Fresh Cilantro",
+        "1 - Jalapeno, chopped",
+        "Juice of 1 lime",
+        "Salt and Pepper to taste"
+      ],
+      "instructions": [
+        "Put 1/2 the red onion in a skillet with the coconut oil and cook until soft. Add cauliflower rice and cook until tender. Season with salt and pepper and set aside.",
+        "To make pico de gallo, combine all the ingredients and mix well. Set aside.",
+        "Fry the eggs in a skillet.",
+        "Serve cauliflower rice in a bowl, topped with fried egg, pico de gallo and a sliced avocado."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Hash",
+      "image": "images/breakfast_hash.png",
+      "notes": "",
+      "ingredients": [
+        "1 Tbsp - Coconut Oil",
+        "1 Onion, diced",
+        "2 tsp - Minced Garlic",
+        "1 Small Sweet Potato, peeled and diced",
+        "1 tsp - Thyme",
+        "1 tsp - Basil",
+        "1 lb. - Chicken Breakfast Sausage",
+        "Eggs"
+      ],
+      "instructions": [
+        "Preheat the oven to 375 degrees.",
+        "Dice the sweet potato and place in the oven to bake for about 40 minutes or until soft (while you prepare the rest of the recipe).",
+        "In a large skillet, melt the coconut oil. Add the onion and saute for 3 minutes. Add the garlic and spices and saute for 5 minutes. Add the sausage and cook until done. Remove from heat and set aside.",
+        "Prepare the eggs to your liking (poached, over easy, scrambled, etc).",
+        "Prepare plates. Start with a scoop of the meat mixture. Top with sweet potatoes. Add the eggs on top."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Muffins",
+      "image": "images/breakfast_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "1/2 cup - Almond Flour",
+        "1/3 cup - Coconut Flour",
+        "1 tsp - Cinnamon",
+        "1/2 tsp - Baking Soda",
+        "1/8 tsp - Ground Cloves",
+        "1/4 tsp - Ground Ginger",
+        "Pinch of Sea Salt",
+        "6 Eggs",
+        "2 tsp - Pure Vanilla Extract",
+        "1/3 cup - Pure Maple Syrup",
+        "1 cup - Finely Shredded Carrots",
+        "1 cup - Finely Shredded Zucchini",
+        "1/2 cup - Finely Shredded Unsweetened Coconut",
+        "1/4 cup - Chopped Raw Walnuts",
+        "1/3 cup - Dried Cherries",
+        "1/4 cup - Raw Chopped Almonds"
+        
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. In a small bowl, mix together the dry ingredients. In a medium bowl, whisk eggs until light and frothy. Add vanilla and maple syrup and whisk to combine.",
+        "Add the dry ingredients to the egg mixture and blend well. Stir in the carrots, zucchini, coconut, walnuts, dried cherries and pumpkin seeds until incorporated. Line a 12 cup muffin tin with paper liners, and divide the batter among them. Bake the muffins for 25-30 minutes or until they are browned and the centers spring back to the touch. Let cool for 10 minutes, then remove muffins and let cool completely on a wire rack.",
+        "Store in an airtight container in the fridge, or freeze for later user. These are great for on-the-go!"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Quiche",
+      "image": "images/breakfast_quiche.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "1/2 Yellow Onion, diced",
+        "6-8 oz - Bulk Breakfast Chicken Sausage",
+        "10 Eggs",
+        "1/2 tsp - Sea Salt",
+        "Black Pepper to taste",
+        "1/2 tsp - Italian Seasoning"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "In a large skillet, melt coconut oil. Add onion and saute until softened. Add sausage to the skillet and cook until done all the way through, breaking up the pieces. Remove from heat.",
+        "Grease an 8\"x8\" glass baking dish. Sprinkle the sausage mixture over the bottom of the dish.",
+        "In a medium bowl, whisk together eggs, sea salt, pepper and Italian seasoning. Pour egg mixture over sausage mixture in the baking dish. Sprinkle some salt and pepper on top.",
+        "Bake for 25-30 min or until lightly browned on top and the center is set. Let cool completely on a wire rack. Slice and eat!",
+        "These can be frozen. Just put a piece of parchment paper between each layer and seal in an airtight container. When ready to eat, thaw in the fridge overnight and reheat in the oven at 325 degrees for about 20 min."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Skillet",
+      "image": "images/breakfast_skillet.png",
+      "notes": "",
+      "ingredients": [
+        "1 Package of Organic Chicken Sausages, sliced OR 1 Pound Bulk Chicken Sausage",
+        "2 Tbsp - Coconut Oil",
+        "1 Small Onion, diced",
+        "2 cups - Butternut Squash, diced",
+        "1 cup - Apple, diced",
+        "2 cups - Kale, chopped finely",
+        "1/2 tsp - Sea Salt",
+        "Eggs (optional)"
+      ],
+      "instructions": [
+        "Place 1 Tbsp of coconut oil in a skillet, add sausage, and stir until cooked through.",
+        "Remove meat from skillet and set aside. Return skillet to heat and add 1 Tbsp coconut oil.",
+        "Saute the onion for 3 minutes. Then add the squash, apple, kale and salt and continue cooking for another 10 minutes, until squash is tender.",
+        "Return the sausage to the pan and cook for another minute to heat through.",
+        "Serve with fried eggs (optional) on top if desired."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Breakfast Veggie Stir Fry",
+      "image": "images/breakfast_veggie_stir_fry.png",
+      "notes": "",
+      "ingredients": [
+        "4 Tbsp - Coconut Oil",
+        "1 Celery Root, skinned and chopped",
+        "1 Medium Sweet Potato, peeled and chopped",
+        "1/2 Pound Asparagus, chopped",
+        "Fresh Basil, chopped",
+        "1 Tsp - Sea Salt",
+        "1 1/2 Tsp - Italian Seasoning",
+        "Optional: Garnish with Chives"
+      ],
+      "instructions": [
+        "Melt the coconut oil in a large skillet on med-low heat.",
+        "Add celery root and sweet potato and cook, stirring regularly, for 12 minutes.",
+        "Add asparagus, salt and seasoning and cook for another 10 minutes.",
+        "Add basil and cook for another 4 minutes.",
+        "Remove from heat. Garnish with chives and serve."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "",
+      "image": "images/",
+      "notes": "",
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
+    },
+    {
       "category": "Miscellaneous",
       "title": "Chai Exfoliating Face Scrub",
       "image": "images/chai_exfoliating_face_scrub.png",
