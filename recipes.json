@@ -10,7 +10,7 @@
         "Desired spices: Cinnamon, Nutmeg, Allspice, Ginger"
       ],
       "instructions": [
-        "Peel and core apples and cut into chunks. Place in a large pot on the stove with 1” of water in the bottom of the pot.",
+        "Peel and core apples and cut into chunks. Place in a large pot on the stove with 1\" of water in the bottom of the pot.",
         "Cover and boil until soft",
         "Use a masher tool or mixer to blend apples. Add desired spices and mix.",
         "Freezes well in glass jars after they are cooled."
@@ -22,14 +22,14 @@
       "image": "images/asian_slaw.png",
       "notes": "",
       "ingredients": [
-        "Slaw:",
+        "TODO Slaw:",
         "1 pound - Rainbow Slaw (can buy pre-packaged in produce section - any mix is fine)",
         "1 1/2 cups - Almonds or Macadamia Nuts, crushed",
         "1/4 cup - Sesame Seeds",
         "1 cup - Green Onion, chopped",
         "1 cup - Fresh Cilantro Leaves, chopped",
         "4 - Mandarin Oranges, peeled and chopped",
-        "Dressing:",
+        "TODO Dressing:",
         "1/4 cup - Olive Oil",
         "2 Tbsp - Coconut Aminos",
         "2 Tbsp - White Wine Vinegar",
@@ -265,11 +265,11 @@
         "1 - Stalk Celery",
         "1 - Carrot, peeled and slices",
         "Almond Butter",
-        "Fruit “People” of Choice",
+        "Fruit \"People\" of Choice",
         "Toothpicks"
       ],
       "instructions": [
-        "Wash celery and cut into 2-3” pieces.",
+        "Wash celery and cut into 2-3\" pieces.",
         "Stick a toothpick through each end of the celery piece and slide a carrot onto each end for the wheels. Spread almond butter onto the celery.",
         "Add your drivers and drive it into your mouth!!"
       ]
@@ -349,7 +349,7 @@
         "Juice of Half a Lemon"
       ],
       "instructions": [
-        "Preheat oven to 425 degrees. Grease an 8”x8” glass baking dish with coconut or avocado oil.",
+        "Preheat oven to 425 degrees. Grease an 8\"x8\" glass baking dish with coconut or avocado oil.",
         "Steam the cauliflower for 6 minutes. Set aside.",
         "While cauliflower is steaming, prepare the sauce. Add all ingredients except the cauliflower into a high speed blender and process until smooth and creamy.",
         "Toss the cauliflower with half the sauce and pour into the baking dish. Top with remaining sauce.",
@@ -382,13 +382,13 @@
       "image": "images/creamy_coleslaw.png",
       "notes": "",
       "ingredients": [
-        "Dressing:",
+        "TODO Dressing:",
         "1/2 cup - Avocado Mayonnaise",
         "1 Tbsp - Vinegar",
         "2 tsp - Raw Honey",
         "1/2 tsp - Celery Seed",
         "1/4 tsp - Sea Salt",
-        "Veggies:",
+        "TODO Veggies:",
         "3 cups - Green Cabbage, shredded",
         "1 cup - Red or Green Cabbage shredded",
         "2 - Medium Carrots, grated",
@@ -608,7 +608,7 @@
       "ingredients": [
         "3 - Medium Sweet Potatoes, peeled and cut into 1 inch pieces",
         "2 - Medium Carrots, halved lengthwise and cut into pieces",
-        "2 - Beets, cut into 1” pieces",
+        "2 - Beets, cut into 1\" pieces",
         "1 - Medium Onion, sliced",
         "Optional: Rutabaga, Parsnips or Winter Squash (skinned and cubed)",
         "1/4 cup - Coconut Oil, melted",
@@ -659,7 +659,7 @@
       "notes": "",
       "ingredients": [
         "3 - Medium Fennel Bulbs, stalks discarded, chopped into 1.2 inch thick wedges",
-        "6 - Carrots, peeled and cut lengthwise into 3” pieces",
+        "6 - Carrots, peeled and cut lengthwise into 3\" pieces",
         "6 - Cloves Garlic, peeled",
         "1/2 tsp - Dried Thyme",
         "1/2 tsp - Dried Rosemary",
@@ -829,7 +829,7 @@
         "1/2 tsp - Nutmeg",
         "1/2 tsp - Sea Salt",
         "1 cup - Finely Chopped Apple",
-        "Topping:",
+        "TODO Topping:",
         "1/3 cup - Chopped Pecans or Walnuts",
         "1 tsp - Coconut Oil",
         "1/2 tsp Cinnamon"
@@ -850,14 +850,14 @@
       "image": "images/apple_cinnamon_waffles.png",
       "notes": "Makes about 15 waffles",
       "ingredients": [
-        "Dry Ingredients",
+        "TODO Dry Ingredients",
         "3 cups - Almond Flour",
         "1/2 cup - Tapioca Starch",
         "2 Tbsp - Coconut Flour",
         "1 1/2 tsp - Ground Cinnamon",
         "Pinch of Sea Salt",
         "2 Tbsp - Baking Powder",
-        "Wet Ingredients:",
+        "TODO Wet Ingredients:",
         "4 Eggs, Yolks and Whites Separate",
         "3 tsp - Pure Vanilla Extract",
         "2 Apples, peeled and grated",
@@ -956,7 +956,7 @@
         "1/2 Small Red Onion, finely chopped",
         "4 cups - Cauliflower Rice",
         "Sea Salt and Pepper to taste",
-        "PICO DE GALLO INGREDIENTS:",
+        "TODO PICO DE GALLO INGREDIENTS:",
         "1/2 Small Red Onion, chopped",
         "1/2 cup - Chopped Fresh Cilantro",
         "1 - Jalapeno, chopped",
@@ -1094,98 +1094,505 @@
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Chai Streusel Muffins",
+      "image": "images/chai_streusel_muffins.png",
       "notes": "",
       "ingredients": [
-        ""
+        "TODO Muffins:",
+        "1 1/2 Cups - Almond Flour",
+        "1/3 Cup - Coconut Sugar",
+        "1 Tsp - Baking Soda",
+        "1/2 Tsp - Sea Salt",
+        "3 Eggs, room temperature",
+        "1/4 Cup - Avocado Oil",
+        "1 Tbsp - Apple Cider Vinegar",
+        "TODO Streusel:",
+        "1/4 Cup - Almond Flour",
+        "2 Tbsp - Coconut Sugar",
+        "2 Tsp - Ground Ginger",
+        "1 1/2 Tsp - Ground Cinnamon",
+        "1 Tsp - Ground Cardamom",
+        "1 Tsp - Ground Allspice",
+        "1 Tsp - Nutmeg",
+        "2 Tbsp - Coconut Oil"
       ],
       "instructions": [
-        ""
+        "Preheat the oven to 350 degrees.",
+        "For the muffins: In a large mixing bowl, add almond flour, coconut sugar, baking soda and salt. Set aside.",
+        "In a separate bowl, add eggs, avocado oil and apple cider vinegar. Mix until eggs are beaten.",
+        "Slowly add the dry ingredients to the wet ingredients and stir until a batter forms.",
+        "For the Streusel: Place all of the dry ingredients into a bowl and mix, then add the coconut oil. Using a fork, press ingredients together until small crumbs form.",
+        "Line a muffin tin with muffin liners and drop 2 Tbsp of batter into each liner. Sprinkle 2 teaspoons of the streusel on top of the batter.",
+        "Bake for 20-22 minutes, remove from the oven and let cool."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Cherry Pistachio Scones",
+      "image": "images/cherry_pistacho_scones.png",
       "notes": "",
       "ingredients": [
-        ""
+        "TODO Dry Ingredients:",
+        "1 cup - SHelled Pistachios, coarsely chopped",
+        "3/4 cup - Almond Flour",
+        "3 Tbsp - Coconut Flour",
+        "1/4 cup - Arrowroot Starch",
+        "1/4 tsp - Sea Salt",
+        "TODO Wet Ingredients:",
+        "2 Eggs",
+        "1/3 cup - Pure Maple Syrup",
+        "1 tsp - Pure Vanilla Extract",
+        "1/8 tsp - Pure Almond Extract",
+        "2 Tbsp - Coconut Oil, melted",
+        "TODO: Add-In:",
+        "1 cup - Dried Cherries"
       ],
       "instructions": [
-        ""
+        "Preheat the oven to 350 degrees. Place coconut oil in a glass dish in the oven to melt.",
+        "Line a baking sheet with parchment paper.",
+        "In a medium sized bowl, combine all dry ingredients.",
+        "Add the eggs, maple syrup, vanilla extract and almond extract and blend. Slowly add the coconut oil and mix well.",
+        "Stir in the dried cherries. Cover and refrigerate dough for 1 hour.",
+        "Scoop the dough onto the baking sheet. Dust your hands with arrowroot starch and shape the dough into a 2\" thick disc. Bake for 20 minutes.",
+        "Remove the baking sheet from the oven and carefully cut the dough into 8 triangle wedges, gently sliding them apart with the knife.",
+        "Bake for an additional 8-10 minutes or until golden brown and firm to the touch.",
+        "Place the parchment paper on a wire rack to cool completely.",
+        "Store in an airtight container or freeze for later user."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
-      "notes": "",
+      "title": "Chocolate Sweet Potato Waffles",
+      "image": "images/chocolate_sweet_potato_waffles.png",
+      "notes": "These can be frozen and put directly into the toaster to reheat when ready to eat!",
       "ingredients": [
-        ""
+        "TODO Dry Ingredients:",
+        "1 cup - Almond Flour",
+        "1/4 cup - Coconut Flour",
+        "3 Tbsp - Arrowroot Starch",
+        "1/4 cup - Cocoa Powder",
+        "1/2 tsp - Baking Powder",
+        "1 1/2 tsp - Ground Cinnamon",
+        "TODO Wet Ingredients:",
+        "4 eggs",
+        "1/2 cup - Mashed Sweet Potato",
+        "2 tsp - Pure Vanilla Extract",
+        "4 Tbsp - 100% Pure Maple Syrup",
+        "1/2 cup - Coconut Milk"
       ],
       "instructions": [
-        ""
+        "In a medium bowl, combine dry ingredients.",
+        "Add wet ingredients and blend. If the batter is too thick, add more coconut milk.",
+        "Preheat waffle iron. Pour batter into waffle iron and cook."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Coconut Hot Cereal",
+      "image": "images/coconut_hot_cereal.png",
       "notes": "",
       "ingredients": [
-        ""
+        "2 cups - Coconut Milk",
+        "1 tsp - Cinnamon",
+        "1 tsp - Vanilla Extract",
+        "1/2 cup - Shredded Coconut Flakes",
+        "1/4 cup - Coconut Flour TODO OR Green Banana Flour",
+        "1 Tbsp - Arrowroot Starch TODO OR Tapioca Starch",
+        "1 tsp - Raw Honey TODO OR Maple Syrup",
+        "Frozen berries/banana"
       ],
       "instructions": [
-        ""
+        "Bring coconut milk, cinnamon and vanilla to a boil in a saucepan. Once boiling, add coconut flakes and simmer for 10 minutes.",
+        "Remove from heat. Add coconut flour, arrowroot/tapioca starch and honey/maple syrup. Sprinkle in berries and top with a sliced banana."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Dr. Becky's Protein Bars",
+      "image": "images/dr._becky's_protein_bars.png",
       "notes": "",
       "ingredients": [
-        ""
+        "1 Tbsp - Coconut Oil, melted",
+        "1/2 cup - Unsweetened Applesauce",
+        "1/2 tsp - Pure Vanilla",
+        "1/8 tsp - Sea Salt",
+        "1/3 cup - Green Banana Flour",
+        "3 scoops Grass Fed Beef Vanilla Protein Powder",
+        "1 cup - Shredded Coconut",
+        "1/2 cup - Dark Chocolate Chips TODO OR Mix together 1/3 cup Carob Powder with 1/3 cup Melted Coconut Oil"
       ],
       "instructions": [
-        ""
+        "Melt coconut oil. In a medium bowl, mix together coconut oil, applesauce, vanilla and sea salt until smooth.",
+        "Add banana flour and protein powder and mix well. Then add shredded coconut and mix again. Mixture will be thick.",
+        "Spread mixture into a glass 8\" by 8\" dish lined with parchment paper and press into a flat even layer. Refrigerate for 20 minutes.",
+        "Melt chocolate chips in a double boiler. Remove glass dish from the fridge and pour the chocolate over the top. Spread until even. Place back in the fridge for 2 to 4 hours. Remove and cut into bars.",
+        "Refrigerate until ready to eat or freeze for later use."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Frittata",
+      "image": "images/frittata.png",
       "notes": "",
       "ingredients": [
-        ""
+        "8 Organic Eggs (eliminate a couple yolks)",
+        "1 Tbsp - Organic Coconut Oil",
+        "1/8 tsp - Pepper",
+        "Chopped Veggies of Choice",
+        "1/4 cup - Chopped Onion",
+        "1 tsp - Minced Garlic"
       ],
       "instructions": [
-        ""
+        "Beat eggs and pepper, set aside.",
+        "In a 10 in. cast iron or ceramic skillet, cook onion and garlic in oil until tender. Stir in veggies.",
+        "Pour egg mixture into skillet over veggies.",
+        "Cook on the stove over medium heat. As mixture sets, run a spatula around edges and lift up, letting egg mixture flow underneath to cook. Continue cooking and lifting edges until the egg mixture is almost set (surface will be moist).",
+        "Place the skillet under a broiler 4-5 inches from the heat. Broil for 1-2 minutes or until the top is just set.",
+        "Remove, cool and cut into wedges. (Can be cooked in the oven instead at 350 degrees for 15 minutes or until a knife comes out clean). Enjoy!"
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
+      "title": "Fruit Pudding",
+      "image": "images/fruit_pudding.png",
       "notes": "",
       "ingredients": [
-        ""
+        "1 cup - Full Fat Coconut Milk",
+        "1 cup - Any Berries or a combo (Raspberries, Strawberries, Blackberries, Blueberries",
+        "1 Avocado, pitted and chopped",
+        "1 1/2 tsp - Cinnamon"
       ],
       "instructions": [
-        ""
+        "Add all ingredients to a high speed blender and blend for 1 minute.",
+        "Pour into individual serving sized bowls, cover and refrigerate."
       ]
     },
     {
       "category": "Breakfast",
-      "title": "",
-      "image": "images/",
-      "notes": "",
+      "title": "Grain-Free Granola",
+      "image": "images/grain-free_granola.png",
+      "notes": "This Recipe is Great in a Pinch!",
       "ingredients": [
-        ""
+        "Dried Banana Chips",
+        "Dried Cherries",
+        "Raisins",
+        "Freeze-Dried Blueberries",
+        "Flax Seeds",
+        "Almonds, chopped",
+        "Pecans, crushed (can use leftover Pecans from 'Baked Pecan' recipe for more flavor)",
+        "Unsweetened Coconut Flakes",
+        "(You can use any combination of Nuts/Seeds and Dried Fruit",
+        "Almond or Coconut Milk"
       ],
       "instructions": [
-        ""
+        "Crush the above mixture to a crumbled texture with a meat tenderizer. Store in an airtight container.",
+        "When ready to eat, sprinkle with cinnamon and serve in a bowl covered with almond or coconut milk.",
+        "If desired, drizzle a small bit of 100% pure maple syrup on top."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Grain-Free Granola Bars",
+      "image": "images/grain-free_granola_bars.png",
+      "notes": "",
+      "ingredients": [
+        "1/4 cup - Coconut Oil",
+        "1/4 cup - Pure Maple Syrup",
+        "2 Tbsp - Raw Honey",
+        "1/4 cup - Almond Butter",
+        "1 tsp - Pure Vanilla Extract",
+        "1/3 cup - Flax Seeds",
+        "1/2 cup - Chopped Almonds",
+        "1/3 cup - Chopped Pecans",
+        "1 Tbsp - Sesame Seeds",
+        "1/3 cup - Mini Dark Chocolate Chips",
+        "1/3 cup - Raisins or Dried Cherries",
+        "1/4 cup - Coconut Flakes"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Line an 8\"x8\" square baking pan with parchment paper.",
+        "In a small saucepan over low heat, combine coconut oil, maple syrup, raw honey, almond butter and vanilla. Stir occasionally until ingredients have melted and mixed. Set aside to cool.",
+        "In a medium sized bowl, combine the rest of the ingredients. Pour the saucepan mixture over the seed mixture and stir to combine. Spoon mixture into the 8\"x8\" pan and use a spoon to spread it out evenly, pressing down firmly to compress it.",
+        "Bake the bars for 30-35 minutes until bubbly and golden. Remove from the oven and let cool for 1 hour.",
+        "Cut into bars. Place bars in an airtight container and store in the fridge (keeps up to a week), or wrap individually and freeze for future use."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Green Egg Muffins",
+      "image": "images/green_egg_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "1 box - Organic Applegate Farms Chicken Sausage",
+        "1 large Fistful of Spinach or Kale",
+        "5 Organic Eggs",
+        "2 Tbsp - Avocado Oil",
+        "2 Cloves Garlic, peeled",
+        "2 Tbsp - Italian Seasoning (or your other favorite seasoning)",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Black Pepper"
+      ],
+      "instructions": [
+        "Heat oven to 350 degrees. Bake the sausages in the oven until warm. Line a muffin tin with paper liners.",
+        "Place all ingredients except the sausage in a blender and blend for 1 minute until well mixed.",
+        "Pour mixture into muffin cups with room to add sausage pieces.",
+        "Chop the sausage up into small bits and spread evenly into muffin cups.",
+        "For regular size muffins, bake for 30-35 min. For mini muffins, bake for 28 min. Remove from the oven and let cool."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Hashbrown, Sausage & Egg Muffins",
+      "image": "images/hashbrown,_sausage_and_egg_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "1 1/2 Tbsp - Coconut Oil, melted",
+        "1 1/2 lb - Sweet Potatoes, peeled and shredded",
+        "1/4 tsp plus 1/8 tsp - Sea Salt, divided",
+        "1/4 tsp plus 1/8 tsp - Black Pepper, divided",
+        "3 oz - Cooked Chicken Sausage, diced",
+        "3 Scallions, chopped",
+        "3 Large Eggs"
+      ],
+      "instructions": [
+        "Preheat the oven to 400 degrees. Brush a 12 count muffin pan with coconut oil, thoroughly coating the base of each muffin cup.",
+        "Transfer potatoes to a colander and press firmly to extract as much water as possible. Squeeze between double layers of paper towels until sweet potatoes feel very dry. Transfer to a large bowl, add 1/4 tsp. each of salt and pepper and stir to combine.",
+        "Add about 1/3 cup potatoes to each muffin cup. Press sweet potatoes into the base and up the sides of each muffin cup, creating little \"nests.\" (Note: Potatoes should come slightly over top of muffin cups, as they will shrink during baking).",
+        "Bake until the edges of the potatoes are golden brown, about 20 min, turning the pan halfway through. Reduce oven temp. to 350 degrees.",
+        "Lightly spread coconut oil around the top edges of each muffin cup. Sprinkle sausage and scallions evenly over the 12 muffin cups.",
+        "In a medium bowl, whisk eggs and remaining 1/8 tsp. each salt and pepper. Pour into \"nest,\" dividing evenly.",
+        "Bake until egg is set, 12-15 min. Cool in pan for 10 min. before serving."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Lemon Chia Seed Muffins",
+      "image": "images/lemon_chia_seed_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "1 Cup - Almond Flour",
+        "1/2 Cup - Coconut Flour",
+        "1/4 Cup - Tigernut Flour",
+        "1/4 Cup - Arrowroot Flour",
+        "1 Tbsp - Chia Seeds",
+        "1 tsp - Baking Soda",
+        "1/2 tsp - Aluminum Free Baking Powder",
+        "1/2 tsp - Sea Salt",
+        "2 Ripe Bananas",
+        "1/3 Cup - Pure Maple Syrup",
+        "2 tsp - Vanilla Extract",
+        "1/3 Cup - Avocado Oil",
+        "Zest and Juice from 1 Large Lemon"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. Line muffin pan with 12 muffin liners.",
+        "In a medium bowl, combine flours, chia seeds, baking soda, baking powder, and sea salt.",
+        "In another bowl, mash the bananas until smooth. Add the rest of the ingredients and whisk to combine.",
+        "Pour the dry ingredients into the wet ingredients and incorporate. Scoop mix into muffin pans. Bake for 23 minutes.",
+        "Allow to cool before serving."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "No-Bake Coconut Balls",
+      "image": "images/no-bake_coconut_balls.png",
+      "notes": "",
+      "ingredients": [
+        "3 Tbsp - Green Banana Flour",
+        "3 Tbsp - Coconut Oil",
+        "1 1/2 Tbsp- Cocoa Powder or Carob Powder",
+        "3 Tbsp - Nut or Seed Butter",
+        "1 Tbsp - Local Raw Honey",
+        "Shredded Coconut"
+      ],
+      "instructions": [
+        "In a small bowl, mix all ingredients except shredded coconut. Roll into small balls with your hands and then roll in the shredded coconut to coat. Place in a glass dish and refrigerate until ready to eat."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "No-Bake Protein Bars",
+      "image": "images/no-bake_protein_bars.png",
+      "notes": "",
+      "ingredients": [
+        "1 1/4 cup - Almond Flour",
+        "4 scoops - Grass Fed Beef Protein Powder",
+        "1 Tbsp - Raw Honey",
+        "2 Tbsp - Flax Seeds",
+        "1/4 cup - Almond Butter",
+        "1/4 cup - Warm Water",
+        "1/4 cup - Mini Dark Chocolate Chips"
+      ],
+      "instructions": [
+        "Mix together ingredients. If needed, add more water, 1 tbsp. at a time until dough comes together. It should be very stiff and tacky.",
+        "Line a square baking dish with unbleached parchment paper. Place the dough in the dish and press it flat. Place it in the fridge for 20 minutes.",
+        "Remove from the fridge and use parchment paper to lift it out of the dish onto a cutting board. Slice the dough into desired bars.",
+        "These freeze well and are great to grab on the go!"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Orange Cherry Muffins",
+      "image": "images/orange_cherry_muffins.png",
+      "notes": "Substitute 1/2 a banana and 1/4 cup Applesauce instead of the two eggs.",
+      "ingredients": [
+        "2 Eggs at room temperature",
+        "1/4 cup - Fresh Squeezed Orange Juice",
+        "2 1/2 cups - Almond Flour",
+        "1/2 cup - Raw Honey or Maple Syrup",
+        "1/2 cup - Palm Shortening",
+        "1 Tbsp - Coconut Flour",
+        "2 tsp - Pure Vanilla Extract",
+        "1 tsp - Orange Zest",
+        "3/4 tsp - Baking Soda",
+        "1/2 tsp - Nutmeg",
+        "1/4 tsp - Sea Salt",
+        "3/4 cup - Dried Cherries"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Place a glass dish filled with 2 cups of water on the bottom rack of the oven and place the other rack in the center of the oven.",
+        "Zest the orange and place into a high-speed blender. Slice the remaining orange in half and squeeze 1/4 cup of the juice into the blender. Add the rest of the ingredients except the cherries into the blender. Blend for 30 seconds. Scrape down the sides and blend again until smooth.",
+        "Stir in the cherries by hand. Line 12 muffin cups with paper liners. Spoon the batter into the cups, filling 2/3 of the way full. Bake for 24 minutes."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Pumpkin Tigernut Muffins",
+      "image": "images/pumpkin_tigernut_muffins.png",
+      "notes": "",
+      "ingredients": [
+        "TODO Topping:",
+        "1/4 cup - Tigernut Flour",
+        "2 Tbsp - Coconut Sugar",
+        "1/2 tsp - Pumpkin Pie Spice",
+        "2 Tbsp - Palm Shortening, chilled",
+        "TODO Muffins:",
+        "3 Eggs",
+        "1 cup - Pumpkin or Winter Squash Puree",
+        "1/3 cup - Full Fat Coconut Milk",
+        "1/3 cup - Coconut Sugar",
+        "1 Tbsp - Pure Maple Syrup",
+        "1 tsp - Pure Vanilla Extract",
+        "1 3/4 cup - Tigernut Flour",
+        "1/4 cup - Arrowroot Flour",
+        "1 tsp - Baking Soda",
+        "1 Tbsp - Pumpkin Pie Spice"
+      ],
+      "instructions": [
+        "Scoop palm shortening into a small bowl and place in the fridge to chill ahead of time.",
+        "Combine the rest of the topping ingredients in a medium bowl. Cut in the chilled palm shortening but do not overmix- it should be crumbly. Store in the fridge until ready to use.",
+        "Preheat the oven to 350 degrees and line a muffin pan with 12 paper liners.",
+        "In a large bowl, whisk together eggs, pumpkin, coconut milk, coconut sugar, maple syrup and vanilla with a mixer until very smooth.",
+        "In a separate bowl, combine the tigernut flour, arrowroot, baking soda and pumpkin pie spiece. Slowly add to wet ingredients and beat with a mixer until smooth.",
+        "Pour batter into the muffin cups, dividing evenly. Spoon the topping mixture onto the top of each muffin and then bake for 20-25 minutes.",
+        "Let cool for 10 minutes and then remove muffins from tin to cool completely.",
+        "Store in the fridge or freezer."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Sausage & Celery Root Skillet",
+      "image": "images/sausage_and_celery_root_skillet.png",
+      "notes": "",
+      "ingredients": [
+        "1 lb - Ground Chicken Sausage",
+        "1/2 Tbsp - Coconut Oil",
+        "1 Celery Root, peeled and chopped",
+        "1 Apple, diced",
+        "1 tsp - Minced Garlic",
+        "1/4 cup - Diced Mushrooms"
+      ],
+      "instructions": [
+        "Chop celery root and add to a large skillet with coconut oil.",
+        "Cook on low-med for about 10 minutes.",
+        "Add chopped apples and cook for 7 more minutes. Then add mushrooms, garlic and sausage and cook until meat is cooked through.",
+        "Simple one-skillet easy and delicious breakfast!"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Slow Cooked Almond Apple Cereal",
+      "image": "images/slow_cooked_almond_apple_cereal.png",
+      "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
+      "ingredients": [
+        "3 Apples, peeled and shredded",
+        "3 cups - Almond Flour",
+        "3 cups - Water",
+        "1 Tbsp - Ground Cinnamon",
+        "Raw Honey or Maple Syrup"
+      ],
+      "instructions": [
+        "Peel and shred the apples and place them in the slow cooker.",
+        "Add remaining ingredients and stir well.",
+        "Cover and cook on LOW for 6 hours. Sweeten with honey or pure maple syrup to taste."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Slow Cooked Banana Bread",
+      "image": "images/slow_cooked_banana_bread.png",
+      "notes": "",
+      "ingredients": [
+        "4 Ripe Bananas",
+        "1/4 cup plus 2 Tbsp - Coconut Oil, melted",
+        "1/2 cup - Raw Honey",
+        "1 Tbsp - Pure Vanilla Extract",
+        "3 Tbsp - Coconut Milk",
+        "3 Eggs",
+        "2 cups - Almond Flour",
+        "1 tsp - Baking Soda",
+        "Unbleached Parchment Paper"
+      ],
+      "instructions": [
+        "In a large mixing bowl, mash the bananas with a fork. Add the coconut oil, stir in the honey, vanilla, coconut milk and eggs, and mix well.",
+        "Add the flour and baking soda (the mixture will be thin, like pancake batter).",
+        "Line your slow cooker with unbleached parchment paper. Pour the banana mixture into the slow cooker, on top of the parchment paper and cook on LOW for 2 hours.",
+        "When the bread is done, remove it by lifting out the parchment paper and placing it on a cutting board to cool, or leave it in the slow cooker on warm and enjoy it all day!"
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Sweet Potato Sausage Hash",
+      "image": "images/sweet_potato_sausage_hash.png",
+      "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
+      "ingredients": [
+        "3 Medium Sweet Potatoes, peeled and grated",
+        "1 Yellow Onion, diced",
+        "1 Jalapeno Pepper, diced",
+        "1 Box Applegate Farm Chicken and Sage Sausage, chopped",
+        "Optional: Garnish with Avocado"
+      ],
+      "instructions": [
+        "Peel the sweet potatoes, shred them with a grater, and place them in the slow cooker.",
+        "Add the rest of the ingredients and stir together.",
+        "Cover and cook on LOW for 6-8 hours."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Grain Free Zucchini Bread",
+      "image": "images/grain_free_zucchini_bread.png",
+      "notes": "",
+      "ingredients": [
+        "1 cup - Almond Flour",
+        "1/2 cup - Tapioca or Arrowroot Flour",
+        "2 tsp - Ground Cinnamon",
+        "1 tsp - Baking Soda",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Ground Nutmeg",
+        "3 Eggs, beaten",
+        "1/4 cup - Local Raw Honey",
+        "1 Ripe Banana",
+        "1 cup - Shredded, Unpeeled Zucchini"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Combine dry ingredients in a small bowl.",
+        "Add eggs to a large mixing bowl and beat with a mixer. Add other wet ingredients and beat until fully combined and frothy.",
+        "Slowly add the dry ingredients while mixing until all is incorporated.",
+        "Spoon batter into 2 mini loaf pans or into a lined muffin tin and bake for 35 min."
       ]
     },
     {
@@ -1297,7 +1704,7 @@
         "1/4 cup - Coconut Oil, melted, cooled"
       ],
       "instructions": [
-        "Preheat the oven to 350 degrees and line a 4” x 8” loaf pan with parchment paper.",
+        "Preheat the oven to 350 degrees and line a 4\" x 8\" loaf pan with parchment paper.",
         "In a large bowl, combine all dry ingredients and set aside.",
         "In a separate bowl, whisk together the eggs and egg whites, milk, vinegar and coconut oil.",
         "Immediately stir the dry mixture into the wet mixture, stirring until moistened, but do not overmix.",
@@ -1364,22 +1771,6 @@
         "Combine and mix all ingredients.",
         "Store in a small Mason jar with a lid."
       ]
-    },
-    {
-      "category": "",
-      "title": "",
-      "image": "images/",
-      "notes": "",
-      "ingredients": [""],
-      "instructions": [""]
-    },
-    {
-      "category": "",
-      "title": "",
-      "image": "images/",
-      "notes": "",
-      "ingredients": [""],
-      "instructions": [""]
     }
   ]
 }
