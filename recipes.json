@@ -1596,7 +1596,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Balsamic Roast Beef",
       "image": "images/balsamic_roast_beef.png",
       "notes": "",
@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Barbeque Apple Chicken",
       "image": "images/barbeque_apple_chicken.png",
       "notes": "",
@@ -1641,7 +1641,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Beef and Veggie Soup",
       "image": "images/beef_and_veggie_soup.png",
       "notes": "",
@@ -1666,7 +1666,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Beef Stew",
       "image": "images/beef_stew",
       "notes": "",
@@ -1692,7 +1692,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Beef Stroganoff",
       "image": "images/beef_stroganoff.png",
       "notes": "",
@@ -1720,7 +1720,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Bone Broth",
       "image": "images/bone_broth.png",
       "notes": "Bone broth is extremely healthy and VERY easy to make.  It contains beneficial building blocks for your body, like collagen, marrow, glycine, hyaluronic acid, chondroitin sulfate, calcium, magnesium and potassium. This is helpful in reducing inflammation and assisting in gut healing.",
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Butternut Squash Lasagna",
       "image": "images/butternut_squash_lasagna.png",
       "notes": "",
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Chipotle Chicken Stew",
       "image": "images/chipotle_chicken_stew.png",
       "notes": "",
@@ -1784,7 +1784,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Chipotle Meatballs",
       "image": "images/chipotle_meatballs",
       "notes": "",
@@ -1798,7 +1798,7 @@
       ]
     },
     {
-      "category": "Desserts",
+      "category": "Crockpot",
       "title": "Chocolate Almond Butter Swirl Brownies",
       "image": "images/chocolate_almond_butter_swirl_brownies.png",
       "notes": "",
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Chocolate Chili",
       "image": "images/chocolate_chili.png",
       "notes": "",
@@ -1848,7 +1848,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Cinnamon Ginger Lamb",
       "image": "images/cinnamon_ginger_lamb.png",
       "notes": "",
@@ -1873,7 +1873,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Crockpot Hamburger Soup",
       "image": "images/crockpot_hamburger_soup.png",
       "notes": "",
@@ -1897,7 +1897,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Egg Roll Soup",
       "image": "images/egg_roll_soup.png",
       "notes": "",
@@ -1921,7 +1921,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Fiesta Lime Chicken",
       "image": "images/fiesta_lime_chicken.png",
       "notes": "",
@@ -1941,7 +1941,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Lectin Free Chili",
       "image": "images/lectin_free_chili.png",
       "notes": "",
@@ -1975,7 +1975,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Maple Roasted Chicken with Sweet Potatoes",
       "image": "images/maple_roasted_chicken_with_sweet_potatoes.png",
       "notes": "",
@@ -1994,7 +1994,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Meatloaf",
       "image": "images/meatloaf.png",
       "notes": "",
@@ -2013,7 +2013,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Mild shredded Chicken",
       "image": "images/mild_shredded_chicken.png",
       "notes": "Super easy and quick!! Great to serve over the top of a salad or other greens.",
@@ -2028,7 +2028,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Sesame Orange Chicken",
       "image": "images/sesame_orange_chicken.png",
       "notes": "",
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "category": "Breakfast",
+      "category": "Crockpot",
       "title": "Slow Cooked Almond Apple Cereal",
       "image": "images/slow_cooked_almond_apple_cereal.png",
       "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
@@ -2062,7 +2062,7 @@
       ]
     },
     {
-      "category": "Breakfast",
+      "category": "Crockpot",
       "title": "Slow Cooked Banana Bread",
       "image": "images/slow_cooked_banana_bread.png",
       "notes": "",
@@ -2085,7 +2085,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Slow Cooked Ham",
       "image": "images/slow_cooked_ham.png",
       "notes": "",
@@ -2102,7 +2102,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Slow Cooked Short Ribs",
       "image": "images/slow_cooked_short_ribs.png",
       "notes": "",
@@ -2127,7 +2127,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Slow Cooked Whole Chicken",
       "image": "images/slow_cooked_whole_chicken.png",
       "notes": "After we eat the chicken for dinner, we strain the liquid from the slow cooker into a stock pot, add a little extra water, throw in some veggies and a few spices and pick off the rest of the chicken meat from the bones left over (you can use the pieces of meat that no one likes to eat at dinner, like the back meat).  It makes a very yummy soup that will last a couple days.  This really makes the extra cost of a pasture raised bird worth it! While the soup (above) is cooking, we will take the remaining bones and put them back into the crockpot, cover completely with water and follow the bone broth recipe in the “Soups and Sauces” section of this cookbook! Simple, easy and healthy way to get the most out of a single bird!",
@@ -2142,7 +2142,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Slow Cooker Chicken Tortilla Soup",
       "image": "images/slow_cooker_chicken_tortilla_soup.png",
       "notes": "",
@@ -2165,7 +2165,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Crockpot",
       "title": "Southern Sweet Potato Soup",
       "image": "images/southern_sweet_potato_soup.png",
       "notes": "",
@@ -2191,7 +2191,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Steak and Root Vegetable Chili",
       "image": "images/steak_and_root_vegetable_chili.png",
       "notes": "",
@@ -2214,7 +2214,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Stuffed Acorn Squash",
       "image": "images/stuffed_acorn_squash.png",
       "notes": "",
@@ -2234,7 +2234,7 @@
       ]
     },
     {
-      "category": "Entrées",
+      "category": "Crockpot",
       "title": "Jalapeno Sweet Potato Chowder",
       "image": "images/jalapeno_sweet_potato_chowder.png",
       "notes": "",
@@ -2258,7 +2258,7 @@
       ]
     },
     {
-      "category": "Breakfast",
+      "category": "Crockpot",
       "title": "Sweet Potato Sausage Hash",
       "image": "images/sweet_potato_sausage_hash.png",
       "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
