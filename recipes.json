@@ -1596,6 +1596,686 @@
       ]
     },
     {
+      "category": "Entrées",
+      "title": "Balsamic Roast Beef",
+      "image": "images/balsamic_roast_beef.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp. Coconut Oil",
+        "3 Pound Boneless Chuck Roast",
+        "3 Sweet Potatoes, peeled and cut into pieces",
+        "1 Leek, Chopped",
+        "2 Sprigs Fresh Rosemary",
+        "2 Bay Leaves",
+        "2 tsp - Minced Garlic",
+        "1 Cup - Red Wine (Optional)",
+        "1/3 cup - Balasmic Vinegar",
+        "1 1/2 cups - Beef Broth",
+        "Sea Salt and Black Pepper to Taste"
+      ],
+      "instructions": [
+        "Season the roast with salt and pepper.",
+        "Melt coconut oil in a large skillet over medium-high heat. Sear the roast for 2-3 minutes on each side.",
+        "Place the meat in the slow cooker. Top it with the leek, garlic, red wine (opt.), balsamic vinegar, beef broth, rosemary and bay leaves.",
+        "Cover the slow cooker and set it to low for 3 1/2 hours.",
+        "After the 3 1/2 hours, add the sweet potatoes and continue to cook on low for another 4 hours.",
+        "Remove and discard the bay leaves and rosemary sprigs.",
+        "Pour the liquid from the slow cooker into a saucepan and bring to a slow boil over medium-high heat. Keep it boiling and let it reduce until you get the desired consistency for your sauce (about 15 minutes).",
+        "Pour the sauce back into the slow cooker and serve with the meat and sweet potatoes."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Barbeque Apple Chicken",
+      "image": "images/barbeque_apple_chicken.png",
+      "notes": "",
+      "ingredients": [
+        "4-6 Boneless, Skinless Chicken breasts",
+        "2 Apples, Peeled and Chopped",
+        "1 Yellow Onion, Chopped",
+        "1 Clove Garlic, Minced",
+        "1 Bottle of Barbeque Sauce of your Choice (Our Favorite: Brownwood Farm's Cherry Barbeque Sauce)"
+      ],
+      "instructions": [
+        "Place all the ingredients in the slow cooker and cover and cook on LOW for 4-5 hours."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Beef and Veggie Soup",
+      "image": "images/beef_and_veggie_soup.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "2 lb. - Grass Fed Stew Meat",
+        "1 - Onion, Chopped",
+        "4 - Cloves Fresh Garlic, Sliced Thin",
+        "6 cups - Chicken or Beef Broth",
+        "3 - Carrots, Peeled and Sliced",
+        "1 cup - Green Beans, Chopped",
+        "1 cup - Cauliflower, Chopped",
+        "2 Tbsp - Fresh Basil Leaves, Finely Chopped",
+        "1 tsp - Dried Parsley"
+      ],
+      "instructions": [
+        "Melt the coconut oil in a large skillet over medium heat. Add the beef in a single layer and cook until browned, about 8 minutes. Transfer the beef to the slow cooker.",
+        "Add the onions and garlic to the skillet and saute until softened, about 8 minutes. Transfer onions and garlic to a slow cooker, including any liquid in the skillet.",
+        "Add the broth and carrots to the slow cooker, set to low, and cook for 6 hours.",
+        "With 2 hours left of cook time, add the green beans, cauliflower, basil and parsley, and salt and pepper to taste.",
+        "Store leftovers in the fridge."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Beef Stew",
+      "image": "images/beef_stew",
+      "notes": "",
+      "ingredients": [
+        "2 lbs. - Grass Fed Stew Meat, Cut into 1” Cubes",
+        "2 Tbsp - Avocado Oil",
+        "Sea Salt and Pepper to Taste",
+        "2 cups - Organic Beef Broth",
+        "1 - Clove Garlic, Minced",
+        "5 - Carrots, Peeled and Sliced",
+        "1 - Large Onion, Chopped",
+        "3 - Stalks Celery, Sliced",
+        "1 - Sweet Potato, Cubed",
+        "1 tsp - Dried Parsley",
+        "2 tsp Adobo Seasoning",
+        "1/8 Cup - Worcestershire Sauce"
+      ],
+      "instructions": [
+        "Heat the avocado oil in a skillet. Add the meat and cook on medium/low heat until edges are browned.",
+        "Place meat in a slow cooker.  Add salt and pepper, and stir to coat.",
+        "Add remaining ingredients and stir to mix.  Cover and cook on LOW 8-10 hours (or HIGH 4-5 hours).",
+        "Stir thoroughly before serving."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Beef Stroganoff",
+      "image": "images/beef_stroganoff.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "16 - Button Mushrooms, Stemmed and Sliced",
+        "1 - Large Onion",
+        "2 pounds - Grass Fed Ground Beef",
+        "1 cup - Chicken or Beef Broth",
+        "1 tsp - Onion Powder",
+        "1 tsp - Garlic Powder",
+        "2 Tbsp - Apple Cider Vinegar",
+        "1 tsp - Sea Salt",
+        "1 tsp - Black Pepper",
+        "2 Tbsp - Worcestershire Sauce",
+        "1/2 cup - Coconut Milk",
+        "2 Tbsp - Tapioca Starch or Arrowroot Powder",
+        "1 - Bag Cauliflower Rice, Cooked"
+      ],
+      "instructions": [
+        "Saute the mushrooms, onions and beef in coconut oil in a skillet until almost cooked through. Transfer to crockpot.",
+        "Add the rest of the ingredients (except cauliflower rice) to the crockpot and cook on low for 4 hours.",
+        "Cook the cauliflower rice.",
+        "Serve the beef mixture over top of the cauliflower."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Bone Broth",
+      "image": "images/bone_broth.png",
+      "notes": "Bone broth is extremely healthy and VERY easy to make.  It contains beneficial building blocks for your body, like collagen, marrow, glycine, hyaluronic acid, chondroitin sulfate, calcium, magnesium and potassium. This is helpful in reducing inflammation and assisting in gut healing.",
+      "ingredients": [
+        "Soup Bones (from a healthy organic grass fed/pasture raised animal)",
+        "2  Celery Stalks",
+        "2  Carrots, Unpeeled",
+        "Optional: Garlic Cloves",
+        "Sea Salt",
+        "2 Tbsp - Apple Cider Vinegar (this helps release the bone minerals)"
+      ],
+      "instructions": [
+        "Place the bones in your slow cooker. Wash the veggies and add them to the slow cooker, no need to chop. Cover ingredients with a generous amount of water. Add apple cider vinegar. Cover and cook on high for 18 to 24 hours.",
+        "Check water level periodically, more may need to be added. Strain the broth through a strainer and cool. Broth can be used for sipping, or adding to other recipes and soups.",
+        "You can store extra broth in glass mason jars in the freezer for future single serve use. Just leave ½ inch headspace in the jar and allow to cool completely before placing in the freezer."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Butternut Squash Lasagna",
+      "image": "images/butternut_squash_lasagna.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "3 - Carrots, Chopped",
+        "1 - Small Yellow Onion, Finely Chopped",
+        "1 cup - Zucchini, Finely Chopped",
+        "2 cups - Sliced Mushrooms",
+        "1 lb. - Grass Fed Ground Beef",
+        "1 pound - Bulk Apple Chicken Sausage",
+        "28 oz. - Crushed Tomatoes",
+        "1 can - Diced Tomatoes with Juice",
+        "2 - Cloves Garlic, Minced",
+        "2 Tbsp - Dried Oregano",
+        "1 Tbsp - Dried Basil",
+        "1 Tbsp - Garlic Salt",
+        "1 - Butternut Squash"
+      ],
+      "instructions": [
+        "Place coconut oil in the bottom of a large soup pot on medium heat.  Add the carrots, onions, zucchini, and mushrooms and sauté until tender.",
+        "While veggies are cooking, brown the beef and sausage on medium heat in a separate skillet until fully cooked.  Add the beef/sausage mix to the veggies in the soup pot.",
+        "Add the remaining ingredients except for butternut squash, mix well, and simmer for 30 min.",
+        "While the sauce simmers, peel, halve, and scoop out the seeds of the butternut squash.  Cut the cleaned squash lengthwise in ¼” to 1/2 “ thick strips (resembling thick lasagna noodles).  It doesn't have to be perfect!",
+        "In the slow cooker, ladle in a layer of the meat sauce, then evenly spread the squash slices on top.  Continue to alternate until you have reached 4 layers or more.",
+        "Cover and cook on LOW for 4-6 hrs."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Chipotle Chicken Stew",
+      "image": "images/chipotle_chicken_stew.png",
+      "notes": "",
+      "ingredients": [
+        "TODO: diff categories of ingredients"
+      ],
+      "instructions": [
+        "Marinate the chicken breasts overnight.",
+        "The next day, place the coconut oil, onion, turnip, rutabaga, and squash in the slow cooker.",
+        "Cut the chicken and place it on top of the veggies (discard the marinade).",
+        "Add the rest of the ingredients, cover, and cook on LOW for 4-6 hrs."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Chipotle Meatballs",
+      "image": "images/chipotle_meatballs",
+      "notes": "",
+      "ingredients": [
+        "TODO: diff categories of ingredients"
+      ],
+      "instructions": [
+        "In a medium sized mixing bowl, thoroughly mix together all of the meatball ingredients with your hands and set aside.",
+        "Put the onion, garlic, tomato sauce and beef broth into the slow cooker and mix well.  Add the honey and spices and whisk together.",
+        "Form the meat mixture into balls, golf ball sized.  Gently drop each meatball into the sauce in the slow cooker.  Cover and cook on LOW for 6-7 hrs.  Serve garnished with cilantro."
+      ]
+    },
+    {
+      "category": "Desserts",
+      "title": "Chocolate Almond Butter Swirl Brownies",
+      "image": "images/chocolate_almond_butter_swirl_brownies.png",
+      "notes": "",
+      "ingredients": [
+        "3/4 cup - Almond Flour",
+        "1/2 cup - Cocoa Powder",
+        "3/4 tsp - Baking Powder",
+        "1/4 cup + 2 Tbsp - Melted Coconut Oil",
+        "1/2 cup - Local Raw Honey",
+        "1 Tbsp - Pure Vanilla Extract",
+        "3 Eggs",
+        "1/4 cup - Dark Chocolate Chips",
+        "3 Tbsp - Almond Butter",
+        "Unbleached Parchment Paper"
+      ],
+      "instructions": [
+        "In a small bowl, combine the almond meal, cocoa powder and baking powder.  In a separate bowl, combine the melted coconut oil and honey, and stir well.",
+        "Add the vanilla to the wet ingredients.  When the coconut oil has cooled, add the eggs.",
+        "Combine the wet and dry mixtures, stirring well.  Add the dark chocolate chips.",
+        "Line your slow cooker with parchment paper and pour in the mixture on top of it.  Drop the almond butter on top of the mixture, and using a knife, swirl it around.",
+        "Cover and cook on LOW for 1 hour and 15 minutes."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Chocolate Chili",
+      "image": "images/chocolate_chili.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "1 - Large Onion",
+        "4 tsp - Minced Garlic",
+        "2 lb. - Grass Fed Ground Beef",
+        "1 tsp - Dried Oregano",
+        "1 1/2 Tbsp - Chili Powder",
+        "1 1/2 Tbsp - Ground Cumin",
+        "1 1/2 Tbsp - Unsweetened Cocoa Powder",
+        "1 tsp - Ground Allspice",
+        "1 tsp - Sea Salt",
+        "2 cups - Beef Broth",
+        "3/4 cup - Water"
+      ],
+      "instructions": [
+        "Heat a large skillet on medium-high heat, then add coconut oil.  When oil is melted, add onions and cook until translucent.  Add garlic.",
+        "Crumble the ground meat into the skillet and stir to combine.  Continue to cook meat mixture, stirring often until it is cooked through.",
+        "Add it to a large crockpot.  Add the rest of the ingredients and mix well.  Set the crockpot on low for 2.5 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Cinnamon Ginger Lamb",
+      "image": "images/cinnamon_ginger_lamb.png",
+      "notes": "",
+      "ingredients": [
+        "2 - Whole Cinnamon Sticks",
+        "2 pounds - Boneless Leg of Lamb",
+        "1 - Onion, Chopped",
+        "4 - Carrots, Chopped",
+        "1 Tbsp - Cumin",
+        "1 Tbsp - Coriander",
+        "1 tsp - Cayenne Pepper",
+        "2 Tbsp - Fresh Ginger, Minced",
+        "1 tsp - Ground Ginger",
+        "4 - Garlic Cloves, Minced"
+      ],
+      "instructions": [
+        "Place the cinnamon sticks on the bottom of the slow cooker.",
+        "Place the lamb on top of the cinnamon sticks.",
+        "Chop the onion and carrots and place them on top of the lamb.",
+        "Add the garlic and ginger and remaining spices.",
+        "Cover and cook on LOW for 8 hrs."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Crockpot Hamburger Soup",
+      "image": "images/crockpot_hamburger_soup.png",
+      "notes": "",
+      "ingredients": [
+        "1 lb. - Grass Fed Ground Beef",
+        "6 cups - Chicken or Beef Broth",
+        "1 Large Sweet Potato",
+        "3  Carrots",
+        "1  Onion",
+        "4 Stalks Celery",
+        "1 Head of Broccoli",
+        "1 Tbsp - Dried Parsley",
+        "1/2 tsp - Dried Oregano",
+        "1/4 tsp - Beef Roast Seasoning",
+        "1/4 tsp - Chophouse Seasoning",
+        "Sea Salt/Pepper to Taste"
+      ],
+      "instructions": [
+        "Brown the ground beef in a skillet on medium-low heat, then add to the crockpot.",
+        "Add all other ingredients and turn the crockpot on high for 5 hours."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Egg Roll Soup",
+      "image": "images/egg_roll_soup.png",
+      "notes": "",
+      "ingredients": [
+        "1 pound - Grass Fed Ground Beef",
+        "1 Tbsp - Coconut Oil",
+        "1  Onion, Diced",
+        "4 cups (32 oz.) - Chicken Broth",
+        "1/2 head Cabbage, Chopped",
+        "2 cups - Shredded Carrots",
+        "1 tsp - Garlic Powder",
+        "1 tsp - Onion Powder",
+        "1 tsp - Sea Salt",
+        "1 tsp - Ground Ginger",
+        "1/2 cup - Coconut Aminos",
+        "2 Tbsp - Tapioca Starch or Arrowroot Powder"
+      ],
+      "instructions": [
+        "Brown the meat in the coconut oil in a skillet until almost browned. Transfer the meat to the slow cooker. Add the remaining ingredients except for the tapioca starch. Cook on low for 5 hours.",
+        "Before serving, remove ¼ cup of the liquid from the crockpot, add tapioca starch to the liquid and mix well. Pour it back into the crockpot and stir well to thicken."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Fiesta Lime Chicken",
+      "image": "images/fiesta_lime_chicken.png",
+      "notes": "",
+      "ingredients": [
+        "1 - Small Yellow Onion, Sliced",
+        "3 - Limes",
+        "3-4 lbs. Chicken Breasts",
+        "4 Tbsp - Taco Seasoning",
+        "1/4 cup - Chicken Broth"
+      ],
+      "instructions": [
+        "Thinly slice the onions into strips and place them in the slow cooker.",
+        "Cut one lime in half and squeeze juice over the onions.",
+        "Place the chicken on top of the onions and evenly sprinkle with half of the taco seasoning.  Turn the chicken over and season the other side with remaining seasoning.",
+        "Squeeze the remaining limes over the chicken and add the chicken broth.",
+        "Cover and cook on HIGH for 3.5 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Lectin Free Chili",
+      "image": "images/lectin_free_chili.png",
+      "notes": "",
+      "ingredients": [
+        "1 tsp - Sea Salt",
+        "2 pounds - Grass Fed Ground Beef",
+        "1 tsp - Avocado Oil",
+        "2 tsp - Minced Garlic",
+        "1 - Medium Onion or 3 Small Leeks, Chopped",
+        "3 - Stalks of Celery, Finely Diced",
+        "2 Tbsp - Chili Powder",
+        "2 tsp - Ground Cumin",
+        "¼ tsp - Ground Cinnamon",
+        "1 - Pinch of Ground Cloves",
+        "2 cups - Grass Fed Beef Broth",
+        "3 oz. - Pine Nuts",
+        "1 - Large Sweet Potato, Pureed",
+        "1 tsp - Dried Adobo Seasoning",
+        "2 tsp - Red Wine Vinegar",
+        "2 tsp - Coconut Aminos",
+        "2 tsp - Sea Salt",
+        "Pepper to Taste",
+        "Optional: Sliced Scallions for Garnish"
+      ],
+      "instructions": [
+        "Bake the sweet potato for about an hour at 375 degrees and set aside. (this can be done the day before if desired).",
+        "Cook the ground beef and 1 tsp. salt in a skillet until broken up in small pieces and about halfway cooked. Transfer to crockpot.",
+        "Use the same skillet to heat avocado oil. Then add garlic, onion, and celery and cook for 5 minutes until soft. Add the chili powder, cumin, cinnamon and cloves and stir, cooking for 1 more minute. Pour in the broth, scraping the bottom of the pan and transfer to the crockpot.",
+        "Add to the crockpot: pine nuts, sweet potato puree, adobo seasoning, wine vinegar, coconut aminos, 2 tsp. salt and pepper to taste.",
+        "Cover and cook on low for 5 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Maple Roasted Chicken with Sweet Potatoes",
+      "image": "images/maple_roasted_chicken_with_sweet_potatoes.png",
+      "notes": "",
+      "ingredients": [
+        "4 Chicken Breasts",
+        "1 Onion, Diced",
+        "2 Sweet Potatoes, Peeled and Cut into 1\" Chunks",
+        "2 Tbsp - Melted Coconut Oil",
+        "1 tsp - Sea Salt",
+        "1/4 tsp - Black Pepper",
+        "3 Tbsp - Pure Maple Syrup"
+      ],
+      "instructions": [
+        "Place all ingredients into the slow cooker.",
+        "Cook on Low for 6 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Meatloaf",
+      "image": "images/meatloaf.png",
+      "notes": "",
+      "ingredients": [
+        "1 lb - Grass Fed Ground Beef",
+        "1/2 cup - Crushed Almond Crackers (We use Simple Mills Sea Salt)",
+        "1 - Small Onion, Diced",
+        "1 tsp - Sea Salt",
+        "1/2 tsp - Chophouse Seasoning",
+        "1/2 tsp - Oregano",
+        "Top with Barbeque Sauce (Our Favorite- Brownwood Farm's Cherry Barbeque Sauce)"
+      ],
+      "instructions": [
+        "Mix all ingredients together in a bowl. Shape into a loaf and place in a slow cooker.",
+        "Top with sauce. Cook on low for 3.5-4 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Mild shredded Chicken",
+      "image": "images/mild_shredded_chicken.png",
+      "notes": "Super easy and quick!! Great to serve over the top of a salad or other greens.",
+      "ingredients": [
+        "Boneless, Skinless Chicken Breasts",
+        "All Natural Barbeque Sauce (Our favorite is Brownwood Farms Cherry Barbeque Sauce)"
+      ],
+      "instructions": [
+        "Place the chicken breasts in the slow cooker and pour the sauce over them.",
+        "Cover and cook on low for 4 hours.",
+        "When done, shred the chicken with a knife and fork and mix well."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Sesame Orange Chicken",
+      "image": "images/sesame_orange_chicken.png",
+      "notes": "",
+      "ingredients": [
+        "TODO: diff categories of ingredients"
+      ],
+      "instructions": [
+        "Place chicken in the slow cooker. Place the remaining crockpot ingredients in a bowl, whisk together, and pour over the chicken. Flip the chicken over to fully coat. Cook the chicken on low for 4 hours.",
+        "Remove the chicken from the sauce and chop it into bite size pieces. Transfer the sauce from the crockpot into a small saucepan. Return the chicken to the crockpot and cover to keep warm.",
+        "Add tapioca flour to the sauce and simmer on the stovetop over medium heat until it becomes thickened. Pour back over the chicken in the crockpot.",
+        "Heat the cauliflower rice in a pot until warm.",
+        "Spoon the mixture onto plates on top of the cauliflower rice. Sprinkle with sesame seeds and top with chopped green onions."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Slow Cooked Almond Apple Cereal",
+      "image": "images/slow_cooked_almond_apple_cereal.png",
+      "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
+      "ingredients": [
+        "3 Apples, peeled and shredded",
+        "3 cups - Almond Flour",
+        "3 cups - Water",
+        "1 Tbsp - Ground Cinnamon",
+        "Raw Honey or Maple Syrup"
+      ],
+      "instructions": [
+        "Peel and shred the apples and place them in the slow cooker.",
+        "Add remaining ingredients and stir well.",
+        "Cover and cook on LOW for 6 hours. Sweeten with honey or pure maple syrup to taste."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Slow Cooked Banana Bread",
+      "image": "images/slow_cooked_banana_bread.png",
+      "notes": "",
+      "ingredients": [
+        "4 Ripe Bananas",
+        "1/4 cup plus 2 Tbsp - Coconut Oil, melted",
+        "1/2 cup - Raw Honey",
+        "1 Tbsp - Pure Vanilla Extract",
+        "3 Tbsp - Coconut Milk",
+        "3 Eggs",
+        "2 cups - Almond Flour",
+        "1 tsp - Baking Soda",
+        "Unbleached Parchment Paper"
+      ],
+      "instructions": [
+        "In a large mixing bowl, mash the bananas with a fork. Add the coconut oil, stir in the honey, vanilla, coconut milk and eggs, and mix well.",
+        "Add the flour and baking soda (the mixture will be thin, like pancake batter).",
+        "Line your slow cooker with unbleached parchment paper. Pour the banana mixture into the slow cooker, on top of the parchment paper and cook on LOW for 2 hours.",
+        "When the bread is done, remove it by lifting out the parchment paper and placing it on a cutting board to cool, or leave it in the slow cooker on warm and enjoy it all day!"
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Slow Cooked Ham",
+      "image": "images/slow_cooked_ham.png",
+      "notes": "",
+      "ingredients": [
+        "All Natural, Antibiotic-Free Turkey Ham",
+        "Whole Cloves, or Ground Cloves",
+        "1/8 cup - Plus 2 Tbsp. Pineapple Juice",
+        "3 Tbsp - Orange Juice",
+        "2 Tbsp - Pure Maple Syrup"
+      ],
+      "instructions": [
+        "Decorate the outside of the ham by inserting as many whole cloves as you like into it (just push the smaller side in toward the center of the ham, so it is sticking out the top). Or, sprinkle ground cloves on the top.",
+        "Place ham in the slow cooker.  Pour both juices over the top and Drizzle the ham with the maple syrup.  Cover and cook on LOW for 8 hours or until the internal temp. reaches 160 degrees. (If you are using a fully pre-cooked ham, cook on LOW for 2 hrs. and then set to warm until ready to eat)."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Slow Cooked Short Ribs",
+      "image": "images/slow_cooked_short_ribs.png",
+      "notes": "",
+      "ingredients": [
+        "1 Tbsp - Coconut Oil",
+        "4 Pounds of Beef Short Ribs",
+        "1 tsp - Sea Salt",
+        "1 tsp - Pepper",
+        "3 Cups - Beef Broth",
+        "1/4 cup - Worchestershire Sauce",
+        "1 tsp - Garlic Powder",
+        "1 tsp - Onion Powder",
+        "1 Sprig Fresh Rosemary"
+      ],
+      "instructions": [
+        "Season the ribs on all sides with salt and pepper.",
+        "Melt coconut oil in a large skillet over medium heat. Sear the ribs  on each of the 4 sides for about 60 seconds on each side. Set aside.",
+        "Pour the beef broth, worcestershire sauce, garlic powder and onion powder into a slow cooker and stir together.",
+        "Place the ribs into the liquid in the slow cooker. Spoon the liquid over the top of the ribs to saturate.",
+        "Place the rosemary sprig on top of the meat and place the lid on the slow cooker.",
+        "Cook on low for 6-8 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Slow Cooked Whole Chicken",
+      "image": "images/slow_cooked_whole_chicken.png",
+      "notes": "After we eat the chicken for dinner, we strain the liquid from the slow cooker into a stock pot, add a little extra water, throw in some veggies and a few spices and pick off the rest of the chicken meat from the bones left over (you can use the pieces of meat that no one likes to eat at dinner, like the back meat).  It makes a very yummy soup that will last a couple days.  This really makes the extra cost of a pasture raised bird worth it! While the soup (above) is cooking, we will take the remaining bones and put them back into the crockpot, cover completely with water and follow the bone broth recipe in the “Soups and Sauces” section of this cookbook! Simple, easy and healthy way to get the most out of a single bird!",
+      "ingredients": [
+        "1 Whole Free-Range Chicken",
+        "Water",
+        "Your Favorite Spices (Chophouse Seasoning, Sea Salt and/or Chicken Rub Spice)"
+      ],
+      "instructions": [
+        "Add a few inches of water to the bottom of the slow cooker (this can be used after the chicken is cooked as a base to make veggie soup-see below).  Rinse the chicken and place it into the slow cooker.  Add spices.",
+        "Cover and cook on HIGH for 4 hours or LOW for 6 hours."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Slow Cooker Chicken Tortilla Soup",
+      "image": "images/slow_cooker_chicken_tortilla_soup.png",
+      "notes": "",
+      "ingredients": [
+        "1 lb. Chicken Breast, Trimmed",
+        "5 cups Chicken Broth",
+        "1 Medium Onion, Chopped",
+        "1 Green Pepper, Chopped",
+        "1 Serrano Pepper, Minced",
+        "2 tsp - Minced Garlic",
+        "1/4 tsp - Chili Powder",
+        "1 1/2 tsp - Sea Salt, Divided in Half",
+        "1 tsp - Ground Pepper, Divided in Half"
+      ],
+      "instructions": [
+        "Add ingredients listed above with half of the salt and pepper into the crockpot.",
+        "Cook on high for 4 hours.",
+        "Prior to serving, remove the chicken breasts from the crockpot, shred and season with remaining salt and pepper, and place back in the crockpot.",
+        "Stir."
+      ]
+    },
+    {
+      "category": "Soups and Sauces",
+      "title": "Southern Sweet Potato Soup",
+      "image": "images/southern_sweet_potato_soup.png",
+      "notes": "",
+      "ingredients": [
+        "2 Large Sweet Potatoes, Peeled and Sliced",
+        "3 1/2 cups - Organic Chicken Broth",
+        "2 cups - Chopped Onion",
+        "6 Celery Stalks, Chopped",
+        "2 tsp - Minced Garlic",
+        "1/2 cup - Water",
+        "1/3 cup - Coconut Oil, Melted",
+        "3 Tbsp - Creamy Almond Butter",
+        "1/4 tsp - Ground Cinnamon",
+        "1/2 cup - Almond or Coconut Milk",
+        "1 tsp - Dried Thyme",
+        "1 1/2 Tbsp - Raw Honey",
+        "1/8 tsp - Ground Nutmeg"
+      ],
+      "instructions": [
+        "Combine top grouping of ingredients in a 5 qt. or larger crockpot.",
+        "Cover and cook on low for 7 hours or until potatoes are tender.  Cool slightly.",
+        "Scoop mixture into a blender (as much as will fit).  Blend until smooth and add back into the crockpot.  Repeat and return to the crockpot.  Add almond milk, thyme, honey and nutmeg.  Stir and enjoy!"
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Steak and Root Vegetable Chili",
+      "image": "images/steak_and_root_vegetable_chili.png",
+      "notes": "",
+      "ingredients": [
+        "2 Tbsp - Coconut Oil",
+        "2 lb. - Grass Fed Steak, Cubed",
+        "2 Sweet Potatoes, Peeled and Cut into 1\" Cubes",
+        "4 Carrots, Peeled and Cut",
+        "1 Large Onion, Chopped",
+        "1 Tbsp - Minced Garlic",
+        "2 1/2 cups - Beef Broth",
+        "1/2 Tbsp - Ground Cumin",
+        "1 1/2 Tbsp - Chili Powder",
+        "Optional: Chopped Green Onion for Garnish"
+      ],
+      "instructions": [
+        "In a large skillet, heat oil over med-high heat.  Add the meat and brown all sides for about 5 min.",
+        "Add all the ingredients to the slow cooker.  Stir well to combine.",
+        "Cover and cook on low for 8 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Stuffed Acorn Squash",
+      "image": "images/stuffed_acorn_squash.png",
+      "notes": "",
+      "ingredients": [
+        "2  Small Acorn Squash",
+        "1 lb - Italian Seasoned Bulk Chicken Sausage",
+        "1  Onion, Diced",
+        "2 cups - Mushrooms, Chopped",
+        "2 cups - Spinach Leaves",
+        "1 cup - Water"
+      ],
+      "instructions": [
+        "Place 1 cup of water in the bottom of slow cooker.  Cut the acorn squash in half, lengthwise, scoop out the seeds, and set aside.",
+        "In a large skillet, brown the sausage over medium heat.  Add the onions, mushrooms and spinach to the sausage, and cook for 1-2 minutes.  Remove from heat.",
+        "Stuff the cavity of the squash with as much of the mixture as you can (It is okay to overstuff them).  Carefully place them in the slow cooker, and repeat for the remaining squash halves.",
+        "Cover and cook on HIGH for 4 hours."
+      ]
+    },
+    {
+      "category": "Entrées",
+      "title": "Jalapeno Sweet Potato Chowder",
+      "image": "images/jalapeno_sweet_potato_chowder.png",
+      "notes": "",
+      "ingredients": [
+        "2 - Large Sweet Potatoes, Fully Cooked",
+        "3 - Boneless, Skinless Chicken Breasts, Cut to Stew Size Pieces",
+        "1 - Yellow Onion, Chopped",
+        "2 - Carrots, Peeled and Chopped",
+        "3 - Celery Stalks, Chopped",
+        "2 Tbsp - Coconut Oil, Melted",
+        "2 cups - Chicken Broth",
+        "2 - Jalapeno Peppers, Finely Diced",
+        "1/2 cup - Coconut Milk"
+      ],
+      "instructions": [
+        "Cook the sweet potatoes the night before and store in the fridge.",
+        "The next day, place the chicken in the slow cooker.",
+        "Add the onions, carrots, celery, jalapeno peppers and coconut oil.",
+        "Scoop out the sweet potato insides and place in a blender with one cup of the chicken broth.  Puree until smooth and add to the slow cooker.",
+        "Add the coconut milk and remaining chicken broth and stir well.  Cover and cook on LOW for 4 hrs.  Uncover and cook on LOW for another half hour.  This will thicken the chowder."
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "title": "Sweet Potato Sausage Hash",
+      "image": "images/sweet_potato_sausage_hash.png",
+      "notes": "You can start this in the slow cooker before you go to bed and wake up to a ready-to-eat breakfast!",
+      "ingredients": [
+        "3 Medium Sweet Potatoes, peeled and grated",
+        "1 Yellow Onion, diced",
+        "1 Jalapeno Pepper, diced",
+        "1 Box Applegate Farm Chicken and Sage Sausage, chopped",
+        "Optional: Garnish with Avocado"
+      ],
+      "instructions": [
+        "Peel the sweet potatoes, shred them with a grater, and place them in the slow cooker.",
+        "Add the rest of the ingredients and stir together.",
+        "Cover and cook on LOW for 6-8 hours."
+      ]
+    },
+    {
       "category": "Miscellaneous",
       "title": "Chai Exfoliating Face Scrub",
       "image": "images/chai_exfoliating_face_scrub.png",
