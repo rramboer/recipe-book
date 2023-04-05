@@ -1,2 +1,2 @@
 clean: 
-	rm images/*.png:Zone.Identifier
+	rm images/*:Zone.Identifier

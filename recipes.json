@@ -68,10 +68,7 @@
       "title": "Homemade Citrus Cleaner",
       "image": "images/homemade_citrus_cleaner.png",
       "notes": "Do not use vinegar solutions to clean granite, marble or stone.",
-      "ingredients": [
-        "32 oz - White Vinegar",
-        "3 Lemon Peels"
-      ],
+      "ingredients": ["32 oz - White Vinegar", "3 Lemon Peels"],
       "instructions": [
         "Peel the lemons and place into a large glass jar with a lid.",
         "Pour the entire bottle of vinegar over the top of the lemon peels.",
@@ -84,11 +81,7 @@
       "title": "Natural Powder Blush",
       "image": "images/natural_powder_blush.png",
       "notes": "The amounts of each ingredient to use will vary per person. You will have to experiment to find out what works for you.",
-      "ingredients": [
-        "Arrowroot Flour",
-        "Cocoa Powder",
-        "Ground Hibiscus"
-      ],
+      "ingredients": ["Arrowroot Flour", "Cocoa Powder", "Ground Hibiscus"],
       "instructions": [
         "Start with 1 tsp arrowroot in a small 4 oz mason jar.",
         "Add cocoa powder and hibiscus until you reach desired shade.",
@@ -131,10 +124,7 @@
       "title": "Pumpkin Seeds",
       "image": "images/pumpkin_seeds.png",
       "notes": "",
-      "ingredients": [
-        "Pumpkin Seeds",
-        "Coconut Oil"
-      ],
+      "ingredients": ["Pumpkin Seeds", "Coconut Oil"],
       "instructions": [
         "Remove and wash seeds.",
         "Pat dry.",
@@ -158,7 +148,7 @@
       "instructions": [
         "Before beginning, make calcium water:  Mix 1/2 tsp calcium powder (smaller packet in Pamona's box) with 1/2 cup water in a jar with a lid.",
         "Wash strawberries and cut off tops.",
-        "Rinse jars and fill with hot water.  Set aside.",
+        "Rinse jars and fill with hot water. Set aside.",
         "Pulse blend the strawberries in the blender until it reaches desired consistency.",
         "Pour strawberry puree into the saucepan, add 2 tsp calcium water, and stir.",
         "Measure sugar into a separate bowl. Add 2 tsp pectin powder and thoroughly stir. Turn the saucepan burner up to med/high.",
@@ -206,7 +196,7 @@
         "Melt the coconut oil in the oven while starting on other ingredients.",
         "In a medium bowl, blend almond butter, coconut butter, honey, shredded coconut, cocoa powder and coconut oil until well blended.",
         "Press mixture into a parchment paper lined 8\" by 8\" baking dish and refrigerate until firm.",
-        "Meanwhile, melt the dark chocolate in a double boiler over simmering water.  Spread the melted chocolate over the bars and sprinkle with chopped almonds quickly before the chocolate hardens.",
+        "Meanwhile, melt the dark chocolate in a double boiler over simmering water. Spread the melted chocolate over the bars and sprinkle with chopped almonds quickly before the chocolate hardens.",
         "Remove parchment paper from the baking dish and cut into bars.",
         "Keep refrigerated until ready to eat, or freeze for later use."
       ]
@@ -217,7 +207,19 @@
       "image": "images/almond_butter_cups.png",
       "notes": "",
       "ingredients": [
-        "TODO: figure out 2 sections of ingredients"
+        "Shells:",
+        "4 Tbsp - Coconut Milk, Melted",
+        "4 Tbsp - Coconut Cream",
+        "1/4 cup - Unsweetened Cocoa Powder",
+        "3 tsp - Pure Maple Syrup",
+        "1/2 tsp - Pure Vanilla Extract",
+        "Pinch of Sea Salt",
+        "Pinch of Cinnamon",
+        "Filling:",
+        "3 Tbsp - Almond Butter",
+        "1 Tbsp - Coconut Oil, Melted",
+        "1 tsp - Pure Maple Syrup",
+        "Pinch of Sea Salt"
       ],
       "instructions": [
         "In a medium bowl, whisk together all shell ingredients.",
@@ -243,11 +245,11 @@
         "1/4 cup - Coconut Oil, Melted"
       ],
       "instructions": [
-        "Preheat the oven to 350 degrees.  Place coconut oil in a glass dish in the oven to melt.  In a small bowl, combine almond flour, coconut flour, arrowroot starch and sea salt.",
+        "Preheat the oven to 350 degrees. Place coconut oil in a glass dish in the oven to melt. In a small bowl, combine almond flour, coconut flour, arrowroot starch and sea salt.",
         "In a medium sized bowl, blend the coconut sugar, maple syrup and almond extract until combined.",
-        "Add the contents of the small bowl to the medium sized bowl and mix.  Slowly add the coconut oil and blend well.",
-        "Place dough on a sheet of parchment paper and press until it is about ½ inch thickness.  Use a cookie cutter to cut out shapes.  Place the cut cookies on a cookie sheet lined with parchment paper. Re-roll excess dough and cut more.",
-        "Bake for 14 min. or until cookies are golden brown.  Let them cool completely on a wire rack.",
+        "Add the contents of the small bowl to the medium sized bowl and mix. Slowly add the coconut oil and blend well.",
+        "Place dough on a sheet of parchment paper and press until it is about ½ inch thickness. Use a cookie cutter to cut out shapes. Place the cut cookies on a cookie sheet lined with parchment paper. Re-roll excess dough and cut more.",
+        "Bake for 14 min. or until cookies are golden brown. Let them cool completely on a wire rack.",
         "Store in an airtight container until ready to eat, or freeze."
       ]
     },
@@ -268,12 +270,12 @@
         "1/2 Pint Glass Canning Jar"
       ],
       "instructions": [
-        "Preheat the oven to 400 degrees.  Use a paper towel to wipe the inside of the jar with coconut oil.",
+        "Preheat the oven to 400 degrees. Use a paper towel to wipe the inside of the jar with coconut oil.",
         "Bring a kettle of water to a boil.",
-        "In a medium bowl, whisk egg, milk, honey and vanilla.  Pour into a jar.",
+        "In a medium bowl, whisk egg, milk, honey and vanilla. Pour into a jar.",
         "Transfer the jar to a casserole dish and fill the dish with just enough boiling water to go about halfway up the sides of the jar.",
-        "Bake until set, about 20 min.  Remove from the oven and water bath and set aside until cooled to room temp.",
-        "Meanwhile, in a glass dish, combine berries and lime juice.  Spread over custard and top with mint.  Cover with lid and refrigerate."
+        "Bake until set, about 20 min. Remove from the oven and water bath and set aside until cooled to room temp.",
+        "Meanwhile, in a glass dish, combine berries and lime juice. Spread over custard and top with mint. Cover with lid and refrigerate."
       ]
     },
     {
@@ -317,7 +319,20 @@
       "image": "images/banana_cream_pudding_pie.png",
       "notes": "These can also be made in individual size serving dishes as shown above.",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crust:",
+        "1 cup - Dates",
+        "1 cup - Pecans",
+        "1 tsp - Coconut Oil",
+        "1/8 tsp - Sea Salt",
+        "Pie Filling:",
+        "3/4 cup - Coconut Sugar",
+        "1/4 cup - Arrowroot Flour",
+        "3 cups - Full Fat Coconut Milk",
+        "2 Tbsp - Grass Fed Beef Gelatin",
+        "5 1/2 Tbsp - Hot Water",
+        "1 Tbsp - Coconut Oil",
+        "2 tsp - Vanilla Extract",
+        "3 Bananas"
       ],
       "instructions": [
         "Place all crust ingredients in a blender and pulse, scraping down the sides, until well mixed. Press into the bottom of a pie pan.",
@@ -368,7 +383,7 @@
         "Ground Cinnamon"
       ],
       "instructions": [
-        "Preheat the oven to 375 degrees. Place the berries in an 8” x 8” glass dish and sprinkle with cinnamon if desired.",
+        "Preheat the oven to 375 degrees. Place the berries in an 8\"x8\" glass dish and sprinkle with cinnamon if desired.",
         "In a medium bowl, combine almond flour, coconut flour, tapioca or arrowroot, maple syrup and oil and mix until crumbly.",
         "Sprinkle the topping mix over the berries.",
         "Bake covered for 35 minutes, then remove cover and bake for another 20 minutes. Easy and Delish!"
@@ -380,11 +395,25 @@
       "image": "images/caramel_date_bars.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crust:",
+        "1 cup - Dates, Pitted",
+        "1/2 cup - Pecans",
+        "1 tsp - Coconut Oil",
+        "Caramel Layer:",
+        "1 cup - Dates, Pitted",
+        "1/2 cup - Coconut Oil",
+        "1 1/2 Tbsp - Almond Butter",
+        "1/4 cup - Pure Maple Syrup",
+        "1 cup - Raw Macadamia Nuts, Soaked in water for 1 hour and rinsed",
+        "1/3 cup - Water",
+        "Top Layer:",
+        "1/4 cup - Coconut Oil",
+        "1/4 cup - Pure Maple Syrup",
+        "1/4 cup - Cocoa Powder"
       ],
       "instructions": [
         "Soak the macadamia nuts in water for an hour, then rinse.",
-        "Put crust ingredients into a blender and pulse until crumbly. Pour into an 8”x8” parchment paper lined glass dish and press firmly to form a crust. Place in the freezer while continuing to work.",
+        "Put crust ingredients into a blender and pulse until crumbly. Pour into an 8\"x8\" parchment paper lined glass dish and press firmly to form a crust. Place in the freezer while continuing to work.",
         "To prepare the caramel layer, put all caramel layer ingredients into the blender and blend until smooth, scraping down the sides as you go. Pour on top of the crust, spread evenly,  and return to the freezer to set.",
         "Wait 20 minutes for it to become firm in the freezer.",
         "For the top layer, mix the top layer ingredients in a saucepan on low heat and stir until combined and smooth (like chocolate sauce). Spread it with a spoon on top of the caramel layer and return it to the freezer for an hour to set.",
@@ -397,7 +426,24 @@
       "image": "images/carrot_cake_bites.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Honey-Vanilla Frosting:",
+        "1/2 cup - Macadamia Nuts",
+        "Juice of Half a Lemon",
+        "2 Tbsp - Coconut Cream",
+        "1 1/2 Tbsp - Raw Honey",
+        "1 1/2 Tbsp - Coconut Oil, Soft but not Melted",
+        "1/4 tsp - Vanilla Extract",
+        "Bites:",
+        "1 1/2 cups - Pecans (or Walnuts)",
+        "8 Medjool Dates, Pitted and Chopped",
+        "2/3 cup - Unsweetened Shredded Coconut",
+        "3 Tbsp - Coconut Oil",
+        "1 1/4 tsp - Ground Cinnamon",
+        "3/4 tsp - Ground Ginger",
+        "1/4 tsp - Ground Allspice",
+        "1/4 tsp - Ground Nutmeg",
+        "1/4 tsp - Sea Salt",
+        "1 1/2 cups - Grated Carrots"
       ],
       "instructions": [
         "First make the frosting. Soak the macadamia nuts in water for 3 hours or overnight. Rinse with cold water and drain well.",
@@ -438,7 +484,26 @@
       "image": "images/cherry_spice_sandwich_cookies.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Cookies:",
+        "2 1/2 cups - Almond Flour",
+        "1/2 cup - Arrowroot Flour",
+        "2 Tbsp - Coconut Flour",
+        "1 tsp - Baking Soda",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Ground Cinnamon",
+        "1/4 tsp - Ground Ginger",
+        "2 Tbsp - Orange Zest",
+        "1/4 cup - Pistachios (or Pecans), Finely Chopped",
+        "1/3 cup - Coconut Oil, Melted",
+        "1/2 cup - Pure Maple Syrup",
+        "1 tsp - Vanilla",
+        "1 1/2 Tbsp - Water",
+        "Cherry Filling:",
+        "1 1/2 cup - Frozen Cherries, Thawed",
+        "1/3 cup - Juice from Orange",
+        "1/4 cup - Pure Maple Syrup",
+        "1/4 tsp - Ground Cinnamon",
+        "1/8 tsp - Sea Salt"
       ],
       "instructions": [
         "To make the cookies, add the almond flour, arrowroot, coconut flour, baking soda, salt, cinnamon, ginger, orange zest and nuts to a bowl. Stir to combine.",
@@ -457,7 +522,17 @@
       "image": "images/chia_caramel_apple_parfait.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Chia Mix:",
+        "1/2 cup - Chia Seeds",
+        "2 cups - Almond Milk (or Coconut Milk)",
+        "2 tsp - Pure Vanilla Extract",
+        "Caramel Apple Mix:",
+        "1 Tbsp - Coconut Oil",
+        "3 Apples, Cored and Roughly Chopped",
+        "1/3 cup - Coconut Sugar",
+        "1/2 cup - Coconut Milk",
+        "1/2 tsp - Ground Cinnamon",
+        "Pinch of Sea Salt"
       ],
       "instructions": [
         "Combine Chia mix ingredients in a small bowl. Cover and place in the fridge to soak for at least 3 hours.",
@@ -471,14 +546,27 @@
       "category": "Desserts",
       "title": "Chocolate \"Cheesecake\"",
       "image": "images/chocolate_cheesecake.png",
-      "notes": "Optional Strawberry Sauce topper: Combine 5 oz. of thawed frozen strawberries with 1 Tbsp. pure maple syrup and blend until smooth. Mix with 5 oz. chopped strawberries for texture and spoon over each slice.",
+      "notes": "Optional Strawberry Sauce topper: Combine 5 oz of thawed frozen strawberries with 1 Tbsp pure maple syrup and blend until smooth. Mix with 5 oz chopped strawberries for texture and spoon over each slice.",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crust:",
+        "2 cups - Raw Pecans",
+        "2 Tbsp - Coconut Oil, Melted",
+        "1/4 cup - Cocoa Powder",
+        "1/4 cup - Pure Maple Syrup",
+        "1/8 tsp - Sea Salt",
+        "Filling:",
+        "2 cups - Raw Macadamia Nuts, Soaked for 1 Hour",
+        "1 cup - Zucchini, Peeled and Diced",
+        "1/2 cup - Cocoa Powder",
+        "1/2 cup - Pure Maple Syrup",
+        "1 Tbsp - Vanilla Extract",
+        "1/4 tsp - Sea Salt",
+        "1/4 cup - Coconut Oil, Melted"
       ],
       "instructions": [
         "Soak the macadamia nuts for 1 hour in water, then drain.",
         "Melt coconut oil in a glass dish in the oven until liquid.",
-        "Prepare crust: Place pecans in food processor/blender and grind to a fine meal.  Add rest of crust ingredients and process again until well combined.",
+        "Prepare crust: Place pecans in food processor/blender and grind to a fine meal. Add rest of crust ingredients and process again until well combined.",
         "Press mixture into the bottom of a pie pan and place in the freezer while preparing the filling.",
         "Prepare filling: In a high powered food processor/blender, process the macadamia nuts into a fine meal.",
         "Add in zucchini, cocoa powder, maple syrup, vanilla and sea salt. Blend again until a smooth and creamy batter is formed.",
@@ -506,10 +594,10 @@
         "Unbleached Parchment Paper"
       ],
       "instructions": [
-        "In a small bowl, combine the almond meal, cocoa powder and baking powder.  In a separate bowl, combine the melted coconut oil and honey, and stir well.",
-        "Add the vanilla to the wet ingredients.  When the coconut oil has cooled, add the eggs.",
-        "Combine the wet and dry mixtures, stirring well.  Add the dark chocolate chips.",
-        "Line your slow cooker with parchment paper and pour in the mixture on top of it.  Drop the almond butter on top of the mixture, and using a knife, swirl it around.",
+        "In a small bowl, combine the almond meal, cocoa powder and baking powder. In a separate bowl, combine the melted coconut oil and honey, and stir well.",
+        "Add the vanilla to the wet ingredients. When the coconut oil has cooled, add the eggs.",
+        "Combine the wet and dry mixtures, stirring well. Add the dark chocolate chips.",
+        "Line your slow cooker with parchment paper and pour in the mixture on top of it. Drop the almond butter on top of the mixture, and using a knife, swirl it around.",
         "Cover and cook on LOW for 1 hour and 15 minutes."
       ]
     },
@@ -534,7 +622,7 @@
       ],
       "instructions": [
         "Preheat the oven to 350 degrees.",
-        "In a medium bowl, beat egg whites and sea salt until frothy. Add vanilla, almond extract, coconut flour, almond flour, cocoa powder and maple syrup.  Mix briefly to incorporate.",
+        "In a medium bowl, beat egg whites and sea salt until frothy. Add vanilla, almond extract, coconut flour, almond flour, cocoa powder and maple syrup. Mix briefly to incorporate.",
         "Stir in coconut, cherries, almonds and chocolate chips.",
         "Scoop rounded tablespoons of dough on an (unbleached) parchment paper lined baking sheet.",
         "Bake for 12-15 minutes or until cookies are firm to the touch.",
@@ -586,13 +674,13 @@
       ],
       "instructions": [
         "Preheat the oven to 350 degrees.",
-        "In a food processor or high speed blender, puree half the bag of freeze dried strawberries until it becomes a fine powder.  Coarsely chop the other half of the bag of strawberries.",
+        "In a food processor or high speed blender, puree half the bag of freeze dried strawberries until it becomes a fine powder. Coarsely chop the other half of the bag of strawberries.",
         "In a medium sized bowl, beat the egg white with the sea salt until stiff peaks form.",
         "Gently fold in strawberry powder, chopped strawberries and remaining ingredients into the egg whites until just combined.",
         "Scoop the dough into golf ball sized balls and place them on parchment lined baking sheets.",
-        "Bake for 13-15 min or until bottoms turn golden brown.  Place parchment paper on a wire rack and let cool completely.",
-        "Meanwhile, melt the dark chocolate and palm shortening in a double boiler over simmering water, stir until smooth.  Dip the bottom of each cookie into melted chocolate and place on parchment paper until chocolate hardens.",
-        "Drizzle leftover chocolate over tops of cookies.  Store in an airtight container in the fridge or freeze until needed."
+        "Bake for 13-15 min or until bottoms turn golden brown. Place parchment paper on a wire rack and let cool completely.",
+        "Meanwhile, melt the dark chocolate and palm shortening in a double boiler over simmering water, stir until smooth. Dip the bottom of each cookie into melted chocolate and place on parchment paper until chocolate hardens.",
+        "Drizzle leftover chocolate over tops of cookies. Store in an airtight container in the fridge or freeze until needed."
       ]
     },
     {
@@ -632,7 +720,7 @@
       "instructions": [
         "Preheat the oven to 250 degrees.",
         "In a small bowl, mix together sea salt, cinnamon and arrowroot starch and set aside.",
-        "Measure maple syrup into a medium sized bowl. Add pecans to the maple syrup and toss to coat.  Sprinkle spice mixture over pecans and stir to coat evenly.",
+        "Measure maple syrup into a medium sized bowl. Add pecans to the maple syrup and toss to coat. Sprinkle spice mixture over pecans and stir to coat evenly.",
         "Spread the pecans in a single layer on a parchment lined baking sheet and bake for 30 min.",
         "Then turn the oven off and leave them in the oven for another 30 min. Remove and let cool.",
         "Store in an airtight container or freeze for future use."
@@ -676,7 +764,7 @@
         "In a small bowl, mix together sea salt, ginger and arrowroot starch and set aside.",
         "Measure maple syrup into a medium sized bowl and set aside.",
         "Zest the skin of approximately 2 oranges and set aside.",
-        "Add pecans to the maple syrup and toss to coat.  Sprinkle spice mixture and orange zest over pecans and stir to coat evenly.",
+        "Add pecans to the maple syrup and toss to coat. Sprinkle spice mixture and orange zest over pecans and stir to coat evenly.",
         "Spread the pecans in a single layer on a parchment lined baking sheet and bake for 30 min.",
         "Then turn the oven off and leave the nuts in the oven for another 30 min.",
         "Remove and let cool. Store in an airtight container or freeze for future use."
@@ -704,29 +792,60 @@
       "category": "Desserts",
       "title": "Lemon Blueberry Cookies",
       "image": "images/lemon_blueberry_cookies.png",
-      "notes": "To make the recipe egg free, substitute with the following: Place 1 ¼ tsp. of unflavored grass fed gelatin in a small bowl. Add 3 Tbsp. of hot water and blend together immediately until frothy (about 30 seconds). Add to the recipe right away and mix in.",
+      "notes": "To make the recipe egg free, substitute with the following: Place 1 1/4 tsp of unflavored grass fed gelatin in a small bowl. Add 3 Tbsp of hot water and blend together immediately until frothy (about 30 seconds). Add to the recipe right away and mix in.",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Dry Ingredients:",
+        "1 1/2 cups - Almond Flour",
+        "1 Tbsp - Coconut Flour",
+        "2 Tbsp - Arrowroot Starch",
+        "1/2 tsp - Baking Soda",
+        "Pinch of Sea Salt",
+        "Wet Ingredients:",
+        "1/3 cup - Pure Maple Syrup",
+        "1 tsp - Pure Vanilla Extract",
+        "1 Egg",
+        "1 Tbsp - Lemon Juice",
+        "2 Tbsp - Coconut Oil, Melted",
+        "Add-Ins:",
+        "1 tsp - Lemon Zest",
+        "1/2 cup - Freeze Dried Blueberries"
       ],
       "instructions": [
-        "Preheat the oven to 350 degrees.  Put coconut oil in a glass jar and place in the oven to melt.",
-        "In a medium sized bowl, combine all dry ingredients. Add the maple syrup, vanilla extract, egg and lemon juice and blend.  Slowly add coconut oil and blend well.  Stir in lemon zest and blueberries.  Let the dough rest for 5 minutes.",
-        "Stir once more and scoop into 1 inch balls.  Place balls on a parchment lined cookie sheet. Bake 10-12 minutes or until centers are done.  Move parchment paper to a wire rack to cool completely."
+        "Preheat the oven to 350 degrees. Put coconut oil in a glass jar and place in the oven to melt.",
+        "In a medium sized bowl, combine all dry ingredients. Add the maple syrup, vanilla extract, egg and lemon juice and blend. Slowly add coconut oil and blend well. Stir in lemon zest and blueberries. Let the dough rest for 5 minutes.",
+        "Stir once more and scoop into 1 inch balls. Place balls on a parchment lined cookie sheet. Bake 10-12 minutes or until centers are done. Move parchment paper to a wire rack to cool completely."
       ]
     },
     {
       "category": "Desserts",
       "title": "Lemon Coconut Loaf",
       "image": "images/lemon_coconut_loaf.png",
-      "notes": "",
+      "notes": "Makes 2 mini loaves.",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Dry Ingredients:",
+        "1 cup - Almond Flour",
+        "1/4 cup - Coconut Flour",
+        "3 Tbsp - Arrowroot Starch",
+        "1 tsp - Baking Powder",
+        "1/4 tsp - Baking Soda",
+        "1/4 tsp - Sea Salt",
+        "Wet Ingredients:",
+        "3 Eggs",
+        "1 tsp - Pure Vanilla Extract",
+        "1/4 cup - Pure Maple Syrup",
+        "1/2 cup - Coconut Milk",
+        "1/4 cup - Coconut Oil, Melted",
+        "2 Tbsp - Lemon Juice",
+        "Add-Ins:",
+        "2 tsp - Lemon Zest",
+        "1/3 cup - Shredded Coconut",
+        "2 Tbsp - Shredded Coconut, for topping"
       ],
       "instructions": [
         "Preheat the oven to 350 degrees.",
         "In a medium sized bowl, combine dry ingredients. Add all wet ingredients and mix well.",
         "Stir in lemon zest and ⅓ cup shredded coconut.",
-        "Grease 2 mini loaf pans with coconut oil and divide the batter evenly between the two pans.  Sprinkle shredded coconut over the tops.",
+        "Grease 2 mini loaf pans with coconut oil and divide the batter evenly between the two pans. Sprinkle shredded coconut over the tops.",
         "Bake for 35-40 min. or until loaves are golden brown and the centers spring back when pressed.",
         "Remove pans from the oven and let cool on a wire rack for 15 min.",
         "Turn the loaves out onto the wire rack to finish cooling completely.",
@@ -739,7 +858,23 @@
       "image": "images/maca_chocolate_pie.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crust:",
+        "3/4 cup - Raw Almonds",
+        "1/2 cup - Ground Flaxseed",
+        "1 Tbsp - Coconut Oil, Melted",
+        "1 Tbsp - Raw Honey",
+        "Sea Salt",
+        "Filling:",
+        "1/2 cup - Macadamia Nuts, Soaked for 1 hour",
+        "3/4 cup - Cocoa Powder",
+        "1/2 cup - Coconut Oil, Melted",
+        "2 Tbsp - Raw Honey",
+        "1/4 cup - Water",
+        "1 Tbsp - Maca Powder",
+        "Sea Salt",
+        "Toppings:",
+        "Coconut Flakes",
+        "Chopped Nuts"
       ],
       "instructions": [
         "Melt coconut oil in a glass dish in the oven.",
@@ -778,7 +913,7 @@
       "image": "images/chocolate_pudding.png",
       "notes": "",
       "ingredients": [
-        "1 (13.5oz.) can - Full Fat Coconut Milk",
+        "1 (13.5oz) can - Full Fat Coconut Milk",
         "1/2 cup - Hot Water",
         "4.5 ozs - Dates, Pitted",
         "1/3 cup - Cocoa or Carob Powder",
@@ -814,7 +949,17 @@
       "image": "images/oreo_cookies.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Cookie:",
+        "1/4 cup - Coconut Flour",
+        "1/4 cup - Cocoa Powder",
+        "6 Tbsp - Palm Shortening",
+        "1/4 cup - Pure Maple Syrup",
+        "1/2 tsp - Vanilla Extract",
+        "Pinch of Sea Salt",
+        "Filling:",
+        "1/2 cup - Palm Shortening",
+        "1/4 cup - Coconut Sugar",
+        "1/2 tsp - Vanilla Extract"
       ],
       "instructions": [
         "Preheat the oven to 325 degrees.",
@@ -867,7 +1012,17 @@
       "image": "images/pumpkin_pie_custard.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Dry Ingredients:",
+        "1 tsp - Ground Cinnamon",
+        "1/4 tsp - Ground Ginger",
+        "1/4 tsp - Ground Nutmeg",
+        "Pinch of Sea Salt",
+        "Wet Ingredients:",
+        "1 cup - Pumpkin (or Winter Squash) Puree",
+        "2 Eggs, Beaten",
+        "1/4 cup & 1 Tbsp - Pure Maple Syrup",
+        "1 tsp - Pure Vanilla Extract",
+        "1 cup - Full Fat Coconut Milk"
       ],
       "instructions": [
         "Preheat the oven to 350 degrees.",
@@ -883,15 +1038,15 @@
       "image": "images/raspberry_sorbet.png",
       "notes": "",
       "ingredients": [
-        "1 10oz. Bag Frozen Raspberries",
-        "1 10oz. Bag Frozen Strawberries (you can use any combo of frozen fruits)",
+        "1 10oz Bag Frozen Raspberries",
+        "1 10oz Bag Frozen Strawberries (you can use any combo of frozen fruits)",
         "1 1/2 cups - 100% Apple Juice",
         "1/4 cup - Pure Maple Syrup",
         "1 tsp - Pure Vanilla Extract"
       ],
       "instructions": [
         "In a blender, pulse berries and apple juice until almost smooth.",
-        "Add maple syrup and vanilla.  Continue to puree until a smooth texture is achieved.",
+        "Add maple syrup and vanilla. Continue to puree until a smooth texture is achieved.",
         "Scoop out into single serve bowls with lids.",
         "Store in the freezer. (Thaw for 10 min before serving)."
       ]
@@ -976,7 +1131,22 @@
       "image": "images/tiramisu.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Ladyfinger Cookies:",
+        "1/2 cup - Palm Shortening",
+        "1/4 cup - Coconut Sugar",
+        "1/2 tsp - Vanilla Extract",
+        "2/3 cup - Almond Flour",
+        "2 Tbsp - Coconut Flour",
+        "1/3 cup - Arrowroot or Tapioca Starch",
+        "1/4 tsp - Baking Powder",
+        "Tiramisu:",
+        "1 cup - Strong Coffee or Espresso",
+        "1 cup - Heavy Coconut Cream",
+        "1/3 cup - Coconut Sugar",
+        "1 tsp - Vanilla Extract",
+        "1 cup - Plain Kite Hill Almond Cream Cheese",
+        "Ladyfingers",
+        "Cocoa Powder for dusting top"
       ],
       "instructions": [
         "Make Ladyfingers first (see Ladyfinger Ingredients above).",
@@ -987,7 +1157,7 @@
         "Move on to Tiramisu recipe. Prepare the cup of coffee in a mug and set aside to cool to room temperature.",
         "Beat the coconut cream, coconut sugar and vanilla until thick and smooth.",
         "Add in the Kite Hill cream cheese and mix until smooth again.",
-        "You can use an 8”x8” glass dish or individual sized serving dishes to layer ingredients as follows: Take one cookie at a time and dip it into the coffee for about 30 seconds. Place it in the bottom of the dish until the bottom of the dish is covered. Spread half of the creamed mixture on top of the cookies.",
+        "You can use an 8\"x8\" glass dish or individual sized serving dishes to layer ingredients as follows: Take one cookie at a time and dip it into the coffee for about 30 seconds. Place it in the bottom of the dish until the bottom of the dish is covered. Spread half of the creamed mixture on top of the cookies.",
         "Repeat the process with the second layer of ladyfingers and cream mixture. Dust the tops with cocoa powder.",
         "Cover and refrigerate 2-4 hours."
       ]
@@ -1004,10 +1174,7 @@
         "1/4 tsp - Pure Vanilla Extract",
         "Cinnamon to Sprinkle on Top"
       ],
-      "instructions": [
-        "Mix in a blender.",
-        "Pour over ice. Enjoy!"
-      ]
+      "instructions": ["Mix in a blender.", "Pour over ice. Enjoy!"]
     },
     {
       "category": "Drinks and Smoothies",
@@ -1022,9 +1189,7 @@
         "2 cups - Leafy Greens",
         "Handful of ice cubes"
       ],
-      "instructions": [
-        "Blend on high speed until smooth."
-      ]
+      "instructions": ["Blend on high speed until smooth."]
     },
     {
       "category": "Drinks and Smoothies",
@@ -1054,7 +1219,7 @@
         "Coconut Milk (cover the ice)",
         "4 Dates",
         "1 scoop - Almond Butter",
-        "1 Tbsp - Protein Powder (opt.)",
+        "1 Tbsp - Protein Powder (optional)",
         "1 tsp - Pure Vanilla",
         "1/2 tsp - Cinnamon",
         "1/4 tsp - Pumpkin Pie Spice",
@@ -1072,14 +1237,13 @@
       "ingredients": [
         "1 Banana",
         "1/2 cup - Ice",
-        "1 cup - Cold Cooked Pumpkin OR Winter Squash",
-        "2 Tbsp - Almond Butter OR Handful of Walnuts",
-        "1 Tbsp - Pure Maple Syrup OR 3 Medjool Dates, Pitted",
+        "1 cup - Cold Cooked Pumpkin (or Winter Squash)",
+        "2 Tbsp - Almond Butter (or Handful of Walnuts)",
+        "1 Tbsp - Pure Maple Syrup (or 3 Medjool Dates, Pitted)",
         "1 tsp - Vanilla Extract",
         "1 tsp - Cinnamon",
         "1/4 tsp - Ground Ginger",
-        "1 cup - Unsweetened Coconut Milk",
-        "TODO: figure out alternatives that are listed as sub-bullet points"
+        "1 cup - Unsweetened Coconut Milk"
       ],
       "instructions": [
         "Put ingredients in a blender.",
@@ -1172,23 +1336,20 @@
         "Pinch of Sea Salt",
         "Handful of Ice"
       ],
-      "instructions": [
-        "Mix in a blender.",
-        "Enjoy!"
-      ]
+      "instructions": ["Mix in a blender.", "Enjoy!"]
     },
     {
       "category": "Entrées",
       "title": "Artichoke Chicken with Mushroom Sauce",
-      "image": "images/artichoke_chicken_with_mushroom_sauce.png",
+      "image": "images/artichoke",
       "notes": "",
       "ingredients": [
         "6 Tbsp - Coconut Oil",
-        "3-4 pounds - Boneless Skinless Chicken Breasts",
+        "3-4 lbs - Boneless Skinless Chicken Breasts",
         "1 tsp - Sea Salt",
         "1/4 tsp - Bleack Pepper",
         "1/2 tsp - Paprika",
-        "1/2 pound - Mushrooms, Stems Removed",
+        "1/2 lb - Mushrooms, Stems Removed",
         "1 1/2 cups - Chicken Broth",
         "3 Tbsp - Apple Cider Vinegar",
         "2 tsp - Raw Honey",
@@ -1212,7 +1373,19 @@
       "image": "images/asian_lettuce_rolls.png",
       "notes": "Recipe Contributed by Rachel G.",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Sauce:",
+        "3/4 cup - Primal Kitchen Brand Sesame Ginger Dressing",
+        "1 heaping Tbsp - Almond Butter",
+        "Rolls:",
+        "1 lb - Ground Chicken Sausage",
+        "2 packages - Miracle Rice (or 1 package of Cauliflower Rice)",
+        "1 bunch - Fresh Mint Leaves",
+        "1 bunch - Fresh Basil Leaves",
+        "1 bunch - Fresh Cilantro Leaves",
+        "1 Cucumber, Diced",
+        "3 Green Onions, Chopped",
+        "1-2 Avocados",
+        "Cabbage or Romaine Lettuce Leaves for Wraps"
       ],
       "instructions": [
         "Put sauce ingredients in the blender and mix, then put in the fridge until ready to use.",
@@ -1231,10 +1404,10 @@
       "notes": "",
       "ingredients": [
         "2 tsp - Coconut Oil",
-        "1 pound - Grass Fed Ground Beef",
-        "1/4 pound - Shiitake Mushrooms, Sliced",
+        "1 lb - Grass Fed Ground Beef",
+        "1/4 lb - Shiitake Mushrooms, Sliced",
         "1 cup - Carrots, Shredded",
-        "1 8oz. Can - Bamboo Shoots, Chopped into Small Strips",
+        "1 8oz Can - Bamboo Shoots, Chopped into Small Strips",
         "2 tsp - Ground Ginger",
         "1 1/2 tsp - Minced Garlic",
         "1/4 cup - Coconut Aminos",
@@ -1256,7 +1429,7 @@
       "notes": "",
       "ingredients": [
         "1/4 cup - Coconut Oil, Melted",
-        "2 lbs. - Chicken",
+        "2 lbs - Chicken",
         "1/2 cup - Coconut Flakes",
         "1/4 cup - Almond Flour"
       ],
@@ -1272,7 +1445,7 @@
       "image": "images/baked_salmon.png",
       "notes": "",
       "ingredients": [
-        "1 lb. - Wild Caught Salmon",
+        "1 lb - Wild Caught Salmon",
         "1/4 cup - Pure Maple Syrup",
         "1/4 cup - Honey Mustard",
         "2 Tbsp - Apple Cider Vinegar",
@@ -1295,7 +1468,7 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp. Coconut Oil",
-        "3 Pound Boneless Chuck Roast",
+        "3 lb Boneless Chuck Roast",
         "3 Sweet Potatoes, peeled and cut into pieces",
         "1 Leek, Chopped",
         "2 Sprigs Fresh Rosemary",
@@ -1339,14 +1512,14 @@
       "image": "images/basil_burgers.png",
       "notes": "",
       "ingredients": [
-        "1 lb. - Grass Fed Ground Beef",
-        "1 - Onion, Chopped",
+        "1 lb - Grass Fed Ground Beef",
+        "1 Onion, Chopped",
         "1/4 cup - Basil, Chopped",
         "Beef Roast Seasoning"
       ],
       "instructions": [
         "Mix all together and make into 4 patties.",
-        "Bake or grill.  We eat them without a bun!"
+        "Bake or grill. We eat them without a bun!"
       ]
     },
     {
@@ -1355,23 +1528,23 @@
       "image": "images/beef_stew",
       "notes": "",
       "ingredients": [
-        "2 lbs. - Grass Fed Stew Meat, Cut into 1” Cubes",
+        "2 lbs - Grass Fed Stew Meat, Cut into 1” Cubes",
         "2 Tbsp - Avocado Oil",
         "Sea Salt and Pepper to Taste",
         "2 cups - Organic Beef Broth",
-        "1 - Clove Garlic, Minced",
-        "5 - Carrots, Peeled and Sliced",
-        "1 - Large Onion, Chopped",
-        "3 - Stalks Celery, Sliced",
-        "1 - Sweet Potato, Cubed",
+        "1 Clove Garlic, Minced",
+        "5 Carrots, Peeled and Sliced",
+        "1 Large Onion, Chopped",
+        "3 Stalks Celery, Sliced",
+        "1 Sweet Potato, Cubed",
         "1 tsp - Dried Parsley",
         "2 tsp Adobo Seasoning",
         "1/8 Cup - Worcestershire Sauce"
       ],
       "instructions": [
         "Heat the avocado oil in a skillet. Add the meat and cook on medium/low heat until edges are browned.",
-        "Place meat in a slow cooker.  Add salt and pepper, and stir to coat.",
-        "Add remaining ingredients and stir to mix.  Cover and cook on LOW 8-10 hours (or HIGH 4-5 hours).",
+        "Place meat in a slow cooker. Add salt and pepper, and stir to coat.",
+        "Add remaining ingredients and stir to mix. Cover and cook on LOW 8-10 hours (or HIGH 4-5 hours).",
         "Stir thoroughly before serving."
       ]
     },
@@ -1382,9 +1555,9 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "16 - Button Mushrooms, Stemmed and Sliced",
-        "1 - Large Onion",
-        "2 pounds - Grass Fed Ground Beef",
+        "16 Button Mushrooms, Stemmed and Sliced",
+        "1 Large Onion",
+        "2 lbs - Grass Fed Ground Beef",
         "1 cup - Chicken or Beef Broth",
         "1 tsp - Onion Powder",
         "1 tsp - Garlic Powder",
@@ -1394,7 +1567,7 @@
         "2 Tbsp - Worcestershire Sauce",
         "1/2 cup - Coconut Milk",
         "2 Tbsp - Tapioca Starch or Arrowroot Powder",
-        "1 - Bag Cauliflower Rice, Cooked"
+        "1 Bag Cauliflower Rice, Cooked"
       ],
       "instructions": [
         "Saute the mushrooms, onions and beef in coconut oil in a skillet until almost cooked through. Transfer to crockpot.",
@@ -1410,26 +1583,26 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "3 - Carrots, Chopped",
-        "1 - Small Yellow Onion, Finely Chopped",
+        "3 Carrots, Chopped",
+        "1 Small Yellow Onion, Finely Chopped",
         "1 cup - Zucchini, Finely Chopped",
         "2 cups - Sliced Mushrooms",
-        "1 lb. - Grass Fed Ground Beef",
-        "1 pound - Bulk Apple Chicken Sausage",
-        "28 oz. - Crushed Tomatoes",
+        "1 lb - Grass Fed Ground Beef",
+        "1 lb - Bulk Apple Chicken Sausage",
+        "28 oz - Crushed Tomatoes",
         "1 can - Diced Tomatoes with Juice",
-        "2 - Cloves Garlic, Minced",
+        "2 Cloves Garlic, Minced",
         "2 Tbsp - Dried Oregano",
         "1 Tbsp - Dried Basil",
         "1 Tbsp - Garlic Salt",
-        "1 - Butternut Squash"
+        "1 Butternut Squash"
       ],
       "instructions": [
-        "Place coconut oil in the bottom of a large soup pot on medium heat.  Add the carrots, onions, zucchini, and mushrooms and sauté until tender.",
-        "While veggies are cooking, brown the beef and sausage on medium heat in a separate skillet until fully cooked.  Add the beef/sausage mix to the veggies in the soup pot.",
+        "Place coconut oil in the bottom of a large soup pot on medium heat. Add the carrots, onions, zucchini, and mushrooms and sauté until tender.",
+        "While veggies are cooking, brown the beef and sausage on medium heat in a separate skillet until fully cooked. Add the beef/sausage mix to the veggies in the soup pot.",
         "Add the remaining ingredients except for butternut squash, mix well, and simmer for 30 min.",
-        "While the sauce simmers, peel, halve, and scoop out the seeds of the butternut squash.  Cut the cleaned squash lengthwise in ¼” to 1/2 “ thick strips (resembling thick lasagna noodles).  It doesn't have to be perfect!",
-        "In the slow cooker, ladle in a layer of the meat sauce, then evenly spread the squash slices on top.  Continue to alternate until you have reached 4 layers or more.",
+        "While the sauce simmers, peel, halve, and scoop out the seeds of the butternut squash. Cut the cleaned squash lengthwise in ¼” to 1/2 “ thick strips (resembling thick lasagna noodles). It doesn't have to be perfect!",
+        "In the slow cooker, ladle in a layer of the meat sauce, then evenly spread the squash slices on top. Continue to alternate until you have reached 4 layers or more.",
         "Cover and cook on LOW for 4-6 hrs."
       ]
     },
@@ -1490,7 +1663,7 @@
         "1/2 cup - Olive Oil",
         "1/4 cup - Pine Nuts",
         "Chopped Green Onion",
-        "6 - Large Zucchini, Spiralized",
+        "6 Large Zucchini, Spiralized",
         "1 Tbsp - Coconut Oil",
         "2-3 Boneless, Skinless Chicken Breasts, Chopped into Bite Size Pieces"
       ],
@@ -1508,7 +1681,26 @@
       "image": "images/chipotle_chicken_stew.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Marinade:",
+        "2 Chipotle Peppers",
+        "3 Garlic Cloves",
+        "1/4 cup - Raw Honey",
+        "1 Tbsp - Ground Mustard",
+        "1 tsp - Chili Powder",
+        "2 Tbsp - Apple Cider Vinegar",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Ground Pepper",
+        "Stew:",
+        "2 Chicken Breasts",
+        "2 Tbsp - Coconut Oil",
+        "1 Onion, Coursely Diced",
+        "1 Turnip, Cut into 3/4\" Cubes",
+        "1 Rutabaga, Cut into 3/4\" Cubes",
+        "1 cup - Butternut Squash, Cut into 3/4\" Cubes",
+        "3 cups - Chicken Broth",
+        "2 tsp - Chicken Rub Spice",
+        "1 Tbsp - Dried Basil",
+        "1/2 tsp - Ancho Chili Pepper Seasoning"
       ],
       "instructions": [
         "Marinate the chicken breasts overnight.",
@@ -1523,12 +1715,27 @@
       "image": "images/chipotle_meatballs",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Meatballs:",
+        "1 lb - Grass Fed Ground Beef",
+        "1 lb - Ground Chicken",
+        "2 tsp - Sea Salt",
+        "2 tsp - Oregano",
+        "1/2 tsp - Chipotle Powder",
+        "Cilantro for Garnish",
+        "Sauce:",
+        "1 Small Yellow Onion, Chopped",
+        "3 Garlic Cloves, Minced",
+        "2 cups - Tomato Sauce",
+        "1 cup - Beef Broth",
+        "1/4 tsp - Chipotle Powder",
+        "2 Tbsp - Raw Honey",
+        "1 tsp - Oregano",
+        "Sea Salt and Pepper to taste"
       ],
       "instructions": [
         "In a medium sized mixing bowl, thoroughly mix together all of the meatball ingredients with your hands and set aside.",
-        "Put the onion, garlic, tomato sauce and beef broth into the slow cooker and mix well.  Add the honey and spices and whisk together.",
-        "Form the meat mixture into balls, golf ball sized.  Gently drop each meatball into the sauce in the slow cooker.  Cover and cook on LOW for 6-7 hrs.  Serve garnished with cilantro."
+        "Put the onion, garlic, tomato sauce and beef broth into the slow cooker and mix well. Add the honey and spices and whisk together.",
+        "Form the meat mixture into balls, golf ball sized. Gently drop each meatball into the sauce in the slow cooker. Cover and cook on LOW for 6-7 hrs. Serve garnished with cilantro."
       ]
     },
     {
@@ -1538,9 +1745,9 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "1 - Large Onion",
+        "1 Large Onion",
         "4 tsp - Minced Garlic",
-        "2 lb. - Grass Fed Ground Beef",
+        "2 lb - Grass Fed Ground Beef",
         "1 tsp - Dried Oregano",
         "1 1/2 Tbsp - Chili Powder",
         "1 1/2 Tbsp - Ground Cumin",
@@ -1551,9 +1758,9 @@
         "3/4 cup - Water"
       ],
       "instructions": [
-        "Heat a large skillet on medium-high heat, then add coconut oil.  When oil is melted, add onions and cook until translucent.  Add garlic.",
-        "Crumble the ground meat into the skillet and stir to combine.  Continue to cook meat mixture, stirring often until it is cooked through.",
-        "Add it to a large crockpot.  Add the rest of the ingredients and mix well.  Set the crockpot on low for 2.5 hours."
+        "Heat a large skillet on medium-high heat, then add coconut oil. When oil is melted, add onions and cook until translucent. Add garlic.",
+        "Crumble the ground meat into the skillet and stir to combine. Continue to cook meat mixture, stirring often until it is cooked through.",
+        "Add it to a large crockpot. Add the rest of the ingredients and mix well. Set the crockpot on low for 2.5 hours."
       ]
     },
     {
@@ -1562,16 +1769,16 @@
       "image": "images/cinnamon_ginger_lamb.png",
       "notes": "",
       "ingredients": [
-        "2 - Whole Cinnamon Sticks",
-        "2 pounds - Boneless Leg of Lamb",
-        "1 - Onion, Chopped",
-        "4 - Carrots, Chopped",
+        "2 Whole Cinnamon Sticks",
+        "2 lbs - Boneless Leg of Lamb",
+        "1 Onion, Chopped",
+        "4 Carrots, Chopped",
         "1 Tbsp - Cumin",
         "1 Tbsp - Coriander",
         "1 tsp - Cayenne Pepper",
         "2 Tbsp - Fresh Ginger, Minced",
         "1 tsp - Ground Ginger",
-        "4 - Garlic Cloves, Minced"
+        "4 Garlic Cloves, Minced"
       ],
       "instructions": [
         "Place the cinnamon sticks on the bottom of the slow cooker.",
@@ -1587,11 +1794,29 @@
       "image": "images/citrus_red_onion_slaw_with_grilled_chicken.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Salad:",
+        "1 Head Green Cabbage, Thinly Sliced",
+        "1/2 Small red Onion, Thinly Sliced",
+        "2 Tbsp - Cilantro, Chopped",
+        "1/2 cup - Celery, Chopped",
+        "2 cups - Cooked Chicken, Cubed",
+        "Sea Salt to Taste",
+        "Black Pepper to Taste",
+        "1/2 cup - Walnuts",
+        "Dressing:",
+        "1/2 cup - Orange Juice",
+        "2 Tbsp - Lemon Juice",
+        "2 Tbsp - Apple Cider Vinegar",
+        "1/4 cup - Olive Oil",
+        "1 tsp - Dijon Mustard",
+        "2 tsp - Raw Honey",
+        "1 1/2 tsp - Minced Garlic",
+        "1/2 tsp - Sea Salt",
+        "Black Pepper to Taste"
       ],
       "instructions": [
         "Combine salad ingredients in a large bowl.",
-        "In a jar with a tight fitting lid, combine the dressing ingredients.  Shake well and pour over salad.  Toss to coat.",
+        "In a jar with a tight fitting lid, combine the dressing ingredients. Shake well and pour over salad. Toss to coat.",
         "Store in the refrigerator until ready to serve."
       ]
     },
@@ -1603,11 +1828,11 @@
       "ingredients": [
         "1 cup - Macadamia Nuts",
         "1/4 cup - Unsweetened Shredded Coconut",
-        "4 - Chicken Breasts",
+        "4 Chicken Breasts",
         "1/4 tsp - Sea Salt",
         "1/4 tsp - Black Pepper",
         "4 tsp - Avocado Mayonnaise",
-        "1 - Lime, Zest and Juice",
+        "1 Lime, Zest and Juice",
         "1/4 cup - Cilantro as Garnish (optional)"
       ],
       "instructions": [
@@ -1623,16 +1848,16 @@
       "image": "images/fiesta_lime_chicken.png",
       "notes": "",
       "ingredients": [
-        "1 - Small Yellow Onion, Sliced",
-        "3 - Limes",
-        "3-4 lbs. Chicken Breasts",
+        "1 Small Yellow Onion, Sliced",
+        "3 Limes",
+        "3-4 lbs - Chicken Breasts",
         "4 Tbsp - Taco Seasoning",
         "1/4 cup - Chicken Broth"
       ],
       "instructions": [
         "Thinly slice the onions into strips and place them in the slow cooker.",
         "Cut one lime in half and squeeze juice over the onions.",
-        "Place the chicken on top of the onions and evenly sprinkle with half of the taco seasoning.  Turn the chicken over and season the other side with remaining seasoning.",
+        "Place the chicken on top of the onions and evenly sprinkle with half of the taco seasoning. Turn the chicken over and season the other side with remaining seasoning.",
         "Squeeze the remaining limes over the chicken and add the chicken broth.",
         "Cover and cook on HIGH for 3.5 hours."
       ]
@@ -1643,7 +1868,19 @@
       "image": "images/fish_with_mango_salsa.png",
       "notes": "This recipe goes really well with the Cilantro Cauliflower Rice!",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Fish:",
+        "Your Favorite Fish (commonly Halibut or Sole)",
+        "Sea Salt and Pepper to Taste",
+        "Salsa:",
+        "1 Mango, Peeled and Diced",
+        "1 Cucumber, Diced",
+        "1 bunch - Cilantro, Chopped",
+        "1/4 Small Red Onion",
+        "1 1/2 tsp - Minced Garlic",
+        "1/2 tsp - Sea Salt",
+        "1 Tbsp - Olive Oil",
+        "1 Lime, Juiced",
+        "1 Avocado, Cubed"
       ],
       "instructions": [
         "Prepare the salsa except for the avocado, cover and place in the fridge.",
@@ -1657,7 +1894,24 @@
       "image": "images/green_goddess_chicken.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "1.5 lbs - Chicken Breast Tenders",
+        "Marinade:",
+        "2 tsp - Garlic Powder",
+        "1/2 tsp - Dried Thyme",
+        "1 tsp - Paprika",
+        "1 tsp - Sea Salt",
+        "1/2 tsp - Pepper",
+        "1 1/2 tsp - Chili Powder",
+        "Green Goddess Sauce:",
+        "Half a Ripe Avocado",
+        "1/2 cup - Full Fat Coconut Milk",
+        "5 sprigs - Taragon",
+        "1 Tbsp - Dijon Mustard",
+        "1 Tbsp - White Wine Vinegar",
+        "Remaining Ingredients:",
+        "Lettuce",
+        "Lemon",
+        "Olive Oil"
       ],
       "instructions": [
         "Start the night before: Mix the marinade ingredients in a medium bowl. Dip chicken pieces in the bowl to cover both sides and lay flat in a 9”x13” glass casserole dish. Cover and place in the fridge overnight.",
@@ -1675,7 +1929,24 @@
       "image": "images/grilled_chicken_and_antipasto_salad.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Salad:",
+        "1 cup - Kalamata Olives, Pitted",
+        "2 cups - Artichoke Hearts, Squeezed",
+        "8 oz - Uncured Turkey Lunch Meat, Chopped",
+        "1 1/2 cups - Grilled Chicken, Diced",
+        "3 Tbsp - Basil, Chopped (or 2 tsp Dried Basil)",
+        "3 Tbsp - Parsley, Chopped (or 2 tsp Dried Parsley)",
+        "Dressing:",
+        "1/2 cup - Olive Oil (or Avocado Oil)",
+        "2 Tbsp - Green Onions (or Chives), Chopped",
+        "1 tsp - Minced Garlic",
+        "1 1/2 tsp - Dijon Mustard",
+        "1 1/4 tsp - Italian Seasoning",
+        "1 tsp - Garlic Powder",
+        "1 tsp - Raw Honey",
+        "1/2 tsp - Sea Salt",
+        "Black Pepper to Taste",
+        "Red or Green Leaf Lettuce"
       ],
       "instructions": [
         "In a large bowl, combine salad ingredients and set aside.",
@@ -1687,9 +1958,27 @@
       "category": "Entrées",
       "title": "Hearty Pot Pie",
       "image": "images/hearty_pot_pie.png",
-      "notes": "Serves 2-3. Double recipe for more servings. Thank you to Taylor for sharing this recipe!!",
+      "notes": "Serves 2-3. Double recipe for more servings. Thank you to Taylor for sharing this recipe!",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crust:",
+        "1 1/2 cups - Almond Flour",
+        "1/2 cup - Tapioca Flour",
+        "1 tsp - Sea Salt",
+        "1/2 tsp - Baking Powder",
+        "2/3 cup - Palm Shortening",
+        "6 Tbsp - Water",
+        "Filling:",
+        "1 lb - Chicken Breast, Skinless and Boneless, Chopped",
+        "2 Carrots, Chopped",
+        "1 Head of Broccoli, Chopped",
+        "1/3 cup - Coconut Oil",
+        "2 Leeks, Chopped",
+        "1/4 cup - Tapioca Flour",
+        "1/2 tsp - Sea Salt",
+        "1/4 tsp - Pepper",
+        "Pinch of Paprika",
+        "1 3/4 cups - Chicken Broth",
+        "1/3 cup - Coconut Milk (or Almond Milk)"
       ],
       "instructions": [
         "For the crust, use a fork to stir together the almond flour, tapioca flour, salt and baking powder.",
@@ -1704,14 +1993,14 @@
       "image": "images/lamb_stew.png",
       "notes": "",
       "ingredients": [
-        "1.5 lbs. - Grass Fed Lamb Stew Meat, Cut into 1” Cubes",
+        "1.5 lbs - Grass Fed Lamb Stew Meat, Cut into 1” Cubes",
         "3 Tbsp - Avocado Oil",
         "Sea Salt and Pepper",
         "3 cups - Broth",
         "2 tsp - Minced Garlic",
-        "5 - Carrots, Peeled and Sliced",
-        "1 - Large Onion or Leek, Chopped",
-        "3 - Medium Potatoes, Peeled and Cubed",
+        "5 Carrots, Peeled and Sliced",
+        "1 Large Onion or Leek, Chopped",
+        "3 Medium Potatoes, Peeled and Cubed",
         "1/4 cup - Raisins",
         "1/4 tsp - Cinammon",
         "1/2 tsp - Allspice",
@@ -1726,7 +2015,7 @@
         "Heat 2 Tbsp oil in a skillet on medium heat. Saute the onion/leek, carrots and potatoes for  4 minutes. Add garlic, salt and pepper and mix. Add to the crockpot.",
         "Add 1 Tbsp oil to the empty skillet and cook the meat on medium heat until edges are browned on all sides. Season with salt and pepper.",
         "Place meat in the slow cooker.",
-        "Add remaining ingredients and stir to mix.  Cover and cook on LOW  for 4-5 hours.",
+        "Add remaining ingredients and stir to mix. Cover and cook on LOW  for 4-5 hours.",
         "Stir thoroughly before serving."
       ]
     },
@@ -1737,18 +2026,18 @@
       "notes": "",
       "ingredients": [
         "1 tsp - Sea Salt",
-        "2 pounds - Grass Fed Ground Beef",
+        "2 lbs - Grass Fed Ground Beef",
         "1 tsp - Avocado Oil",
         "2 tsp - Minced Garlic",
-        "1 - Medium Onion or 3 Small Leeks, Chopped",
-        "3 - Stalks of Celery, Finely Diced",
+        "1 Medium Onion or 3 Small Leeks, Chopped",
+        "3 Stalks of Celery, Finely Diced",
         "2 Tbsp - Chili Powder",
         "2 tsp - Ground Cumin",
         "¼ tsp - Ground Cinnamon",
-        "1 - Pinch of Ground Cloves",
+        "1 Pinch of Ground Cloves",
         "2 cups - Grass Fed Beef Broth",
-        "3 oz. - Pine Nuts",
-        "1 - Large Sweet Potato, Pureed",
+        "3 oz - Pine Nuts",
+        "1 Large Sweet Potato, Pureed",
         "1 tsp - Dried Adobo Seasoning",
         "2 tsp - Red Wine Vinegar",
         "2 tsp - Coconut Aminos",
@@ -1791,7 +2080,7 @@
       "ingredients": [
         "1 lb - Grass Fed Ground Beef",
         "1/2 cup - Crushed Almond Crackers (We use Simple Mills Sea Salt)",
-        "1 - Small Onion, Diced",
+        "1 Small Onion, Diced",
         "1 tsp - Sea Salt",
         "1/2 tsp - Chophouse Seasoning",
         "1/2 tsp - Oregano",
@@ -1823,7 +2112,17 @@
       "image": "images/orange_pan_seared_scallops.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Scallops:",
+        "1 lb - Scallops",
+        "Sea Salt and Black Pepper to Taste",
+        "Garlic Powder, a few pinches",
+        "2 Tbsp - Coconut Oil",
+        "Zest of 1 Orange",
+        "Deglazing Liquid:",
+        "2 Tbsp - Raw Honey",
+        "3 Tbsp - Fresh-Squeezed Orange Juice",
+        "1 Tbsp - Warm Water",
+        "1 Tbsp - Coconut Oil"
       ],
       "instructions": [
         "Clean and dry scallops. Sprinkle both sides with salt, pepper and garlic powder.",
@@ -1839,7 +2138,7 @@
       "image": "images/pistachio_crusted_salmon.png",
       "notes": "",
       "ingredients": [
-        "4 - Wild Caught Salmon Fillets",
+        "4 Wild Caught Salmon Fillets",
         "1 cup - Pistachios, Roughly Chopped",
         "1/4 cup - Lemon Juice",
         "1 Tbsp - Honey Mustard",
@@ -1886,7 +2185,22 @@
       "image": "images/sesame_orange_chicken.png",
       "notes": "",
       "ingredients": [
-        "TODO: diff categories of ingredients"
+        "Crockpot:",
+        "2 lbs - Chicken Breasts, Boneless and Skinless",
+        "1/3 cup - Coconut Aminos",
+        "1/3 cup - Pure Maple Syrup",
+        "2 Tbsp - Fresh-Squeezed Orange Juice",
+        "Orange Zest",
+        "1 Tbsp - Avocado Oil",
+        "2 tsp - Minced Garlic",
+        "1/2 tsp - Ground Ginger",
+        "3/4 tsp - Sea Salt",
+        "1/4 tsp - Black Pepper",
+        "Remaining Ingredients:",
+        "1 Tbsp - Tapioca Flour",
+        "Sesame Seeds",
+        "Green Onions",
+        "1 Bag of Cauliflower Rice"
       ],
       "instructions": [
         "Place chicken in the slow cooker. Place the remaining crockpot ingredients in a bowl, whisk together, and pour over the chicken. Flip the chicken over to fully coat. Cook the chicken on low for 4 hours.",
@@ -1910,7 +2224,7 @@
       ],
       "instructions": [
         "Decorate the outside of the ham by inserting as many whole cloves as you like into it (just push the smaller side in toward the center of the ham, so it is sticking out the top). Or, sprinkle ground cloves on the top.",
-        "Place ham in the slow cooker.  Pour both juices over the top and Drizzle the ham with the maple syrup.  Cover and cook on LOW for 8 hours or until the internal temp. reaches 160 degrees. (If you are using a fully pre-cooked ham, cook on LOW for 2 hrs. and then set to warm until ready to eat)."
+        "Place ham in the slow cooker. Pour both juices over the top and Drizzle the ham with the maple syrup. Cover and cook on LOW for 8 hours or until the internal temp. reaches 160 degrees. (If you are using a fully pre-cooked ham, cook on LOW for 2 hrs. and then set to warm until ready to eat)."
       ]
     },
     {
@@ -1920,7 +2234,7 @@
       "notes": "",
       "ingredients": [
         "1 Tbsp - Coconut Oil",
-        "4 Pounds of Beef Short Ribs",
+        "4 lbs of Beef Short Ribs",
         "1 tsp - Sea Salt",
         "1 tsp - Pepper",
         "3 Cups - Beef Broth",
@@ -1942,14 +2256,14 @@
       "category": "Entrées",
       "title": "Slow Cooked Whole Chicken",
       "image": "images/slow_cooked_whole_chicken.png",
-      "notes": "After we eat the chicken for dinner, we strain the liquid from the slow cooker into a stock pot, add a little extra water, throw in some veggies and a few spices and pick off the rest of the chicken meat from the bones left over (you can use the pieces of meat that no one likes to eat at dinner, like the back meat).  It makes a very yummy soup that will last a couple days.  This really makes the extra cost of a pasture raised bird worth it! While the soup (above) is cooking, we will take the remaining bones and put them back into the crockpot, cover completely with water and follow the bone broth recipe in the “Soups and Sauces” section of this cookbook! Simple, easy and healthy way to get the most out of a single bird!",
+      "notes": "After we eat the chicken for dinner, we strain the liquid from the slow cooker into a stock pot, add a little extra water, throw in some veggies and a few spices and pick off the rest of the chicken meat from the bones left over (you can use the pieces of meat that no one likes to eat at dinner, like the back meat). It makes a very yummy soup that will last a couple days. This really makes the extra cost of a pasture raised bird worth it! While the soup (above) is cooking, we will take the remaining bones and put them back into the crockpot, cover completely with water and follow the bone broth recipe in the \"Soup & Sauces\" section of this cookbook! Simple, easy and healthy way to get the most out of a single bird!",
       "ingredients": [
         "1 Whole Free-Range Chicken",
         "Water",
         "Your Favorite Spices (Chophouse Seasoning, Sea Salt and/or Chicken Rub Spice)"
       ],
       "instructions": [
-        "Add a few inches of water to the bottom of the slow cooker (this can be used after the chicken is cooked as a base to make veggie soup-see below).  Rinse the chicken and place it into the slow cooker.  Add spices.",
+        "Add a few inches of water to the bottom of the slow cooker (this can be used after the chicken is cooked as a base to make veggie soup-see below). Rinse the chicken and place it into the slow cooker. Add spices.",
         "Cover and cook on HIGH for 4 hours or LOW for 6 hours."
       ]
     },
@@ -1960,7 +2274,7 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "2 lb. - Grass Fed Steak, Cubed",
+        "2 lb - Grass Fed Steak, Cubed",
         "2 Sweet Potatoes, Peeled and Cut into 1\" Cubes",
         "4 Carrots, Peeled and Cut",
         "1 Large Onion, Chopped",
@@ -1971,8 +2285,8 @@
         "Optional: Chopped Green Onion for Garnish"
       ],
       "instructions": [
-        "In a large skillet, heat oil over med-high heat.  Add the meat and brown all sides for about 5 min.",
-        "Add all the ingredients to the slow cooker.  Stir well to combine.",
+        "In a large skillet, heat oil over med-high heat. Add the meat and brown all sides for about 5 min.",
+        "Add all the ingredients to the slow cooker. Stir well to combine.",
         "Cover and cook on low for 8 hours."
       ]
     },
@@ -1982,17 +2296,17 @@
       "image": "images/stuffed_acorn_squash.png",
       "notes": "",
       "ingredients": [
-        "2  Small Acorn Squash",
+        "2 Small Acorn Squash",
         "1 lb - Italian Seasoned Bulk Chicken Sausage",
-        "1  Onion, Diced",
+        "1 Onion, Diced",
         "2 cups - Mushrooms, Chopped",
         "2 cups - Spinach Leaves",
         "1 cup - Water"
       ],
       "instructions": [
-        "Place 1 cup of water in the bottom of slow cooker.  Cut the acorn squash in half, lengthwise, scoop out the seeds, and set aside.",
-        "In a large skillet, brown the sausage over medium heat.  Add the onions, mushrooms and spinach to the sausage, and cook for 1-2 minutes.  Remove from heat.",
-        "Stuff the cavity of the squash with as much of the mixture as you can (It is okay to overstuff them).  Carefully place them in the slow cooker, and repeat for the remaining squash halves.",
+        "Place 1 cup of water in the bottom of slow cooker. Cut the acorn squash in half, lengthwise, scoop out the seeds, and set aside.",
+        "In a large skillet, brown the sausage over medium heat. Add the onions, mushrooms and spinach to the sausage, and cook for 1-2 minutes. Remove from heat.",
+        "Stuff the cavity of the squash with as much of the mixture as you can (It is okay to overstuff them). Carefully place them in the slow cooker, and repeat for the remaining squash halves.",
         "Cover and cook on HIGH for 4 hours."
       ]
     },
@@ -2002,22 +2316,22 @@
       "image": "images/jalapeno_sweet_potato_chowder.png",
       "notes": "",
       "ingredients": [
-        "2 - Large Sweet Potatoes, Fully Cooked",
-        "3 - Boneless, Skinless Chicken Breasts, Cut to Stew Size Pieces",
-        "1 - Yellow Onion, Chopped",
-        "2 - Carrots, Peeled and Chopped",
-        "3 - Celery Stalks, Chopped",
+        "2 Large Sweet Potatoes, Fully Cooked",
+        "3 Boneless, Skinless Chicken Breasts, Cut to Stew Size Pieces",
+        "1 Yellow Onion, Chopped",
+        "2Carrots, Peeled and Chopped",
+        "3 Celery Stalks, Chopped",
         "2 Tbsp - Coconut Oil, Melted",
         "2 cups - Chicken Broth",
-        "2 - Jalapeno Peppers, Finely Diced",
+        "2 Jalapeno Peppers, Finely Diced",
         "1/2 cup - Coconut Milk"
       ],
       "instructions": [
         "Cook the sweet potatoes the night before and store in the fridge.",
         "The next day, place the chicken in the slow cooker.",
         "Add the onions, carrots, celery, jalapeno peppers and coconut oil.",
-        "Scoop out the sweet potato insides and place in a blender with one cup of the chicken broth.  Puree until smooth and add to the slow cooker.",
-        "Add the coconut milk and remaining chicken broth and stir well.  Cover and cook on LOW for 4 hrs.  Uncover and cook on LOW for another half hour.  This will thicken the chowder."
+        "Scoop out the sweet potato insides and place in a blender with one cup of the chicken broth. Puree until smooth and add to the slow cooker.",
+        "Add the coconut milk and remaining chicken broth and stir well. Cover and cook on LOW for 4 hrs. Uncover and cook on LOW for another half hour. This will thicken the chowder."
       ]
     },
     {
@@ -2032,9 +2346,9 @@
         "1 tsp - Onion Powder",
         "2 tsp - Minced Garlic",
         "1/2 tsp - Ground Cumin",
-        "1/2 - Ground Coriander",
+        "1/2 tsp - Ground Coriander",
         "1/2 tsp - Ground Paprika",
-        "1 pound - Grass Fed Ground Beef",
+        "1 lb - Grass Fed Ground Beef",
         "3 Avocados",
         "1 Lime",
         "1 Tbsp - Olive Oil",
@@ -2058,7 +2372,7 @@
       "ingredients": [
         "5 Carrots",
         "5 Shiitake Mushrooms, De-stemmed and Sliced",
-        "1/2 pound - Boneless, Skinless Chicken Breasts, Sliced into Bite Size Pieces",
+        "1/2 lb - Boneless, Skinless Chicken Breasts, Sliced into Bite Size Pieces",
         "2 Tbsp - Coconut Oil",
         "2 tsp - Minced Garlic",
         "2 cups - Broccoli, Cut into Small Chunks",
@@ -2107,7 +2421,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Asparagus Bacon Soup",
       "image": "images/asparagus_bacon_soup.png",
       "notes": "",
@@ -2115,8 +2429,8 @@
         "2 Tbsp - Coconut Oil",
         "1 Onion or 2 Leeks, Chopped",
         "3 Garlic Cloves, chopped",
-        "1 Pound Asparagus, Woody Ends Trimmed",
-        "1/2 Pound Cauliflower, Chopped",
+        "1 lb Asparagus, Woody Ends Trimmed",
+        "1/2 lb Cauliflower, Chopped",
         "3 Cups - Chicken Broth",
         "2 Tbsp - Flat Leaf Parsley, Chopped",
         "Sea Salt and Pepper",
@@ -2136,17 +2450,17 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Beef and Veggie Soup",
       "image": "images/beef_and_veggie_soup.png",
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "2 lb. - Grass Fed Stew Meat",
-        "1 - Onion, Chopped",
-        "4 - Cloves Fresh Garlic, Sliced Thin",
+        "2 lb - Grass Fed Stew Meat",
+        "1 Onion, Chopped",
+        "4 Cloves Fresh Garlic, Sliced Thin",
         "6 cups - Chicken or Beef Broth",
-        "3 - Carrots, Peeled and Sliced",
+        "3 Carrots, Peeled and Sliced",
         "1 cup - Green Beans, Chopped",
         "1 cup - Cauliflower, Chopped",
         "2 Tbsp - Fresh Basil Leaves, Finely Chopped",
@@ -2165,18 +2479,14 @@
       "title": "",
       "image": "images/",
       "notes": "",
-      "ingredients": [
-        ""
-      ],
-      "instructions": [
-        ""
-      ]
+      "ingredients": [""],
+      "instructions": [""]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Bone Broth",
       "image": "images/bone_broth.png",
-      "notes": "Bone broth is extremely healthy and VERY easy to make.  It contains beneficial building blocks for your body, like collagen, marrow, glycine, hyaluronic acid, chondroitin sulfate, calcium, magnesium and potassium. This is helpful in reducing inflammation and assisting in gut healing.",
+      "notes": "Bone broth is extremely healthy and VERY easy to make. It contains beneficial building blocks for your body, like collagen, marrow, glycine, hyaluronic acid, chondroitin sulfate, calcium, magnesium and potassium. This is helpful in reducing inflammation and assisting in gut healing.",
       "ingredients": [
         "Soup Bones (from a healthy organic grass fed/pasture raised animal)",
         "2  Celery Stalks",
@@ -2192,13 +2502,13 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Broccoli Fennel Soup",
       "image": "images/broccoli_fennel_soup.png",
       "notes": "(Use the fennel bulb another day to make our Creamy Carrot Fennel Soup)",
       "ingredients": [
-        "1 - Large Head of Broccoli",
-        "2 - Small Leeks, Chopped",
+        "1 Large Head of Broccoli",
+        "2 Small Leeks, Chopped",
         "2 tsp - Minced Garlic",
         "1 Tbsp - Coconut Oil",
         "Feathery Tops From 1 Bulb of Fennel, Chopped",
@@ -2217,7 +2527,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Carrot Ginger Halibut Soup",
       "image": "images/carrot_ginger_halibut_soup.png",
       "notes": "",
@@ -2228,7 +2538,7 @@
         "1 1/2 tsp - Ground Ginger (or 1 1/2 Tbsp - Fresh Ginger)",
         "2 cups - Chicken Broth",
         "1 cup - Water",
-        "1 pound  - Halibut, Cut into 1” Chunks",
+        "1 lb  - Halibut, Cut into 1” Chunks",
         "1/4 tsp - Pepper",
         "Sea Salt"
       ],
@@ -2241,14 +2551,14 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Creamy Carrot Fennel Soup",
       "image": "images/creamy_carrot_fennel_soup.png",
       "notes": "(Use the feathery fennel tops another day in our Broccoli Fennel Soup Recipe)",
       "ingredients": [
         "1 Tbsp - Extra Virgin Olive Oil",
         "2 Small Leeks, Chopped",
-        "2 Pounds Carrots, Chopped",
+        "2 lbs Carrots, Chopped",
         "1 Large Fennel Bulb, Chopped",
         "6 Cups - Chicken Broth",
         "1 tsp - Dried Thyme",
@@ -2264,13 +2574,13 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Creamy Cauliflower Leek Soup",
       "image": "images/creamy_cauliflower_leek_soup.png",
       "notes": "",
       "ingredients": [
         "2 Tbsp - Extra Virgin Olive Oil",
-        "1 Pound Leeks, Cleaned and Chopped",
+        "1 lb Leeks, Cleaned and Chopped",
         "2 Stalks Celery, Diced",
         "2 tsp - Minced Garlic",
         "1 tsp - Dried Thyme",
@@ -2291,7 +2601,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Creamy Chicken Chowder",
       "image": "images/creamy_chicken_chowder.png",
       "notes": "",
@@ -2306,7 +2616,7 @@
         "1 tsp - Paprika",
         "4 Cups Broth",
         "1 (13.5 oz) Can Coconut Milk",
-        "1 Pound Boneless Chicken, Cut into Bite-Sized Cubes",
+        "1 lb Boneless Chicken, Cut into Bite-Sized Cubes",
         "1/4 cup - Arrowroot Flour",
         "Sea Salt and Pepper to Taste"
       ],
@@ -2320,7 +2630,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Creamy Mushroom Soup",
       "image": "images/creamy_mushroom_soup.png",
       "notes": "",
@@ -2344,12 +2654,12 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Crockpot Hamburger Soup",
       "image": "images/crockpot_hamburger_soup.png",
       "notes": "",
       "ingredients": [
-        "1 lb. - Grass Fed Ground Beef",
+        "1 lb - Grass Fed Ground Beef",
         "6 cups - Chicken or Beef Broth",
         "1 Large Sweet Potato",
         "3  Carrots",
@@ -2368,15 +2678,15 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Egg Roll Soup",
       "image": "images/egg_roll_soup.png",
       "notes": "",
       "ingredients": [
-        "1 pound - Grass Fed Ground Beef",
+        "1 lb - Grass Fed Ground Beef",
         "1 Tbsp - Coconut Oil",
         "1  Onion, Diced",
-        "4 cups (32 oz.) - Chicken Broth",
+        "4 cups (32 oz) - Chicken Broth",
         "1/2 head Cabbage, Chopped",
         "2 cups - Shredded Carrots",
         "1 tsp - Garlic Powder",
@@ -2392,7 +2702,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Lentil Stew",
       "image": "images/lentil_stew.png",
       "notes": "",
@@ -2419,7 +2729,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Salmon Chwoder",
       "image": "images/salmon_chowder.png",
       "notes": "",
@@ -2433,7 +2743,7 @@
         "2 Carrots, Chopped",
         "4 Cups Broth",
         "1 (13.5 oz) Can Coconut Milk",
-        "1 Pound Salmon, Skin Removed and Cut into Cubes",
+        "1 lb Salmon, Skin Removed and Cut into Cubes",
         "2 Tbsp - Arrowroot Flour",
         "Sea Salt and Pepper to Taste"
       ],
@@ -2446,20 +2756,20 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Scallop Chowder",
       "image": "images/scallop_chowder.png",
       "notes": "",
       "ingredients": [
-        "1 (13.5) oz. can - Full-Fat Coconut Milk",
+        "1 (13.5) oz can - Full-Fat Coconut Milk",
         "2 cups - Bone Broth (use homemade or Kettle and Fire brand Mushroom Chicken Flavor)",
-        "1/2 pound - Mushrooms, Sliced (optional)",
-        "1 - Onion, Chopped",
-        "1 - Small Butternut Squash, Peeled, Pitted and Cubed",
+        "1/2 lb - Mushrooms, Sliced (optional)",
+        "1 Onion, Chopped",
+        "1 Small Butternut Squash, Peeled, Pitted and Cubed",
         "1 tsp - Kelp Powder (optional)",
         "1/2 tsp - Sea Salt",
         "Pepper to Taste",
-        "1 pound - Scallops, Chopped",
+        "1 lb - Scallops, Chopped",
         "2 cups - Cauliflower, Chopped Small",
         "1 cup - Minced Fresh Cilantro"
       ],
@@ -2469,12 +2779,12 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Slow Cooker Chicken Tortilla Soup",
       "image": "images/slow_cooker_chicken_tortilla_soup.png",
       "notes": "",
       "ingredients": [
-        "1 lb. Chicken Breast, Trimmed",
+        "1 lb Chicken Breast, Trimmed",
         "5 cups Chicken Broth",
         "1 Medium Onion, Chopped",
         "1 Green Pepper, Chopped",
@@ -2492,7 +2802,7 @@
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Southern Sweet Potato Soup",
       "image": "images/southern_sweet_potato_soup.png",
       "notes": "",
@@ -2513,15 +2823,15 @@
       ],
       "instructions": [
         "Combine top grouping of ingredients in a 5 qt. or larger crockpot.",
-        "Cover and cook on low for 7 hours or until potatoes are tender.  Cool slightly.",
-        "Scoop mixture into a blender (as much as will fit).  Blend until smooth and add back into the crockpot.  Repeat and return to the crockpot.  Add almond milk, thyme, honey and nutmeg.  Stir and enjoy!"
+        "Cover and cook on low for 7 hours or until potatoes are tender. Cool slightly.",
+        "Scoop mixture into a blender (as much as will fit). Blend until smooth and add back into the crockpot. Repeat and return to the crockpot. Add almond milk, thyme, honey and nutmeg. Stir and enjoy!"
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Squash Soup",
       "image": "images/squash_soup.png",
-      "notes": "TODO: figure out list in note",
+      "notes": "You can substitute many other ingredients and spices in place of squash and pumpkin pie spice to make variations of this yummy delight! Sub pumpkin for squash. Use potatoes and dill. Use broccoli and thyme. Use cauliflower and curry.",
       "ingredients": [
         "1  Butternut Squash, Cut in Half and Baked for 1 Hour at 350 Degrees",
         "1 1/2 cups - Chicken Broth",
@@ -2534,21 +2844,37 @@
       ],
       "instructions": [
         "Start by baking the squash.",
-        "In a blender, combine cooked squash and the chicken broth.  Cover and blend until smooth.  Set aside.",
-        "In a medium saucepan, melt the oil.  Stir in flour, seasonings, salt and pepper.  Add almond milk.  Cook and stir until slightly thickened and bubbly.  Cook 1 minute more.",
-        "Stir in vegetable mixture and remaining broth.  Stir well."
+        "In a blender, combine cooked squash and the chicken broth. Cover and blend until smooth. Set aside.",
+        "In a medium saucepan, melt the oil. Stir in flour, seasonings, salt and pepper. Add almond milk. Cook and stir until slightly thickened and bubbly. Cook 1 minute more.",
+        "Stir in vegetable mixture and remaining broth. Stir well."
       ]
     },
     {
-      "category": "Soups and Sauces",
+      "category": "Soup & Sauces",
       "title": "Veggie Soup",
       "image": "images/veggie_soup.png",
-      "notes": "",
+      "notes": "We always make this soup after cooking a whole chicken in the crockpot. We just strain the broth into a stockpot to use as the base for this soup. Bone broth (from a healthy chicken) has amazing health benefits!",
       "ingredients": [
-        "TODO: list in ingredients"
+        "Choose from the following and chop into bite-sized pieces:",
+        "Mushrooms",
+        "Leeks",
+        "Sweet Potatoes",
+        "Green Onion",
+        "Cabbage",
+        "Broccoli",
+        "Onion",
+        "Cauliflower",
+        "Celery",
+        "Carrots",
+        "Rutabaga",
+        "Garlic Scapes",
+        "Rotisserie Chicken"
       ],
       "instructions": [
-        "TODO: instructions that don't match format"
+        "Choose some of the following: salt/pepper, chophouse seasoning, oregano, basil, parsley, turmeric, or your favorite spices!",
+        "Add it all together in a large stock pot with a generous amount of chicken broth.",
+        "Bring to a boil.",
+        "Reduce heat and simmer for about an hour."
       ]
     },
     {
@@ -2556,24 +2882,16 @@
       "title": "",
       "image": "images/",
       "notes": "",
-      "ingredients": [
-        ""
-      ],
-      "instructions": [
-        ""
-      ]
+      "ingredients": [""],
+      "instructions": [""]
     },
     {
       "category": "",
       "title": "",
       "image": "images/",
       "notes": "",
-      "ingredients": [
-        ""
-      ],
-      "instructions": [
-        ""
-      ]
+      "ingredients": [""],
+      "instructions": [""]
     }
   ]
 }
