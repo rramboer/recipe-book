@@ -2878,7 +2878,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Applesauce",
       "image": "images/applesauce.png",
       "notes": "",
@@ -2894,19 +2894,19 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Asian Slaw",
       "image": "images/asian_slaw.png",
       "notes": "",
       "ingredients": [
-        "TODO Slaw:",
+        "Slaw:",
         "1 pound - Rainbow Slaw (can buy pre-packaged in produce section - any mix is fine)",
         "1 1/2 cups - Almonds or Macadamia Nuts, crushed",
         "1/4 cup - Sesame Seeds",
         "1 cup - Green Onion, chopped",
         "1 cup - Fresh Cilantro Leaves, chopped",
         "4 Mandarin Oranges, peeled and chopped",
-        "TODO Dressing:",
+        "Dressing:",
         "1/4 cup - Olive Oil",
         "2 Tbsp - Coconut Aminos",
         "2 Tbsp - White Wine Vinegar",
@@ -2922,7 +2922,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Asparagus & Mushroom Salad",
       "image": "images/asparagus_and_mushroom_salad.png",
       "notes": "",
@@ -2948,7 +2948,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Avocado Citrus Salad",
       "image": "images/avocado_citrus_salad.png",
       "notes": "",
@@ -2971,7 +2971,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Baked Sweet Potatoes",
       "image": "images/baked_sweet_potatoes.png",
       "notes": "",
@@ -2991,7 +2991,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Balsamic Brussel Sprouts",
       "image": "images/balsamic_brussel_sprouts.png",
       "notes": "",
@@ -3009,7 +3009,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Braised Cabbage and Apples",
       "image": "images/braised_cabbage_and_apples.png",
       "notes": "",
@@ -3032,7 +3032,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Broccoli Salad",
       "image": "images/broccoli_salad.png",
       "notes": "",
@@ -3052,7 +3052,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Brussel Sprout Pecan Salad",
       "image": "images/brussel_sprout_pecan_salad.png",
       "notes": "",
@@ -3071,7 +3071,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Butternut Squash Casserole",
       "image": "images/butternut_squash_casserole.png",
       "notes": "",
@@ -3091,7 +3091,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Candied Carrots",
       "image": "images/candied_carrots.png",
       "notes": "",
@@ -3107,7 +3107,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Cauliflower Salad",
       "image": "images/cauliflower_salad.png",
       "notes": "",
@@ -3134,7 +3134,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Celery Wagons",
       "image": "images/celery_wagons.png",
       "notes": "",
@@ -3152,7 +3152,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Cilantro Cauliflower Rice",
       "image": "images/cilantro_cauliflower_rice.png",
       "notes": "",
@@ -3169,7 +3169,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Collard Greens",
       "image": "images/collard_greens.png",
       "notes": "",
@@ -3190,7 +3190,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Cracked Pepper and Chive Crackers",
       "image": "images/cracked_pepper_and_chive_crackers.png",
       "notes": "",
@@ -3211,7 +3211,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Creamy Cauliflower",
       "image": "images/creamy_cauliflower.png",
       "notes": "",
@@ -3234,7 +3234,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Creamy Cauliflower Hummus",
       "image": "images/creamy_cauliflower_hummus.png",
       "notes": "",
@@ -3254,18 +3254,18 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Creamy Coleslaw",
       "image": "images/creamy_coleslaw.png",
       "notes": "",
       "ingredients": [
-        "TODO Dressing:",
+        "Dressing:",
         "1/2 cup - Avocado Mayonnaise",
         "1 Tbsp - Vinegar",
         "2 tsp - Raw Honey",
         "1/2 tsp - Celery Seed",
         "1/4 tsp - Sea Salt",
-        "TODO Veggies:",
+        "Veggies:",
         "3 cups - Green Cabbage, shredded",
         "1 cup - Red or Green Cabbage shredded",
         "2 Medium Carrots, grated",
@@ -3278,7 +3278,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Cucumber Avocado Salad",
       "image": "images/cucumber_avocado_salad.png",
       "notes": "",
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Cumin Roasted Carrot Fries",
       "image": "images/cumin_roasted_carrot_fries.png",
       "notes": "",
@@ -3317,7 +3317,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Curried Cauliflower",
       "image": "images/curried_cauliflower.png",
       "notes": "",
@@ -3338,7 +3338,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Dill Carrots",
       "image": "images/dill_carrots.png",
       "notes": "",
@@ -3358,7 +3358,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Fried Cauliflower",
       "image": "images/friend_cauliflower.png",
       "notes": "",
@@ -3384,7 +3384,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Garlic Rosemary Dinner Rolls",
       "image": "images/garlic_rosemary_dinner_rolls.png",
       "notes": "",
@@ -3415,7 +3415,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Grain Free Stuffing",
       "image": "images/grain_free_stuffing.png",
       "notes": "",
@@ -3441,7 +3441,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Guacamole",
       "image": "images/guacamole.png",
       "notes": "Goes great with the recipe for 'Cracked Pepper and Chive Crackers",
@@ -3455,7 +3455,7 @@
       "instructions": ["Mix together and enjoy."]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Kohlrabi Bosc Pear Salad",
       "image": "images/kohlrabi_bosc_pear_salad.png",
       "notes": "",
@@ -3476,7 +3476,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Oven Roasted Veggies",
       "image": "images/oven_roasted_veggies.png",
       "notes": "",
@@ -3502,7 +3502,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Potato Salad",
       "image": "images/potato_salad.png",
       "notes": "",
@@ -3528,7 +3528,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Roasted Carrots and Fennel",
       "image": "images/roasted_carrots_and_fennel.png",
       "notes": "",
@@ -3551,7 +3551,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Roasted Leek Spinach Salad with Poached Eggs",
       "image": "images/roasted_leek_spinach_salad_with_poached_eggs.png",
       "notes": "",
@@ -3574,7 +3574,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Roasted Squash, Parsnips and Leeks",
       "image": "images/roasted_squash_parsnips_and_leeks.png",
       "notes": "",
@@ -3598,7 +3598,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Sesame Asparagus",
       "image": "images/sesame_asparagus.png",
       "notes": "",
@@ -3621,7 +3621,7 @@
       ]
     },
     {
-      "category": "Appetizers Sides and Salads",
+      "category": "Appetizers",
       "title": "Sweet Potato Salad with Apple and Avocado",
       "image": "images/sweet_potato_salad_with_apple_and_avocado.png",
       "notes": "",
@@ -3652,7 +3652,7 @@
         "1/4 cup - Coconut Flour",
         "3/4 cup - Protein Powder",
         "1 1/2 cups - Almond Butter",
-        "Optional",
+        "Optional:",
         "1 Tbsp - Local Raw Honey",
         "Raisins",
         "Dried Cherries",
@@ -3660,7 +3660,7 @@
         "Chocolate Chips"
       ],
       "instructions": [
-        "Mis all ingredients together in a bowl until combined.",
+        "Mix all ingredients together in a bowl until combined.",
         "Pack into tight bite-size balls.",
         "Refrigerate or freeze immediately"
       ]
@@ -3704,7 +3704,7 @@
         "1/2 tsp - Nutmeg",
         "1/2 tsp - Sea Salt",
         "1 cup - Finely Chopped Apple",
-        "TODO Topping:",
+        "Topping:",
         "1/3 cup - Chopped Pecans or Walnuts",
         "1 tsp - Coconut Oil",
         "1/2 tsp Cinnamon"
@@ -3725,14 +3725,14 @@
       "image": "images/apple_cinnamon_waffles.png",
       "notes": "Makes about 15 waffles",
       "ingredients": [
-        "TODO Dry Ingredients",
+        "Dry Ingredients",
         "3 cups - Almond Flour",
         "1/2 cup - Tapioca Starch",
         "2 Tbsp - Coconut Flour",
         "1 1/2 tsp - Ground Cinnamon",
         "Pinch of Sea Salt",
         "2 Tbsp - Baking Powder",
-        "TODO Wet Ingredients:",
+        "Wet Ingredients:",
         "4 Eggs, Yolks and Whites Separate",
         "3 tsp - Pure Vanilla Extract",
         "2 Apples, peeled and grated",
@@ -3831,7 +3831,7 @@
         "1/2 Small Red Onion, finely chopped",
         "4 cups - Cauliflower Rice",
         "Sea Salt and Pepper to taste",
-        "TODO PICO DE GALLO INGREDIENTS:",
+        "Pico De Gallo:",
         "1/2 Small Red Onion, chopped",
         "1/2 cup - Chopped Fresh Cilantro",
         "1 Jalapeno, chopped",
@@ -3972,7 +3972,7 @@
       "image": "images/chai_streusel_muffins.png",
       "notes": "",
       "ingredients": [
-        "TODO Muffins:",
+        "Muffins:",
         "1 1/2 Cups - Almond Flour",
         "1/3 Cup - Coconut Sugar",
         "1 Tsp - Baking Soda",
@@ -3980,7 +3980,7 @@
         "3 Eggs, room temperature",
         "1/4 Cup - Avocado Oil",
         "1 Tbsp - Apple Cider Vinegar",
-        "TODO Streusel:",
+        "Streusel:",
         "1/4 Cup - Almond Flour",
         "2 Tbsp - Coconut Sugar",
         "2 Tsp - Ground Ginger",
@@ -4006,13 +4006,13 @@
       "image": "images/cherry_pistacho_scones.png",
       "notes": "",
       "ingredients": [
-        "TODO Dry Ingredients:",
+        "Dry Ingredients:",
         "1 cup - SHelled Pistachios, coarsely chopped",
         "3/4 cup - Almond Flour",
         "3 Tbsp - Coconut Flour",
         "1/4 cup - Arrowroot Starch",
         "1/4 tsp - Sea Salt",
-        "TODO Wet Ingredients:",
+        "Wet Ingredients:",
         "2 Eggs",
         "1/3 cup - Pure Maple Syrup",
         "1 tsp - Pure Vanilla Extract",
@@ -4040,14 +4040,14 @@
       "image": "images/chocolate_sweet_potato_waffles.png",
       "notes": "These can be frozen and put directly into the toaster to reheat when ready to eat!",
       "ingredients": [
-        "TODO Dry Ingredients:",
+        "Dry Ingredients:",
         "1 cup - Almond Flour",
         "1/4 cup - Coconut Flour",
         "3 Tbsp - Arrowroot Starch",
         "1/4 cup - Cocoa Powder",
         "1/2 tsp - Baking Powder",
         "1 1/2 tsp - Ground Cinnamon",
-        "TODO Wet Ingredients:",
+        "Wet Ingredients:",
         "4 eggs",
         "1/2 cup - Mashed Sweet Potato",
         "2 tsp - Pure Vanilla Extract",
@@ -4070,14 +4070,14 @@
         "1 tsp - Cinnamon",
         "1 tsp - Vanilla Extract",
         "1/2 cup - Shredded Coconut Flakes",
-        "1/4 cup - Coconut Flour TODO OR Green Banana Flour",
-        "1 Tbsp - Arrowroot Starch TODO OR Tapioca Starch",
-        "1 tsp - Raw Honey TODO OR Maple Syrup",
-        "Frozen berries/banana"
+        "1/4 cup - Coconut Flour (or Green Banana Flour)",
+        "1 Tbsp - Arrowroot Starch (or Tapioca Starch)",
+        "1 tsp - Raw Honey (or Maple Syrup)",
+        "Frozen Berries/Banana"
       ],
       "instructions": [
-        "Bring coconut milk, cinnamon and vanilla to a boil in a saucepan. Once boiling, add coconut flakes and simmer for 10 minutes.",
-        "Remove from heat. Add coconut flour, arrowroot/tapioca starch and honey/maple syrup. Sprinkle in berries and top with a sliced banana."
+        "Bring coconut milk, cinnamon, and vanilla to a boil in a saucepan. Once boiling, add coconut flakes and simmer for 10 minutes.",
+        "Remove from heat. Add coconut flour, arrowroot/tapioca starch, and honey/maple syrup. Sprinkle in berries and top with a sliced banana."
       ]
     },
     {
@@ -4086,14 +4086,14 @@
       "image": "images/dr._becky's_protein_bars.png",
       "notes": "",
       "ingredients": [
-        "1 Tbsp - Coconut Oil, melted",
+        "1 Tbsp - Coconut Oil, Melted",
         "1/2 cup - Unsweetened Applesauce",
         "1/2 tsp - Pure Vanilla",
         "1/8 tsp - Sea Salt",
         "1/3 cup - Green Banana Flour",
         "3 scoops Grass Fed Beef Vanilla Protein Powder",
         "1 cup - Shredded Coconut",
-        "1/2 cup - Dark Chocolate Chips TODO OR Mix together 1/3 cup Carob Powder with 1/3 cup Melted Coconut Oil"
+        "1/2 cup - Dark Chocolate Chips (or mix together 1/3 cup Carob Powder with 1/3 cup Melted Coconut Oil)"
       ],
       "instructions": [
         "Melt coconut oil. In a medium bowl, mix together coconut oil, applesauce, vanilla and sea salt until smooth.",
@@ -4337,12 +4337,12 @@
       "image": "images/pumpkin_tigernut_muffins.png",
       "notes": "",
       "ingredients": [
-        "TODO Topping:",
+        "Topping:",
         "1/4 cup - Tigernut Flour",
         "2 Tbsp - Coconut Sugar",
         "1/2 tsp - Pumpkin Pie Spice",
         "2 Tbsp - Palm Shortening, chilled",
-        "TODO Muffins:",
+        "Muffins:",
         "3 Eggs",
         "1 cup - Pumpkin or Winter Squash Puree",
         "1/3 cup - Full Fat Coconut Milk",
