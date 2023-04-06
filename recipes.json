@@ -352,7 +352,7 @@
         "Coconut Oil (for greasing pan)",
         "3/4 cup - Coconut Flour",
         "Pinch of Sea Salt",
-        "13.5 ozs. Full Fat Coconut Milk (or Coconut Cream)",
+        "13.5 oz Full Fat Coconut Milk (or Coconut Cream)",
         "4 Large Eggs",
         "1/3 cup - Pure Maple Syrup",
         "1 Tbsp - Pure Vanilla Extract",
@@ -915,7 +915,7 @@
       "ingredients": [
         "1 (13.5oz) can - Full Fat Coconut Milk",
         "1/2 cup - Hot Water",
-        "4.5 ozs - Dates, Pitted",
+        "4.5 oz - Dates, Pitted",
         "1/3 cup - Cocoa or Carob Powder",
         "1/4 cup - Chia Seeds",
         "1 Tbsp - Coconut Oil, Melted",
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Almond Milk Nog",
       "image": "images/almond_milk_nog.png",
       "notes": "",
@@ -1177,7 +1177,7 @@
       "instructions": ["Mix in a blender.", "Pour over ice. Enjoy!"]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Blueberry Breakfast Shake",
       "image": "images/blueberry_breakfast_shake.png",
       "notes": "",
@@ -1192,7 +1192,7 @@
       "instructions": ["Blend on high speed until smooth."]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Citrus Vanilla Smoothie",
       "image": "images/citrus_vanilla_smoothie.png",
       "notes": "",
@@ -1209,7 +1209,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Coconut Chai Smoothie",
       "image": "images/coconut_chai_smoothie.png",
       "notes": "",
@@ -1230,7 +1230,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Dr. Greg's Autumn Shake",
       "image": "images/autumn_shake.png",
       "notes": "",
@@ -1251,12 +1251,12 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Drew's Frozen Hot Chocolate",
       "image": "images/frozen_hot_chocolate.png",
       "notes": "",
       "ingredients": [
-        "3 ozs - Unsweetened  Dark Chocolate",
+        "3 oz - Unsweetened  Dark Chocolate",
         "2 Tbsp - Hot Chocolate Powder Mix",
         "1 1/2 Tbsp - Pure Maple Syrup",
         "1/2 cup - Full Fat Coconut Cream",
@@ -1271,7 +1271,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Maca Latte",
       "image": "images/maca_latte.png",
       "notes": "",
@@ -1287,7 +1287,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Mango Mint Smoothie",
       "image": "images/mango_mint_smoothie.png",
       "notes": "",
@@ -1304,7 +1304,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Raspberry Peach Lemonade",
       "image": "images/raspberry_peach_lemonade.png",
       "notes": "",
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "category": "Drinks and Smoothies",
+      "category": "Drinks",
       "title": "Watermelon Limeade",
       "image": "images/watermelon_limeade.png",
       "notes": "This makes a great post-workout electrolyte drink (without all the added junk)!",
@@ -3038,7 +3038,7 @@
       "notes": "",
       "ingredients": [
         "3-4 Bunches Broccoli",
-        "3/4 lb. - Uncured Turkey Bacon (12oz)",
+        "3/4 lb - Uncured Turkey Bacon (12oz)",
         "1/2 cup - Chopped Almonds",
         "1/2 cup - Green Onion, chopped",
         "Dressing:",
@@ -3603,7 +3603,7 @@
       "image": "images/sesame_asparagus.png",
       "notes": "",
       "ingredients": [
-        "3/4 lb. - Asparagus Spears, washed",
+        "3/4 lb - Asparagus Spears, washed",
         "1 Tbsp - Coconut Oil",
         "1 Tbsp - Sesame Seeds",
         "(Opt.) 1 cup - Sliced Fresh Mushrooms",
@@ -3857,7 +3857,7 @@
         "1 Small Sweet Potato, peeled and diced",
         "1 tsp - Thyme",
         "1 tsp - Basil",
-        "1 lb. - Chicken Breakfast Sausage",
+        "1 lb - Chicken Breakfast Sausage",
         "Eggs"
       ],
       "instructions": [
@@ -4521,7 +4521,7 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "2 lb. - Grass Fed Stew Meat",
+        "2 lb - Grass Fed Stew Meat",
         "1 Onion, Chopped",
         "4 Cloves Fresh Garlic, Sliced Thin",
         "6 cups - Chicken or Beef Broth",
@@ -4545,7 +4545,7 @@
       "image": "images/beef_stew",
       "notes": "",
       "ingredients": [
-        "2 lbs. - Grass Fed Stew Meat, Cut into 1” Cubes",
+        "2 lbs - Grass Fed Stew Meat, Cut into 1” Cubes",
         "2 Tbsp - Avocado Oil",
         "Sea Salt and Pepper to Taste",
         "2 cups - Organic Beef Broth",
@@ -4555,7 +4555,7 @@
         "3 Stalks Celery, Sliced",
         "1 Sweet Potato, Cubed",
         "1 tsp - Dried Parsley",
-        "2 tsp Adobo Seasoning",
+        "2 tsp - Adobo Seasoning",
         "1/8 Cup - Worcestershire Sauce"
       ],
       "instructions": [
@@ -4623,9 +4623,9 @@
         "1 Small Yellow Onion, Finely Chopped",
         "1 cup - Zucchini, Finely Chopped",
         "2 cups - Sliced Mushrooms",
-        "1 lb. - Grass Fed Ground Beef",
+        "1 lb - Grass Fed Ground Beef",
         "1 pound - Bulk Apple Chicken Sausage",
-        "28 oz. - Crushed Tomatoes",
+        "28 oz - Crushed Tomatoes",
         "1 can - Diced Tomatoes with Juice",
         "2 Cloves Garlic, Minced",
         "2 Tbsp - Dried Oregano",
@@ -4701,7 +4701,7 @@
         "2 Tbsp - Coconut Oil",
         "1 Large Onion",
         "4 tsp - Minced Garlic",
-        "2 lb. - Grass Fed Ground Beef",
+        "2 lb - Grass Fed Ground Beef",
         "1 tsp - Dried Oregano",
         "1 1/2 Tbsp - Chili Powder",
         "1 1/2 Tbsp - Ground Cumin",
@@ -4748,7 +4748,7 @@
       "image": "images/crockpot_hamburger_soup.png",
       "notes": "",
       "ingredients": [
-        "1 lb. - Grass Fed Ground Beef",
+        "1 lb - Grass Fed Ground Beef",
         "6 cups - Chicken or Beef Broth",
         "1 Large Sweet Potato",
         "3  Carrots",
@@ -4775,7 +4775,7 @@
         "1 pound - Grass Fed Ground Beef",
         "1 Tbsp - Coconut Oil",
         "1  Onion, Diced",
-        "4 cups (32 oz.) - Chicken Broth",
+        "4 cups (32 oz) - Chicken Broth",
         "1/2 head Cabbage, Chopped",
         "2 cups - Shredded Carrots",
         "1 tsp - Garlic Powder",
@@ -4798,7 +4798,7 @@
       "ingredients": [
         "1 Small Yellow Onion, Sliced",
         "3 Limes",
-        "3-4 lbs. Chicken Breasts",
+        "3-4 lbs Chicken Breasts",
         "4 Tbsp - Taco Seasoning",
         "1/4 cup - Chicken Broth"
       ],
@@ -4827,7 +4827,7 @@
         "¼ tsp - Ground Cinnamon",
         "1 Pinch of Ground Cloves",
         "2 cups - Grass Fed Beef Broth",
-        "3 oz. - Pine Nuts",
+        "3 oz - Pine Nuts",
         "1 Large Sweet Potato, Pureed",
         "1 tsp - Dried Adobo Seasoning",
         "2 tsp - Red Wine Vinegar",
@@ -5015,7 +5015,7 @@
       "image": "images/slow_cooker_chicken_tortilla_soup.png",
       "notes": "",
       "ingredients": [
-        "1 lb. Chicken Breast, Trimmed",
+        "1 lb Chicken Breast, Trimmed",
         "5 cups Chicken Broth",
         "1 Medium Onion, Chopped",
         "1 Green Pepper, Chopped",
@@ -5065,7 +5065,7 @@
       "notes": "",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "2 lb. - Grass Fed Steak, Cubed",
+        "2 lb - Grass Fed Steak, Cubed",
         "2 Sweet Potatoes, Peeled and Cut into 1\" Cubes",
         "4 Carrots, Peeled and Cut",
         "1 Large Onion, Chopped",
