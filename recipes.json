@@ -68,7 +68,10 @@
       "title": "Homemade Citrus Cleaner",
       "image": "images/homemade_citrus_cleaner.png",
       "notes": "Do not use vinegar solutions to clean granite, marble or stone.",
-      "ingredients": ["32 oz - White Vinegar", "3 Lemon Peels"],
+      "ingredients": [
+        "32 oz - White Vinegar",
+        "3 Lemon Peels"
+      ],
       "instructions": [
         "Peel the lemons and place into a large glass jar with a lid.",
         "Pour the entire bottle of vinegar over the top of the lemon peels.",
@@ -81,7 +84,11 @@
       "title": "Natural Powder Blush",
       "image": "images/natural_powder_blush.png",
       "notes": "The amounts of each ingredient to use will vary per person. You will have to experiment to find out what works for you.",
-      "ingredients": ["Arrowroot Flour", "Cocoa Powder", "Ground Hibiscus"],
+      "ingredients": [
+        "Arrowroot Flour",
+        "Cocoa Powder",
+        "Ground Hibiscus"
+      ],
       "instructions": [
         "Start with 1 tsp arrowroot in a small 4 oz mason jar.",
         "Add cocoa powder and hibiscus until you reach desired shade.",
@@ -124,7 +131,10 @@
       "title": "Pumpkin Seeds",
       "image": "images/pumpkin_seeds.png",
       "notes": "",
-      "ingredients": ["Pumpkin Seeds", "Coconut Oil"],
+      "ingredients": [
+        "Pumpkin Seeds",
+        "Coconut Oil"
+      ],
       "instructions": [
         "Remove and wash seeds.",
         "Pat dry.",
@@ -1174,7 +1184,10 @@
         "1/4 tsp - Pure Vanilla Extract",
         "Cinnamon to Sprinkle on Top"
       ],
-      "instructions": ["Mix in a blender.", "Pour over ice. Enjoy!"]
+      "instructions": [
+        "Mix in a blender.",
+        "Pour over ice. Enjoy!"
+      ]
     },
     {
       "category": "Drinks",
@@ -1189,7 +1202,9 @@
         "2 cups - Leafy Greens",
         "Handful of ice cubes"
       ],
-      "instructions": ["Blend on high speed until smooth."]
+      "instructions": [
+        "Blend on high speed until smooth."
+      ]
     },
     {
       "category": "Drinks",
@@ -1336,12 +1351,15 @@
         "Pinch of Sea Salt",
         "Handful of Ice"
       ],
-      "instructions": ["Mix in a blender.", "Enjoy!"]
+      "instructions": [
+        "Mix in a blender.",
+        "Enjoy!"
+      ]
     },
     {
       "category": "Entrées",
       "title": "Artichoke Chicken with Mushroom Sauce",
-      "image": "images/artichoke",
+      "image": "images/artichoke_chicken_with_mushroom_sauce.png",
       "notes": "",
       "ingredients": [
         "6 Tbsp - Coconut Oil",
@@ -1525,7 +1543,7 @@
     {
       "category": "Entrées",
       "title": "Beef Stew",
-      "image": "images/beef_stew",
+      "image": "images/beef_stew.png",
       "notes": "",
       "ingredients": [
         "2 lbs - Grass Fed Stew Meat, Cut into 1” Cubes",
@@ -1712,7 +1730,7 @@
     {
       "category": "Entrées",
       "title": "Chipotle Meatballs",
-      "image": "images/chipotle_meatballs",
+      "image": "images/chipotle_meatballs.png",
       "notes": "",
       "ingredients": [
         "Meatballs:",
@@ -2479,8 +2497,12 @@
       "title": "",
       "image": "images/",
       "notes": "",
-      "ingredients": [""],
-      "instructions": [""]
+      "ingredients": [
+        ""
+      ],
+      "instructions": [
+        ""
+      ]
     },
     {
       "category": "Soup & Sauces",
@@ -3452,7 +3474,9 @@
         "Garlic Salt to taste",
         "Cilantro, chopped"
       ],
-      "instructions": ["Mix together and enjoy."]
+      "instructions": [
+        "Mix together and enjoy."
+      ]
     },
     {
       "category": "Appetizers",
