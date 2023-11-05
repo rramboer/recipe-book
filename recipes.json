@@ -544,6 +544,50 @@
     },
     {
       "category": "Desserts",
+      "title": "Chia Pudding",
+      "image": "images/chia_pudding.png",
+      "notes": "Individual serving size.",
+      "ingredients": [
+        "1 cup - Almond or Coconut Milk",
+        "5 Tbsp - Chia Seeds",
+        "2 Tbsp - Pure Maple Syrup",
+        "1/4 tsp - Pure Vanilla Extract",
+        "Sprinkle of Ground Cinnamon",
+        "Sprinkle of Sea Salt"
+      ],
+      "instructions": [
+        "Get out pint-sized mason jar. (For multiple jars, repeat ingredients in each jar.)",
+        "Add the ingredients, screw on the lid, and mix well.",
+        "Place in the fridge for at least 4 hours or overnight."
+      ]
+    },
+    {
+      "category": "Desserts",
+      "title": "Chocolate Almond Butter Swirl Brownies",
+      "image": "images/chocolate_almond_butter_swirl_brownies.png",
+      "notes": "",
+      "ingredients": [
+        "3/4 cup - Almond Flour",
+        "1/2 cup - Cocoa Powder",
+        "3/4 tsp - Baking Powder",
+        "1/4 cup + 2 Tbsp - Melted Coconut Oil",
+        "1/2 cup - Local Raw Honey",
+        "1 Tbsp - Pure Vanilla Extract",
+        "3 Eggs",
+        "1/4 cup - Dark Chocolate Chips",
+        "3 Tbsp - Almond Butter",
+        "Unbleached Parchment Paper"
+      ],
+      "instructions": [
+        "In a small bowl, combine the almond meal, cocoa powder and baking powder. In a separate bowl, combine the melted coconut oil and honey, and stir well.",
+        "Add the vanilla to the wet ingredients. When the coconut oil has cooled, add the eggs.",
+        "Combine the wet and dry mixtures, stirring well. Add the dark chocolate chips.",
+        "Line your slow cooker with parchment paper and pour in the mixture on top of it. Drop the almond butter on top of the mixture, and using a knife, swirl it around.",
+        "Cover and cook on LOW for 1 hour and 15 minutes."
+      ]
+    },
+    {
+      "category": "Desserts",
       "title": "Chocolate \"Cheesecake\"",
       "image": "images/chocolate_cheesecake.png",
       "notes": "Optional Strawberry Sauce topper: Combine 5 oz of thawed frozen strawberries with 1 Tbsp pure maple syrup and blend until smooth. Mix with 5 oz chopped strawberries for texture and spoon over each slice.",
@@ -574,31 +618,6 @@
         "Pour the filling into the frozen pie crust, place back in the freezer and allow to set.",
         "Remove from the tray and place in an airtight storage container.",
         "Store in the freezer until ready to eat. Serve directly from the freezer for best texture (becomes soft at room temp)."
-      ]
-    },
-    {
-      "category": "Desserts",
-      "title": "Chocolate Almond Butter Swirl Brownies",
-      "image": "images/chocolate_almond_butter_swirl_brownies.png",
-      "notes": "",
-      "ingredients": [
-        "3/4 cup - Almond Flour",
-        "1/2 cup - Cocoa Powder",
-        "3/4 tsp - Baking Powder",
-        "1/4 cup + 2 Tbsp - Melted Coconut Oil",
-        "1/2 cup - Local Raw Honey",
-        "1 Tbsp - Pure Vanilla Extract",
-        "3 Eggs",
-        "1/4 cup - Dark Chocolate Chips",
-        "3 Tbsp - Almond Butter",
-        "Unbleached Parchment Paper"
-      ],
-      "instructions": [
-        "In a small bowl, combine the almond meal, cocoa powder and baking powder. In a separate bowl, combine the melted coconut oil and honey, and stir well.",
-        "Add the vanilla to the wet ingredients. When the coconut oil has cooled, add the eggs.",
-        "Combine the wet and dry mixtures, stirring well. Add the dark chocolate chips.",
-        "Line your slow cooker with parchment paper and pour in the mixture on top of it. Drop the almond butter on top of the mixture, and using a knife, swirl it around.",
-        "Cover and cook on LOW for 1 hour and 15 minutes."
       ]
     },
     {
@@ -658,6 +677,44 @@
     },
     {
       "category": "Desserts",
+      "title": "Chocolate Coconut Cake",
+      "image": "images/chocolate_coconut_cake.png",
+      "notes": "",
+      "ingredients": [
+        "Cake:",
+        "1 1/2 cups - Almond Flour",
+        "1/2 cup - Cocoa Powder",
+        "1/2 cup - Coconut Sugar",
+        "1/8 tsp - Sea Salt",
+        "2 Eggs, room temperature",
+        "1/4 cup - Coconut Oil, melted",
+        "1/3 cup - Condensed Coconut Milk",
+        "2 tsp - Pure Vanilla Extract",
+        "Coconut Layer:",
+        "1 1/2 cups - Unsweetened Shredded Coconut",
+        "1 Tbsp - Raw Honey",
+        "1/3 cup - Almond Flour",
+        "1/4 cup - Coconut Oil, melted",
+        "1/4 cup - Coconut Milk",
+        "Chocolate Glaze:",
+        "1/2 cup - Dark Chocolate Chips",
+        "1/2 cup - Condensed Coconut Milk"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees. Grease an 8\" square glass dish with coconut oil.",
+        "Mix together the following cake ingredients: almond flour, cocoa powder, coconut sugar, and sea salt.",
+        "In a separate bowl, whisk together the remaining cake ingredients: eggs, coconut oil, coconut milk, and vanilla.",
+        "Gently mix dry ingredients into wet ingredients until combined, not over-mixing",
+        "Spread evenly into the dish and bake for 17 minutes. Remove from oven and let cool completely.",
+        "Mix all coconut layer ingredients together into well combined.",
+        "Spread mixture over the fulyl cooled cake in an even layer. Freeze for 10 minutes until firm.",
+        "For glaze, slowly melt the chocolate in a double boiler. Add condensed coconut milk and mix until smooth.",
+        "Pour glaze over the top of the cake and refrigerate for 2 hours until glaze is set.",
+        "Store in the fridge."
+      ]
+    },
+    {
+      "category": "Desserts",
       "title": "Chocolate Dipped Strawberry Macaroons",
       "image": "images/chocolate_dipped_strawberry_macaroons.png",
       "notes": "",
@@ -703,6 +760,39 @@
         "Place the chopped chocolate in a large glass bowl. Pour the coconut mixture over it, and stir slowly until melted and smooth. Let sit at room temperature for 40 minutes.",
         "Line an 8” x 8” glass baking dish with parchment paper. Pour the chocolate mixture into the baking dish and spread to flatten. Sprinkle with chopped pecans. Cover and place in the refrigerator to chill for 2 hours.",
         "When ready to serve, remove from the fridge and let sit at room temperature for 15 minutes."
+      ]
+    },
+    {
+      "category": "Desserts",
+      "title": "Chocolate Mint Cookies",
+      "image": "images/chocolate_mint_cookies.png",
+      "notes": "(Modified from Danielle Walker's 'Eat What You Love' Cookbook)",
+      "ingredients": [
+        "Cookie:",
+        "2 cups - Almond Flour",
+        "2 Tbsp - Coconut Flour",
+        "1/2 cup - Cocoa Powder",
+        "1/2 tsp - Baking Soda",
+        "1/4 tsp - Sea Salt",
+        "1/4 cup - Coconut Sugar",
+        "1/4 cup - Raw Honey",
+        "1/4 cup - Expeller Pressed Coconut Oil",
+        "2 oz - Dark Chocolate Chips",
+        "1/2 tsp - Pure Peppermint Extract",
+        "Coating:",
+        "10 oz - Dark Chocolate Chips",
+        "2/4 tsp - Expeller Pressed Coconut Oil",
+        "1/4 tsp - Pure Peppermint Extract"
+      ],
+      "instructions": [
+        "In a medium sized bowl with a mixer, combine almond flour, coconut flour, cocoa powder, baking soda, salt, and coconut sugar. Mix thoroughly on medium speed.",
+        "In a saucepan, combine honey, coconut oil, chocolate, and peppermint extract and cook over low heat, stirring until melted.",
+        "Pour the melted mixture into the dry mixture and beat on medium until fully combined.",
+        "Using your hands, pack the dough into 2 balls, then roll each ball into an inch thick log on the parchment paper. Refrigerate for at least an hour. When ready to bake the cookies, preheat the oven to 350 degrees. Line a baking sheet with parchment paper.",
+        "Remove the logs from the fridge and slice into 1/4 inch thick pieces. Space them out flat on the baking sheet. Repeat with the remaining dough until it is used up.",
+        "Bake in the oven for 10 minutes and then remove and let cool.",
+        "Place all the coating ingredients into a saucepan and head on medium/low heat until melted.",
+        "Dip each cooled cookie in the melted chocolate mixture and place on a piece of parchment paper placed inside of a container with a lid. When each layer is full, place the container in the freezer to harden. Then remove from the freezer, place another piece of parchment paper in the container and repeat until all cookies are chocolate dipped."
       ]
     },
     {
@@ -1062,20 +1152,21 @@
         "1 tsp - Vanilla",
         "1/2 cup - Coconut Milk",
         "1 Tbsp - Lime Juice",
-        "2 Tbsp - Lime Zest(2-3 limes)",
+        "2 Tbsp - Lime Zest (2-3 limes)",
         "1/8 tsp - Sea Salt",
         "1/4 cup - Coconut Sugar",
         "1/4 cup - Coconut Butter (aka Manna)",
         "1/4 cup - Coconut Oil",
+        "Glaze:",
         "3/4 cup - Coconut Sugar",
         "1 1/2 Tbsp - Lime Juice",
         "1 Tbsp - Lime Zest (1-2 Limes)",
         "2 Tbsp - Chopped Pistachios"
       ],
       "instructions": [
-        "Add almond flour, shredded coconut, vanilla, coconut milk, lime juice and zest, salt and coconut sugar in the blender.",
+        "Add almond flour, shredded coconut, vanilla, coconut milk, lime juice and zest, salt, and coconut sugar in the blender.",
         "In a small pot on low heat, add coconut butter and coconut oil and melt. Once melted, add to the blender and blend for 45 seconds or until combined into a sticky dough. You may need to scrape down the sides as you go. Transfer the blender to the fridge and chill for 10 minutes.",
-        "In a small bowl, combine coconut sugar, lime juice and lime zest for the glaze. If it is too runny, add coconut or almond flour in small quantities until it reaches spreading consistency.",
+        "In a small bowl, combine coconut sugar, lime juice, and lime zest for the glaze. If it is too runny, add coconut or almond flour in small quantities until it reaches spreading consistency.",
         "Chop the pistachios and set aside.",
         "Line a cookie sheet with parchment paper. Using damp hands, separate the dough from the blender into golf ball sized pieces and place on the cookie sheet, flatten slightly.",
         "Transfer the cookie sheet to the fridge and chill for 10 more minutes.",
@@ -1531,14 +1622,14 @@
         "2 lbs - Grass Fed Stew Meat, Cut into 1” Cubes",
         "2 Tbsp - Avocado Oil",
         "Sea Salt and Pepper to Taste",
-        "2 cups - Organic Beef Broth",
-        "1 Clove Garlic, Minced",
-        "5 Carrots, Peeled and Sliced",
-        "1 Large Onion, Chopped",
-        "3 Stalks Celery, Sliced",
-        "1 Sweet Potato, Cubed",
+        "4 cups - Organic Beef Broth",
+        "1 Clove Garlic, minced",
+        "5 Carrots, peeled and sliced",
+        "1 Large Onion, chopped",
+        "3 Stalks Celery, sliced",
+        "1 Sweet Potato, cubed",
         "1 tsp - Dried Parsley",
-        "2 tsp Adobo Seasoning",
+        "2 tsp - Adobo Seasoning",
         "1/8 cup - Worcestershire Sauce"
       ],
       "instructions": [
@@ -2434,15 +2525,15 @@
       "category": "Soup & Sauces",
       "title": "Asparagus Bacon Soup",
       "image": "images/asparagus_bacon_soup.png",
-      "notes": "",
+      "notes": "(Recipe from Mercola.com)",
       "ingredients": [
         "2 Tbsp - Coconut Oil",
-        "1 Onion or 2 Leeks, Chopped",
+        "1 Onion or 2 Leeks, chopped",
         "3 Garlic Cloves, chopped",
-        "1 lb Asparagus, Woody Ends Trimmed",
-        "1/2 lb Cauliflower, Chopped",
+        "1 lb Asparagus, woody ends trimmed",
+        "1/2 lb Cauliflower, chopped",
         "3 cups - Chicken Broth",
-        "2 Tbsp - Flat Leaf Parsley, Chopped",
+        "2 Tbsp - Flat Leaf Parsley, chopped",
         "Sea Salt and Pepper",
         "3 Slices Turkey Bacon"
       ],
@@ -2617,22 +2708,21 @@
       "notes": "",
       "ingredients": [
         "1 Tbsp - Coconut Oil",
-        "2 Leeks, Chopped",
-        "1 Large Potato or Rutabaga, Peeled and Chopped",
-        "1 Head Broccoli, Chopped",
-        "4 Carrots, Chopped",
+        "2 Leeks, chopped",
+        "1 Large Potato or Rutabaga, peeled and chopped",
+        "1 Head Broccoli, chopped",
+        "4 Carrots, chopped",
         "1 tsp - Sea Salt",
         "1/2 tsp - Pepper",
         "1 tsp - Paprika",
-        "4 cups Broth",
+        "4 cups - Broth",
         "1 (13.5 oz) Can Coconut Milk",
-        "1 lb Boneless Chicken, Cut into Bite-Sized Cubes",
-        "1/4 cup - Arrowroot Flour",
-        "Sea Salt and Pepper to Taste"
+        "1 lb Boneless Chicken, cut into bite-sized cubes",
+        "1/4 cup - Arrowroot Flour"
       ],
       "instructions": [
         "In a large soup pot, heat the oil over low-medium heat. Add the leek and cook until soft.",
-        "Add the vegetables and spices and  for another 6 minutes, stir regularly.",
+        "Add the vegetables and spices and for another 6 minutes, stir regularly.",
         "Add the broth and coconut milk. Bring to a boil, then simmer for 20 minutes.",
         "Add the chicken and simmer for 5 more minutes.",
         "Add the arrowroot flour, turn heat up to high and stir until chowder thickens.",
@@ -2817,22 +2907,24 @@
       "image": "images/southern_sweet_potato_soup.png",
       "notes": "",
       "ingredients": [
-        "2 Large Sweet Potatoes, Peeled and Sliced",
+        "Soup:",
+        "2 Large Sweet Potatoes, peeled and sliced",
         "3 1/2 cups - Organic Chicken Broth",
-        "2 cups - Chopped Onion",
-        "6 Celery Stalks, Chopped",
+        "1 Chopped Onion",
+        "6 Celery Stalks, chopped",
         "2 tsp - Minced Garlic",
         "1/2 cup - Water",
-        "1/3 cup - Coconut Oil, Melted",
+        "1/3 cup - Coconut Oil, melted",
         "3 Tbsp - Creamy Almond Butter",
         "1/4 tsp - Ground Cinnamon",
+        "Topping:",
         "1/2 cup - Almond or Coconut Milk",
         "1 tsp - Dried Thyme",
         "1 1/2 Tbsp - Raw Honey",
         "1/8 tsp - Ground Nutmeg"
       ],
       "instructions": [
-        "Combine top grouping of ingredients in a 5 qt. or larger crockpot.",
+        "Combine soup ingredients in a 5 qt. or larger crockpot.",
         "Cover and cook on low for 7 hours or until potatoes are tender. Cool slightly.",
         "Scoop mixture into a blender (as much as will fit). Blend until smooth and add back into the crockpot. Repeat and return to the crockpot. Add almond milk, thyme, honey and nutmeg. Stir and enjoy!"
       ]
@@ -3632,6 +3724,28 @@
     },
     {
       "category": "Appetizers",
+      "title": "Smashed Potatoes",
+      "image": "images/smashed_potatoes.png",
+      "notes": "",
+      "ingredients": [
+        "6 Small Potatoes",
+        "Fresh Rosemary Sprig",
+        "1/4 cup - Avocado Oil",
+        "Sea Salt",
+        "Pepper"
+      ],
+      "instructions": [
+        "Preheat oven to 390 degrees.",
+        "Wash potatoes and place in a pot of boiling water. Boil for 25 minutes.",
+        "Remove from pot and drain. Let air dry for a few minutes.",
+        "Wash and chop fresh rosemary. Transfer to a small bowl and add avocado oil.",
+        "Place the potatoes on a flat cookie sheet. Use something flat (a plate or pot lid) to slowly and gently smash each potato down until thin and flat.",
+        "Drizzle the rosemary and oil over the potatoes evenly. Sprinkle with salt and pepper.",
+        "Bake for 50 minutes. Remove from oven and cool."
+      ]
+    },
+    {
+      "category": "Appetizers",
       "title": "Sweet Potato Salad with Apple and Avocado",
       "image": "images/sweet_potato_salad_with_apple_and_avocado.png",
       "notes": "",
@@ -3806,6 +3920,31 @@
     },
     {
       "category": "Breakfast",
+      "title": "Banana Zucchini Bread",
+      "image": "images/banana_zucchini_bread.png",
+      "notes": "",
+      "ingredients": [
+        "1 cup - Almond Flour",
+        "1/2 cup - Tapioca or Arrowroot Flour",
+        "2 tsp - Ground Cinnamon",
+        "1 tsp - Baking Soda",
+        "1/2 tsp - Sea Salt",
+        "1/2 tsp - Ground Nutmeg",
+        "3 Eggs, beaten",
+        "1/4 cup - Local Raw Honey",
+        "1 Ripe Banana",
+        "1 cup - Zucchini, unpeeled and shredded"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Combine dry ingredients in a small bowl.",
+        "Add eggs to a large mixing bowl and beat with a mixer. Add other wet ingredients and beat until fully combined and frothy.",
+        "Slowly add the dry ingredients while mixing until all is incorporated.",
+        "Spoon batter into 3 mini loaf pans or into a lined muffin tin and bake for 35 minutes."
+      ]
+    },
+    {
+      "category": "Breakfast",
       "title": "Blueberry Almond Crumb Muffins",
       "image": "images/blueberry_almond_crumb_muffins.png",
       "notes": "",
@@ -3903,7 +4042,8 @@
       ],
       "instructions": [
         "Preheat the oven to 350 degrees. In a small bowl, mix together the dry ingredients. In a medium bowl, whisk eggs until light and frothy. Add vanilla and maple syrup and whisk to combine.",
-        "Add the dry ingredients to the egg mixture and blend well. Stir in the carrots, zucchini, coconut, walnuts, dried cherries and pumpkin seeds until incorporated. Line a 12 cup muffin tin with paper liners, and divide the batter among them. Bake the muffins for 25-30 minutes or until they are browned and the centers spring back to the touch. Let cool for 10 minutes, then remove muffins and let cool completely on a wire rack.",
+        "Add the dry ingredients to the egg mixture and blend well. Stir in the carrots, zucchini, coconut, walnuts, dried cherries and almonds until incorporated. Line a 12 cup muffin tin with paper liners, and divide the batter among them.",
+        "Bake the muffins for 25-30 minutes or until they are browned and the centers spring back to the touch. Let cool for 10 minutes, then remove muffins and let cool completely on a wire rack.",
         "Store in an airtight container in the fridge, or freeze for later user. These are great for on-the-go!"
       ]
     },
@@ -4096,18 +4236,18 @@
       "image": "images/dr._becky's_protein_bars.png",
       "notes": "",
       "ingredients": [
-        "1 Tbsp - Coconut Oil, Melted",
+        "1 Tbsp - Coconut Oil, melted",
         "1/2 cup - Unsweetened Applesauce",
         "1/2 tsp - Pure Vanilla",
         "1/8 tsp - Sea Salt",
         "1/3 cup - Green Banana Flour",
-        "3 scoops Grass Fed Beef Vanilla Protein Powder",
+        "6 scoops Grass Fed Bone Broth Protein Powder",
         "1 cup - Shredded Coconut",
-        "1/2 cup - Dark Chocolate Chips (or mix together 1/3 cup Carob Powder with 1/3 cup Melted Coconut Oil)"
+        "1/2 cup - Dark Chocolate Chips (or mix together 1/3 cup Carob Powder with 1/3 cup melted Coconut Oil)"
       ],
       "instructions": [
         "Melt coconut oil. In a medium bowl, mix together coconut oil, applesauce, vanilla and sea salt until smooth.",
-        "Add banana flour and protein powder and mix well. Then add shredded coconut and mix again. Mixture will be thick.",
+        "Add banana flour and protein powder and mix well. Then add shredded coconut and mix again.",
         "Spread mixture into a glass 8\" by 8\" dish lined with parchment paper and press into a flat even layer. Refrigerate for 20 minutes.",
         "Melt chocolate chips in a double boiler. Remove glass dish from the fridge and pour the chocolate over the top. Spread until even. Place back in the fridge for 2 to 4 hours. Remove and cut into bars.",
         "Refrigerate until ready to eat or freeze for later use."
@@ -4377,6 +4517,36 @@
     },
     {
       "category": "Breakfast",
+      "title": "Rosemary Zucchini Bread",
+      "image": "images/banana_zucchini_bread.png",
+      "notes": "(Recipe adapted from Mark Hyman, M.D.)",
+      "ingredients": [
+        "1 1/2 cups - Grated Zucchini",
+        "1 1/2 tsp - Sea Salt",
+        "5 Eggs",
+        "1/2 cup - Olive Oil",
+        "1/4 cup - Pure Maple Syrup",
+        "2 1/4 cups - Almond Flour",
+        "2 Tbsp - Coconut Flour",
+        "3 tsp - Aluminum-Free Baking Powder",
+        "1/2 cup - Pecans, chopped",
+        "1 Tbsp - Fresh Rosemary, chopped",
+        "2 Tbsp - Pecans, chopped (for topping)"
+      ],
+      "instructions": [
+        "Preheat the oven to 350 degrees.",
+        "Grate zucchini into a medium bowl, add sea salt and mix. Set aside.",
+        "In a different bowl, whisk together eggs, olive oil and maple syrup. Whisk well until fluffy.",
+        "In a large bowl, stir together almond flour, coconut flour, baking powder, pecans, and rosemary.",
+        "Pour the wet ingredients into the dry ingredients and stir until well combined.",
+        "After the zucchini has \"sweat\" for 10 minutes, transfer it into a strainer and press until most of the liquid has drained.",
+        "Add zucchini to the batter and mix well until incorporated.",
+        "Lightly grease an 8\"x4\" loaf pan with olive oil and pour batter into it. Smooth the top. Sprinkle the 2 Tbsp of chopped pecans on top and press gently into the batter.",
+        "Bake for 45-50 minutes. Cool in the pan for 10 minutes before serving."
+      ]
+    },
+    {
+      "category": "Breakfast",
       "title": "Sausage & Celery Root Skillet",
       "image": "images/sausage_and_celery_root_skillet.png",
       "notes": "",
@@ -4558,12 +4728,12 @@
         "2 lbs - Grass Fed Stew Meat, Cut into 1” Cubes",
         "2 Tbsp - Avocado Oil",
         "Sea Salt and Pepper to Taste",
-        "2 cups - Organic Beef Broth",
-        "1 Clove Garlic, Minced",
-        "5 Carrots, Peeled and Sliced",
-        "1 Large Onion, Chopped",
-        "3 Stalks Celery, Sliced",
-        "1 Sweet Potato, Cubed",
+        "4 cups - Organic Beef Broth",
+        "1 Clove Garlic, minced",
+        "5 Carrots, peeled and sliced",
+        "1 Large Onion, chopped",
+        "3 Stalks Celery, sliced",
+        "1 Sweet Potato, cubed",
         "1 tsp - Dried Parsley",
         "2 tsp - Adobo Seasoning",
         "1/8 cup - Worcestershire Sauce"
