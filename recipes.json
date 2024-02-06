@@ -1124,6 +1124,43 @@
     },
     {
       "category": "Desserts",
+      "title": "Pumpkin Spice Cake",
+      "image": "images/pumpkin_spice_cake.png",
+      "notes": "Adapted from recipe by Jessica DeMay. Thank you to Lisa T. for sharing this with us!",
+      "ingredients": [
+        "Cake Ingredients:",
+        "1/4 cup - Avocado Oil",
+        "1/4 cup - Pure Maple Syrup",
+        "1/4 cup - Coconut Sugar",
+        "1 cup - Canned or Pureed Pumpkin",
+        "4 Eggs",
+        "1 cup - Almond Flour",
+        "1/4 cup - Coconut Flour",
+        "1/2 tsp - Baking Soda",
+        "1 1/2 tsp - Pumpkin Pie Spice",
+        "1/2 tsp - Cinnamon",
+        "1/2 tsp - Sea Salt",
+        "Crumb Topping Ingredients:",
+        "1/4 cup - Coconut Flour",
+        "1/2 cup - Almond Flour",
+        "2 Tbsp - Coconut Sugar",
+        "1/2 tsp - Cinnamon",
+        "2 Tbsp - Pure Maple Syrup",
+        "2 Tbsp - Coconut Oil"
+      ],
+      "instructions": [
+        "Preheat the oven to 325 degrees and line a 9\"x9\" glass dish with parchment paper.",
+        "Make crumb topping first: In a small bowl, combine all crumb topping ingredients and mix until it resembles wet sand. Set aside.",
+        "In a large bowl, combine avocado oil, maple syrup, coconut sugar, and pumpkin. Mix well.",
+        "Add eggs and mix until incorporated.",
+        "Add in the almond flour, coconut flour, baking soda, pumpkin pie spice, cinnamon, and salt. Mix until no dry pockets remain.",
+        "Pour into prepared dish and sprinkle crumb topping on top.",
+        "Bake for 48-50 minutes.",
+        "Store in the fridge or freeze for later use."
+      ]
+    },
+    {
+      "category": "Desserts",
       "title": "Raspberry Sorbet",
       "image": "images/raspberry_sorbet.png",
       "notes": "",
