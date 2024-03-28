@@ -3017,6 +3017,27 @@
       ]
     },
     {
+      "category": "Soup & Sauces",
+      "title": "White Sweet Potato and Chicken Soup",
+      "image": "images/white_sweet_potato_soup.png",
+      "notes": "Modified from Dr. Lu's Nourishing Life",
+      "ingredients": [
+        "8 cups - Chicken Broth",
+        "Chicken, Shredded or Chopped",
+        "5 Red Dates",
+        "20 Dried Cherries",
+        "3-4 inch piece of Ginger Root, peeled and chopped",
+        "Sea Salt",
+        "1 White Sweet Potato, chopped"
+      ],
+      "instructions": [
+        "Place the broth, chicken, dates, cherries, and ginger in a pot. Add a pinch of salt.",
+        "Bring to a boil and then simmer for 60 minutes.",
+        "Add the white sweet potato and simmer for another 30 minutes.",
+        "Remove from heat and enjoy!"
+      ]
+    },
+    {
       "category": "Appetizers",
       "title": "Applesauce",
       "image": "images/applesauce.png",
