@@ -57,20 +57,21 @@ Vue.createApp({
     };
   },
   methods: {
-    selectCategory(cat) {
+    async selectCategory(cat) {
       this.current = "category";
       if (this.firstLoad) {
-        fetch("./recipes.json")
-          .then((res) => res.json())
-          .then((res) => {
-            this.original = res.recipes;
-            this.recipes = this.original.filter(
-              (o) => o.category === cat
-            );
-            this.firstLoad = false;
-          });
-      }
-      else {
+        try {
+          const res = await fetch("./recipes.json");
+          const data = await res.json();
+          this.original = data.recipes;
+          this.recipes = this.original.filter(
+            (o) => o.category === cat
+          );
+          this.firstLoad = false;
+        } catch (error) {
+          console.error("Error fetching recipes:", error);
+        }
+      } else {
         this.recipes = [];
         this.recipes = this.original.filter((o) => o.category === cat);
       }
