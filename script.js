@@ -45,8 +45,7 @@ Vue.createApp({
       ],
       original: [],
       recipes: [],
-      darkmode: true,
-      setup: false,
+      firstLoad: true,
       current: "home",
       rcategory: null,
       rtitle: null,
@@ -55,14 +54,12 @@ Vue.createApp({
       ringredients: null,
       rinstructions: null,
       select: "",
-      /* DARK MODE TOGGLE */
-      darkMode_ENABLED: false
     };
   },
   methods: {
     selectCategory(cat) {
       this.current = "category";
-      if (!this.setup) {
+      if (this.firstLoad) {
         fetch("./recipes.json")
           .then((res) => res.json())
           .then((res) => {
@@ -70,7 +67,7 @@ Vue.createApp({
             this.recipes = this.original.filter(
               (o) => o.category === cat
             );
-            this.setup = true;
+            this.firstLoad = false;
           });
       }
       else {
@@ -86,105 +83,43 @@ Vue.createApp({
       this.active = index;
       this.selectCategory(cat.name);
     },
-    darkMode() {
-      if (this.darkmode) {
-        $("body").removeClass("dark");
-        $("#back button").removeClass("btn-light");
-        $("#back button").addClass("btn-dark");
-        this.darkmode = false;
-      } else {
-        $("body").addClass("dark");
-        $("#back button").removeClass("btn-dark");
-        $("#back button").addClass("btn-light");
-        this.darkmode = true;
-      }
-    },
     home() {
       this.current = "home";
       this.categories[this.active].toggle = null;
       this.active = null;
     },
     averageColor(imageElement) {
-      // Create the canvas element
-      var canvas
-        = document.createElement('canvas'),
+      let canvas = document.createElement('canvas');
 
-        // Get the 2D context of the canvas
-        context
-          = canvas.getContext &&
-          canvas.getContext('2d'),
-        imgData, width, height,
-        length,
+      const context = canvas.getContext && canvas.getContext('2d');
+      const rgb = { r: 0, g: 0, b: 0 };
+      let count = 0;
 
-        // Define variables for storing
-        // the individual red, blue and
-        // green colors
-        rgb = { r: 0, g: 0, b: 0 },
+      let height = canvas.height = imageElement.naturalHeight || imageElement.offsetHeight || imageElement.height;
+      let width = canvas.width = imageElement.naturalWidth || imageElement.offsetWidth || imageElement.width;
 
-        // Define variable for the
-        // total number of colors
-        count = 0;
-
-      // Set the height and width equal
-      // to that of the canvas and the image
-      height = canvas.height =
-        imageElement.naturalHeight ||
-        imageElement.offsetHeight ||
-        imageElement.height;
-      width = canvas.width =
-        imageElement.naturalWidth ||
-        imageElement.offsetWidth ||
-        imageElement.width;
-
-      // Draw the image to the canvas
       context.drawImage(imageElement, 0, 0);
 
-      // Get the data of the image
-      imgData = context.getImageData(
-        0, 0, width, height);
+      let imgData = context.getImageData(0, 0, width, height);
 
-      // Get the length of image data object
-      length = imgData.data.length;
+      let length = imgData.data.length;
 
-      for (var i = 0; i < length; i += 4) {
-
-        // Sum all values of red colour
+      for (let i = 0; i < length; i += 4) {
         rgb.r += imgData.data[i];
-
-        // Sum all values of green colour
         rgb.g += imgData.data[i + 1];
-
-        // Sum all values of blue colour
         rgb.b += imgData.data[i + 2];
-
-        // Increment the total number of
-        // values of rgb colours
         count++;
       }
 
-      // Find the average of red
-      rgb.r
-        = Math.floor(rgb.r / count);
+      rgb.r = Math.floor(rgb.r / count);
+      rgb.g = Math.floor(rgb.g / count);
+      rgb.b = Math.floor(rgb.b / count);
 
-      // Find the average of green
-      rgb.g
-        = Math.floor(rgb.g / count);
+      this.select = `rgb(${rgb.r},${rgb.g},${rgb.b})`;
 
-      // Find the average of blue
-      rgb.b
-        = Math.floor(rgb.b / count);
-
-      this.select =
-        "rgb(" +
-        rgb.r +
-        "," +
-        rgb.g +
-        "," +
-        rgb.b +
-        ")";
-      $("#rec-title").css("color", this.select);
-      $("#ingredients").css("color", this.select);
-      $("#instructions").css("color", this.select);
+      document.getElementById("rec-title").style.color = this.select;
+      document.getElementById("ingredients").style.color = this.select;
+      document.getElementById("instructions").style.color = this.select;
     },
 
     showRecipe(recipe) {
@@ -196,18 +131,11 @@ Vue.createApp({
       this.ringredients = recipe.ingredients;
       this.rinstructions = recipe.instructions;
 
-      // Function to set the
-      // color of the texts as
-      // calculated average color of image
-      const img = new Image(); // Create new img element
-      img.addEventListener(
-        "load",
-        () => {
-          this.selectColor = this.averageColor(img);
-        },
-        false
-      );
-      img.src = this.rimage; // Set source path
+      const img = new Image();
+      img.addEventListener("load", () => {
+        this.selectColor = this.averageColor(img);
+      }, false);
+      img.src = this.rimage;
     },
 
     backToRecipe() {
