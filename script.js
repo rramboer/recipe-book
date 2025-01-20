@@ -91,16 +91,16 @@ Vue.createApp({
     averageColor(imageElement) {
       let canvas = document.createElement('canvas');
 
-      const context = canvas.getContext && canvas.getContext('2d');
+      const ctx = canvas.getContext && canvas.getContext('2d');
       const rgb = { r: 0, g: 0, b: 0 };
       let count = 0;
 
       let height = canvas.height = imageElement.naturalHeight || imageElement.offsetHeight || imageElement.height;
       let width = canvas.width = imageElement.naturalWidth || imageElement.offsetWidth || imageElement.width;
 
-      context.drawImage(imageElement, 0, 0);
+      ctx.drawImage(imageElement, 0, 0);
 
-      let imgData = context.getImageData(0, 0, width, height);
+      let imgData = ctx.getImageData(0, 0, width, height);
 
       let length = imgData.data.length;
 
@@ -111,15 +111,9 @@ Vue.createApp({
         count++;
       }
 
-      rgb.r = Math.floor(rgb.r / count);
-      rgb.g = Math.floor(rgb.g / count);
-      rgb.b = Math.floor(rgb.b / count);
+      const avgColor = `rgb( ${Math.floor(r / count)}, ${Math.floor(g / count)}, ${Math.floor(b / count)})`;
 
-      this.select = `rgb(${rgb.r},${rgb.g},${rgb.b})`;
-
-      document.getElementById("rec-title").style.color = this.select;
-      document.getElementById("ingredients").style.color = this.select;
-      document.getElementById("instructions").style.color = this.select;
+      document.querySelectorAll('#app h1').forEach(el => el.style.color = avgColor);
     },
 
     showRecipe(recipe) {

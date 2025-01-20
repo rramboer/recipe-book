@@ -3,9 +3,6 @@
 :root {
     --border-radius-mobile: 10px;
     --border-radius-desktop: 20px;
-    --background: #1d1f20;
-    --text-color: white;
-    --card-background: lightgray;
 }
 
 * {
@@ -29,25 +26,14 @@ body::-webkit-scrollbar {
     /* for Internet Explorer, Edge */
     scrollbar-width: none;
     /* for Firefox */
-    overflow-y: scroll;
+    overflow-y: none;
 }
 
 .dark {
-    background-color: var(--background);
+    background-color: #1d1f20;
     color: white;
 }
 
-.circle {
-    height: 40px;
-    width: 40px;
-    background-color: var(--card-background);
-    margin-right: 2vw;
-    margin-left: 1vw;
-    z-index: 999;
-    border-radius: 50px;
-    cursor: pointer;
-    flex-direction: row;
-}
 
 /* Navigation Bar */
 .navbar {
@@ -82,14 +68,13 @@ body::-webkit-scrollbar {
     font-size: 1.3rem;
 }
 
-
 .right {
     margin-left: auto;
 }
 
 /* Card View */
 .container-fluid {
-    max-width: calc(95vw) !important;
+    max-width: 95vw !important;
     padding-left: 8vw !important;
 }
 
@@ -215,14 +200,9 @@ body::-webkit-scrollbar {
 
 
 @media (min-width: 1400px) {
-    .navbar-expand-xxl .navbar-collapse {
+    .navbar-collapse {
         display: flex !important;
         flex-basis: auto;
-    }
-
-    .navbar-expand-xxl .navbar-collapse .circle {
-        margin-top: 2vw !important;
-        margin-left: 2vw !important;
     }
 }
 
