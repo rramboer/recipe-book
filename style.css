@@ -139,9 +139,8 @@ body::-webkit-scrollbar {
 }
 
 #rec-title {
-    -webkit-text-stroke-width: 0.1px;
-    -webkit-text-stroke-color: white;
     font-weight: bold;
+    color: white;
 }
 
 #rec-image {
@@ -157,11 +156,10 @@ body::-webkit-scrollbar {
 
 #ingredients,
 #instructions {
-    -webkit-text-stroke-width: 0.3px;
-    -webkit-text-stroke-color: white;
-    margin-left: 1vw;
     font-weight: bold;
+    margin-left: 1vw;
     margin-top: 3vw;
+    color: white;
 }
 
 .recipe ol li {
@@ -180,6 +178,7 @@ body::-webkit-scrollbar {
 #rec-text {
     font-size: 2vh;
     font-weight: normal;
+    color: white;
 }
 
 /* Responsive UI */
@@ -197,7 +196,6 @@ body::-webkit-scrollbar {
         border-radius: var(--border-radius-mobile) var(--border-radius-mobile) 0px 0px;
     }
 }
-
 
 @media (min-width: 1400px) {
     .navbar-collapse {

@@ -89,34 +89,6 @@ Vue.createApp({
       this.categories[this.active].toggle = null;
       this.active = null;
     },
-    averageColor(imageElement) {
-      let canvas = document.createElement('canvas');
-
-      const ctx = canvas.getContext && canvas.getContext('2d');
-      const rgb = { r: 0, g: 0, b: 0 };
-      let count = 0;
-
-      let height = canvas.height = imageElement.naturalHeight || imageElement.offsetHeight || imageElement.height;
-      let width = canvas.width = imageElement.naturalWidth || imageElement.offsetWidth || imageElement.width;
-
-      ctx.drawImage(imageElement, 0, 0);
-
-      let imgData = ctx.getImageData(0, 0, width, height);
-
-      let length = imgData.data.length;
-
-      for (let i = 0; i < length; i += 4) {
-        rgb.r += imgData.data[i];
-        rgb.g += imgData.data[i + 1];
-        rgb.b += imgData.data[i + 2];
-        count++;
-      }
-
-      const avgColor = `rgb( ${Math.floor(r / count)}, ${Math.floor(g / count)}, ${Math.floor(b / count)})`;
-
-      document.querySelectorAll('#app h1').forEach(el => el.style.color = avgColor);
-    },
-
     showRecipe(recipe) {
       this.current = "recipe";
       this.rcategory = recipe.category;
@@ -125,14 +97,7 @@ Vue.createApp({
       this.rnotes = recipe.notes;
       this.ringredients = recipe.ingredients;
       this.rinstructions = recipe.instructions;
-
-      const img = new Image();
-      img.addEventListener("load", () => {
-        this.selectColor = this.averageColor(img);
-      }, false);
-      img.src = this.rimage;
     },
-
     backToRecipe() {
       this.current = "category";
     }
