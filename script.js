@@ -45,7 +45,7 @@ Vue.createApp({
       ],
       original: [],
       recipes: [],
-      firstLoad: true,
+      activeCategory: null,
       current: "home",
       rcategory: null,
       rtitle: null,
@@ -56,38 +56,37 @@ Vue.createApp({
       select: "",
     };
   },
+  async created() {
+    void this.loadRecipes();
+  },
   methods: {
-    async selectCategory(cat) {
-      this.current = "category";
-      if (this.firstLoad) {
-        try {
-          const res = await fetch("./recipes.json");
-          const data = await res.json();
-          this.original = data.recipes;
-          this.recipes = this.original.filter(
-            (o) => o.category === cat
-          );
-          this.firstLoad = false;
-        } catch (error) {
-          console.error("Error fetching recipes:", error);
-        }
-      } else {
-        this.recipes = [];
-        this.recipes = this.original.filter((o) => o.category === cat);
+    async loadRecipes() {
+      try {
+        const res = await fetch("./recipes.json");
+        const data = await res.json();
+        this.original = data.recipes;
+      } catch (error) {
+        console.error("Error fetching recipes:", error);
       }
     },
+    selectCategory(cat) {
+      this.current = "category";
+      this.recipes = this.original.filter((o) => o.category === cat);
+    },
     toggle(cat, index) {
-      if (this.active != null) {
-        this.categories[this.active].toggle = null;
+      if (this.activeCategory != null) {
+        this.categories[this.activeCategory].toggle = null;
       }
       cat.toggle = index;
-      this.active = index;
+      this.activeCategory = index;
       this.selectCategory(cat.name);
     },
     home() {
       this.current = "home";
-      this.categories[this.active].toggle = null;
-      this.active = null;
+      if (this.activeCategory != null) {
+        this.categories[this.activeCategory].toggle = null;
+        this.activeCategory = null;
+      }
     },
     showRecipe(recipe) {
       this.current = "recipe";
@@ -97,9 +96,6 @@ Vue.createApp({
       this.rnotes = recipe.notes;
       this.ringredients = recipe.ingredients;
       this.rinstructions = recipe.instructions;
-    },
-    backToRecipe() {
-      this.current = "category";
     }
   }
 }).mount("#app");
