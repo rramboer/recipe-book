@@ -1685,6 +1685,32 @@
     },
     {
       "category": "Entrées",
+      "title": "Blackened Chicken Thighs",
+      "image": "images/blackened_chicken_thighs.jpg",
+      "notes": "This recipe serves 5 people. Pairs well with a side of orzo drizzled with olive oil and fresh herbs.",
+      "ingredients": [
+        "10 bone-in, skin-on chicken thighs (about 4 lbs)",
+        "6 Tbsp - Olive Oil",
+        "1/4 cup - Balsamic Vinegar",
+        "1 1/2 Tbsp - Salt",
+        "2 tsp - Black Pepper",
+        "1 Tbsp - Paprika",
+        "2 tsp - Turmeric",
+        "2 tsp - Dried Oregano",
+        "2 tsp - Dried Basil"
+      ],
+      "instructions": [
+        "In a large bowl, whisk together olive oil, vinegar, salt, pepper, paprika, turmeric, oregano, and basil.",
+        "Add the chicken thighs to the bowl and toss well to coat evenly. Let marinate at room temperature for 1 hour, turning occasionally.",
+        "Preheat grill to medium heat.",
+        "Place the chicken skin-side down on the grill. Cook for about 5-7 minutes with the lid open, watching carefully for flare-ups. Move chicken if flames get too high.",
+        "Flip the chicken skin-side up and continue grilling with the lid closed for another 15-20 minutes, or until internal temperature reaches 175°F and juices run clear.",
+        "Move chicken occasionally to prevent burning and ensure even cooking.",
+        "Let rest for 5-10 minutes before serving."
+      ]
+    },
+    {
+      "category": "Entrées",
       "title": "Butternut Squash Lasagna",
       "image": "images/butternut_squash_lasagna.png",
       "notes": "",
