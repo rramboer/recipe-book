@@ -44,6 +44,26 @@ body {
     margin-right: 1vw;
 }
 
+.search-form {
+    padding: 8px 16px;
+    min-width: 200px;
+}
+
+.search-form input {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
+    color: white;
+}
+
+.search-form input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.search-form input:focus {
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+}
+
 .nav-item {
     font-size: 1.3rem;
 }

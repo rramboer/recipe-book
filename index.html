@@ -42,9 +42,10 @@
 <body>
     <div id="app">
         <nav class="navbar navbar-expand-xxl navbar-dark bg-primary bg-gradient">
-            <a class="navbar-brand px-2" href="#" @click="home()">Healthy For
+            <a class="navbar-brand px-2" href="#/" @click="home()">Healthy For
                 Life</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -56,6 +57,11 @@
                             data-bs-target=".navbar-collapse.show">{{category.name}}</a>
                     </li>
                 </ul>
+                <form class="d-flex search-form" role="search" @submit.prevent="search()">
+                    <input class="form-control me-2" type="search" placeholder="Search recipes..."
+                        aria-label="Search recipes" v-model="searchQuery">
+                    <button class="btn btn-outline-light" type="submit">Search</button>
+                </form>
             </div>
         </nav>
 
@@ -63,8 +69,9 @@
             class="home container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
             <div v-for="(category,c) in categories">
                 <div class="card h-100 bg-primary bg-gradient border-secondary">
-                    <a @click="toggle(category,c)" class="stretched-link"></a>
-                    <img :src="category.image" class="card-img-top">
+                    <a @click="toggle(category,c)" class="stretched-link" role="button"
+                        :aria-label="'Browse ' + category.name + ' recipes'"></a>
+                    <img :src="category.image" class="card-img-top" :alt="category.name">
                     <div class="card-body">
                         <p class="card-title">{{category.name}}</p>
                     </div>
@@ -77,8 +84,27 @@
             <div class="w-100 cat-title text-bg-dark">{{categories[activeCategory].name}}</div>
             <div v-for="recipe in recipes">
                 <div class="card h-100 bg-dark border-primary">
-                    <a @click="showRecipe(recipe)" class="stretched-link"></a>
-                    <img :src="recipe.image" class="card-img-top">
+                    <a @click="showRecipe(recipe)" class="stretched-link" role="button"
+                        :aria-label="'View recipe: ' + recipe.title"></a>
+                    <img :src="recipe.image" class="card-img-top" :alt="recipe.title">
+                    <div class="card-body">
+                        <p class="card-title">{{recipe.title}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div v-if="current === 'search'"
+            class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
+            <div class="w-100 cat-title text-bg-dark">Results for "{{searchQuery}}"</div>
+            <div v-if="recipes.length === 0" class="w-100 text-center" style="margin-top:20px;">
+                <p>No recipes found.</p>
+            </div>
+            <div v-for="recipe in recipes">
+                <div class="card h-100 bg-dark border-primary">
+                    <a @click="showRecipe(recipe)" class="stretched-link" role="button"
+                        :aria-label="'View recipe: ' + recipe.title"></a>
+                    <img :src="recipe.image" class="card-img-top" :alt="recipe.title">
                     <div class="card-body">
                         <p class="card-title">{{recipe.title}}</p>
                     </div>
@@ -90,7 +116,7 @@
             <div class="leftSide">
                 <h1 id="rec-title">{{rtitle}}</h1>
                 <h5 v-if="rnotes" id="rec-notes">{{rnotes}}</h5>
-                <img id="rec-image" :src="rimage">
+                <img id="rec-image" :src="rimage" :alt="rtitle">
             </div>
 
             <div class="rightSide">
