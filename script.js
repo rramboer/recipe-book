@@ -353,10 +353,13 @@ Vue.createApp({
         this.categories[this.activeCategory].toggle = null;
         this.activeCategory = null;
       }
+      const seen = new Set();
       this.recipes = this.original.filter((r) => {
-        if (r.title.toLowerCase().includes(q)) return true;
-        if (r.ingredients && r.ingredients.some((ing) => ing.toLowerCase().includes(q))) return true;
-        return false;
+        if (seen.has(r.title)) return false;
+        const matches = r.title.toLowerCase().includes(q) ||
+          (r.ingredients && r.ingredients.some((ing) => ing.toLowerCase().includes(q)));
+        if (matches) seen.add(r.title);
+        return matches;
       });
       this.current = "search";
     },
