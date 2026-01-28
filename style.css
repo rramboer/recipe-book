@@ -44,32 +44,56 @@ body {
     margin-right: 1vw;
 }
 
-.search-form {
-    padding: 8px 16px;
-    min-width: 200px;
+.search-toggle {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 6px 10px;
 }
 
-.search-form input {
+.search-toggle:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.search-inline {
+    align-items: center;
+    padding: 4px 0;
+}
+
+.search-inline input {
     background-color: rgba(255, 255, 255, 0.1);
     border-color: rgba(255, 255, 255, 0.3);
     color: white;
+    min-width: 135px;
 }
 
-.search-form input::placeholder {
+.search-inline input::placeholder {
     color: rgba(255, 255, 255, 0.6);
 }
 
-.search-form input:focus {
+.search-inline input:focus {
     background-color: rgba(255, 255, 255, 0.15);
     color: white;
 }
 
-.nav-item {
-    font-size: 1.3rem;
+.search-inline input::-webkit-search-cancel-button {
+    -webkit-appearance: none;
 }
 
-.right {
-    margin-left: auto;
+.search-close {
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 4px 6px;
+}
+
+.search-close:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.nav-item {
+    font-size: 1.3rem;
 }
 
 /* Card View */

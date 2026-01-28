@@ -4,42 +4,42 @@ Vue.createApp({
       categories: [
         {
           name: "Entrées",
-          image: "category_images/green_chicken.jpg",
+          image: "images/category_images/green_chicken.jpg",
           toggle: null,
         },
         {
           name: "Appetizers",
-          image: "category_images/garlic_rosemary.jpg",
+          image: "images/category_images/garlic_rosemary.jpg",
           toggle: null,
         },
         {
           name: "Breakfast",
-          image: "category_images/blueberry_muffin.png",
+          image: "images/category_images/blueberry_muffin.png",
           toggle: null,
         },
         {
           name: "Desserts",
-          image: "category_images/oreo_cookies.jpg",
+          image: "images/category_images/oreo_cookies.jpg",
           toggle: null,
         },
         {
           name: "Soup & Sauces",
-          image: "category_images/broccoli_fennel_soup.jpg",
+          image: "images/category_images/broccoli_fennel_soup.jpg",
           toggle: null,
         },
         {
           name: "Crockpot",
-          image: "category_images/steak_chili.png",
+          image: "images/category_images/steak_chili.png",
           toggle: null,
         },
         {
           name: "Drinks",
-          image: "category_images/mango_mint.jpg",
+          image: "images/category_images/mango_mint.jpg",
           toggle: null,
         },
         {
           name: "Miscellaneous",
-          image: "category_images/paleo_bread.jpg",
+          image: "images/category_images/paleo_bread.jpg",
           toggle: null,
         },
       ],
@@ -47,20 +47,22 @@ Vue.createApp({
       recipes: [],
       activeCategory: null,
       current: "home",
-      rcategory: null,
       rtitle: null,
       rimage: null,
       rnotes: null,
       ringredients: null,
       rinstructions: null,
-      select: "",
       searchQuery: "",
+      showSearch: false,
     };
   },
   async created() {
     await this.loadRecipes();
     this.navigateToHash();
     window.addEventListener("hashchange", () => this.navigateToHash());
+  },
+  mounted() {
+    lucide.createIcons();
   },
   methods: {
     async loadRecipes() {
@@ -87,16 +89,6 @@ Vue.createApp({
         return;
       }
       const parts = hash.split("/").filter(Boolean);
-      if (parts[0] === "category" && parts[1]) {
-        const slug = parts[1];
-        const index = this.categories.findIndex(
-          (c) => this.slugify(c.name) === slug
-        );
-        if (index !== -1) {
-          this.toggleNoHash(this.categories[index], index);
-          return;
-        }
-      }
       if (parts[0] === "recipe" && parts[1]) {
         const slug = parts[1];
         const recipe = this.original.find(
@@ -110,7 +102,16 @@ Vue.createApp({
       if (parts[0] === "search" && parts[1]) {
         const query = decodeURIComponent(parts[1]);
         this.searchQuery = query;
+        this.showSearch = true;
         this.searchNoHash();
+        return;
+      }
+      const slug = parts[0];
+      const index = this.categories.findIndex(
+        (c) => this.slugify(c.name) === slug
+      );
+      if (index !== -1) {
+        this.toggleNoHash(this.categories[index], index);
         return;
       }
       this.homeNoHash();
@@ -129,7 +130,7 @@ Vue.createApp({
     },
     toggle(cat, index) {
       this.toggleNoHash(cat, index);
-      window.location.hash = "#/category/" + this.slugify(cat.name);
+      window.location.hash = "#/" + this.slugify(cat.name);
     },
     homeNoHash() {
       this.current = "home";
@@ -144,7 +145,6 @@ Vue.createApp({
     },
     showRecipeNoHash(recipe) {
       this.current = "recipe";
-      this.rcategory = recipe.category;
       this.rtitle = recipe.title;
       this.rimage = recipe.image;
       this.rnotes = recipe.notes;
@@ -176,6 +176,21 @@ Vue.createApp({
       this.searchNoHash();
       if (this.searchQuery.trim()) {
         window.location.hash = "#/search/" + encodeURIComponent(this.searchQuery.trim());
+      } else {
+        window.location.hash = "#/";
+      }
+    },
+    toggleSearch() {
+      this.showSearch = !this.showSearch;
+      this.$nextTick(() => {
+        lucide.createIcons();
+        if (this.showSearch) {
+          this.$refs.searchInput.focus();
+        }
+      });
+      if (!this.showSearch) {
+        this.searchQuery = "";
+        this.search();
       }
     }
   }
