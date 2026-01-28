@@ -1159,6 +1159,10 @@ main {
     user-select: none;
 }
 
+.instruction-list.interactive li {
+    counter-increment: list-item;
+}
+
 .ingredient-list.interactive li:hover,
 .instruction-list.interactive li:hover {
     background-color: var(--accent-light);
@@ -1214,7 +1218,6 @@ main {
 
 .instruction-list.interactive li::before {
     content: counter(list-item);
-    counter-increment: list-item;
     display: flex;
     align-items: center;
     justify-content: center;
