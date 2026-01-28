@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 
 <head>
     <meta charset="utf-8">
@@ -18,14 +18,15 @@
     <meta name="twitter:description" content="Healthy For Life Recipe Book, by Lifepointe Chiropractic">
     <meta name="twitter:image" content="images/lifepointe.png">
     <meta name="twitter:image:alt" content="Healthy For Life Recipe Book">
+    <meta name="color-scheme" content="light dark">
 
     <link rel="icon" href="images/favicon.ico">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <script src="https://unpkg.com/lucide@latest"></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
     <script src="https://unpkg.com/vue@3.5.13/dist/vue.global.prod.js"></script>
 
     <title>Healthy For Life Recipe Book</title>
@@ -42,102 +43,296 @@
 
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-xxl navbar-dark bg-primary bg-gradient">
-            <a class="navbar-brand px-2" href="#/" @click="home()">Healthy For
-                Life</a>
-            <button v-if="!showSearch" class="btn search-toggle ms-auto ms-xxl-0 order-xxl-last" type="button"
-                @click="toggleSearch()" aria-label="Search">
-                <i data-lucide="search"></i>
-            </button>
-            <div v-else class="search-inline d-flex ms-auto ms-xxl-0 order-xxl-last">
-                <input ref="searchInput" class="form-control form-control-sm" type="search"
-                    placeholder="Search recipes..." aria-label="Search recipes"
-                    v-model="searchQuery" @input="search()" @keydown.escape="toggleSearch()">
-                <button class="btn search-close" type="button" @click="toggleSearch()" aria-label="Close search">
+        <header class="site-header">
+            <div class="header-top">
+                <a class="logo" href="#/" @click.prevent="home()">Healthy For Life</a>
+                <div class="header-actions">
+                    <div class="search-mobile" v-if="!showSearch">
+                        <button class="icon-btn" @click="toggleSearch()" aria-label="Search">
+                            <i data-lucide="search"></i>
+                        </button>
+                    </div>
+                    <div class="search-mobile-bar" v-if="showSearch">
+                        <i data-lucide="search" class="search-icon"></i>
+                        <input ref="searchInput" type="search" placeholder="Search recipes..."
+                            aria-label="Search recipes" v-model="searchQuery" @input="search()"
+                            @keydown.escape="toggleSearch()">
+                        <button class="icon-btn" @click="toggleSearch()" aria-label="Close search">
+                            <i data-lucide="x"></i>
+                        </button>
+                    </div>
+                    <div class="search-desktop">
+                        <i data-lucide="search" class="search-icon"></i>
+                        <input type="search" placeholder="Search recipes..." aria-label="Search recipes"
+                            v-model="searchQuery" @input="search()">
+                    </div>
+                    <button class="icon-btn settings-btn" @click="showSettings = !showSettings" aria-label="Settings">
+                        <i data-lucide="settings"></i>
+                    </button>
+                </div>
+            </div>
+            <nav class="category-nav">
+                <button v-for="(cat, i) in categories" :key="cat.name" :class="{ active: activeCategory === i }"
+                    @click="toggle(cat, i)">{{ cat.name }}</button>
+            </nav>
+        </header>
+
+        <!-- Settings Panel -->
+        <div class="settings-backdrop" :class="{ visible: showSettings }" @click="showSettings = false"></div>
+        <aside class="settings-panel" :class="{ open: showSettings }">
+            <div class="settings-header">
+                <h2>Settings</h2>
+                <button class="icon-btn" @click="showSettings = false" aria-label="Close settings">
                     <i data-lucide="x"></i>
                 </button>
             </div>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
-                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarToggler">
-                <ul v-for="(category,i) in categories" class="navbar-nav m-auto px-auto">
-                    <li class="nav-item px-3">
-                        <a @click="toggle(category,i)" class="nav-link" :class="{activeCategory:category.toggle === i}"
-                            href="#" data-bs-toggle="collapse"
-                            data-bs-target=".navbar-collapse.show">{{category.name}}</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
-
-        <div v-if="current === 'home'"
-            class="home container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
-            <div v-for="(category,c) in categories">
-                <div class="card h-100 bg-primary bg-gradient border-secondary">
-                    <a @click="toggle(category,c)" class="stretched-link" role="button"
-                        :aria-label="'Browse ' + category.name + ' recipes'"></a>
-                    <img :src="category.image" class="card-img-top" :alt="category.name">
-                    <div class="card-body">
-                        <p class="card-title">{{category.name}}</p>
+            <div class="settings-body">
+                <div class="setting-group">
+                    <label class="setting-label">Theme</label>
+                    <div class="theme-options">
+                        <button :class="{ active: theme === 'light' }" @click="setTheme('light')">
+                            <i data-lucide="sun"></i> Light
+                        </button>
+                        <button :class="{ active: theme === 'system' }" @click="setTheme('system')">
+                            <i data-lucide="monitor"></i> System
+                        </button>
+                        <button :class="{ active: theme === 'dark' }" @click="setTheme('dark')">
+                            <i data-lucide="moon"></i> Dark
+                        </button>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label class="setting-label">Accent Color</label>
+                    <div class="color-options">
+                        <button class="color-swatch blue" :class="{ active: accentColor === 'blue' }"
+                            @click="setAccentColor('blue')" aria-label="Blue accent"></button>
+                        <button class="color-swatch green" :class="{ active: accentColor === 'green' }"
+                            @click="setAccentColor('green')" aria-label="Green accent"></button>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label class="setting-label">Recipe Text Size</label>
+                    <div class="text-size-control">
+                        <span class="text-size-label small">A</span>
+                        <input type="range" min="14" max="26" step="1" :value="textSize"
+                            @input="setTextSize($event.target.value)" aria-label="Recipe text size">
+                        <span class="text-size-label large">A</span>
+                    </div>
+                </div>
+                <div class="setting-group">
+                    <label class="setting-label">Recipe Display</label>
+                    <div class="view-options">
+                        <button :class="{ active: viewMode === 'card' }" @click="setViewMode('card')">
+                            <i data-lucide="layout-grid"></i> Card
+                        </button>
+                        <button :class="{ active: viewMode === 'list' }" @click="setViewMode('list')">
+                            <i data-lucide="list"></i> List
+                        </button>
+                    </div>
+                    <div v-if="viewMode === 'card'" class="toggle-row" style="margin-top: 14px;">
+                        <span>Compact cards</span>
+                        <button class="toggle-switch" :class="{ on: compactCards }" @click="toggleCompact()"
+                            role="switch" :aria-checked="compactCards">
+                            <span class="toggle-knob"></span>
+                        </button>
+                    </div>
+                    <div class="toggle-row" style="margin-top: 14px;">
+                        <span>Interactive mode</span>
+                        <button class="toggle-switch" :class="{ on: interactiveMode }" @click="toggleInteractiveMode()"
+                            role="switch" :aria-checked="interactiveMode">
+                            <span class="toggle-knob"></span>
+                        </button>
+                    </div>
+                    <div class="toggle-row" style="margin-top: 14px;">
+                        <span>Hide print button</span>
+                        <button class="toggle-switch" :class="{ on: hidePrintButton }" @click="toggleHidePrintButton()"
+                            role="switch" :aria-checked="hidePrintButton">
+                            <span class="toggle-knob"></span>
+                        </button>
+                    </div>
+                    <div class="toggle-row" style="margin-top: 14px;">
+                        <span>Hide share button</span>
+                        <button class="toggle-switch" :class="{ on: hideShareButton }" @click="toggleHideShareButton()"
+                            role="switch" :aria-checked="hideShareButton">
+                            <span class="toggle-knob"></span>
+                        </button>
                     </div>
                 </div>
             </div>
-        </div>
+        </aside>
 
-        <div v-if="current === 'category'"
-            class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
-            <div class="w-100 cat-title text-bg-dark">{{categories[activeCategory].name}}</div>
-            <div v-for="recipe in recipes">
-                <div class="card h-100 bg-dark border-primary">
-                    <a @click="showRecipe(recipe)" class="stretched-link" role="button"
-                        :aria-label="'View recipe: ' + recipe.title"></a>
-                    <img :src="recipe.image" class="card-img-top" :alt="recipe.title">
-                    <div class="card-body">
-                        <p class="card-title">{{recipe.title}}</p>
+        <!-- Main Content -->
+        <main>
+            <!-- Home: Category Grid -->
+            <section v-if="current === 'home'" class="content-grid home-grid">
+                <div v-for="(cat, i) in categories" :key="cat.name" class="card category-card" @click="toggle(cat, i)"
+                    role="button" :aria-label="'Browse ' + cat.name + ' recipes'" tabindex="0"
+                    @keydown.enter="toggle(cat, i)">
+                    <img :src="cat.image" :alt="cat.name" loading="lazy">
+                    <div class="card-overlay">
+                        <span>{{ cat.name }}</span>
                     </div>
                 </div>
-            </div>
-        </div>
+            </section>
 
-        <div v-if="current === 'search'"
-            class="cat container-fluid row row-cols-2 row-cols-xs-2 row-cols-md-3 row-cols-xl-4 g-4 g-lg-5">
-            <div class="w-100 cat-title text-bg-dark">Results for "{{searchQuery}}"</div>
-            <div v-if="recipes.length === 0" class="w-100 text-center" style="margin-top:20px;">
-                <p>No recipes found.</p>
-            </div>
-            <div v-for="recipe in recipes">
-                <div class="card h-100 bg-dark border-primary">
-                    <a @click="showRecipe(recipe)" class="stretched-link" role="button"
-                        :aria-label="'View recipe: ' + recipe.title"></a>
-                    <img :src="recipe.image" class="card-img-top" :alt="recipe.title">
-                    <div class="card-body">
-                        <p class="card-title">{{recipe.title}}</p>
+            <!-- Category: Recipe Grid -->
+            <section v-if="current === 'category'">
+                <div class="section-header sticky-title" :class="{ scrolled: scrolled }">
+                    <button class="back-btn" @click="home()" aria-label="Back to categories">
+                        <i data-lucide="arrow-left"></i>
+                        <span class="section-title">{{ categories[activeCategory].name }}</span>
+                    </button>
+                </div>
+                <!-- Card View -->
+                <div v-if="viewMode === 'card'" class="content-grid recipe-grid" :class="{ compact: compactCards }">
+                    <div v-for="recipe in recipes" :key="recipe.title" class="card recipe-card"
+                        @click="showRecipe(recipe)" role="button" :aria-label="'View recipe: ' + recipe.title"
+                        tabindex="0" @keydown.enter="showRecipe(recipe)">
+                        <img :src="recipe.image" :alt="recipe.title" loading="lazy">
+                        <div class="card-overlay">
+                            <span>{{ recipe.title }}</span>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
+                <!-- List View -->
+                <div v-else class="list-view">
+                    <div v-for="recipe in recipes" :key="recipe.title" class="list-item"
+                        @click="showRecipe(recipe)" role="button" :aria-label="'View recipe: ' + recipe.title"
+                        tabindex="0" @keydown.enter="showRecipe(recipe)">
+                        <img :src="recipe.image" :alt="recipe.title" loading="lazy">
+                        <div class="list-item-info">
+                            <div class="list-item-top">
+                                <h3 class="list-item-title">{{ recipe.title }}</h3>
+                                <div class="list-item-counts">
+                                    <span class="count-badge">
+                                        <i data-lucide="carrot"></i> {{ uniqueIngredientNames(recipe).length }} {{ uniqueIngredientNames(recipe).length === 1 ? 'ingredient' : 'ingredients' }}
+                                    </span>
+                                    <span class="count-badge">
+                                        <i data-lucide="chef-hat"></i> {{ recipe.instructions ? recipe.instructions.length : 0 }} {{ (recipe.instructions ? recipe.instructions.length : 0) === 1 ? 'step' : 'steps' }}
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="list-item-meta" v-if="recipe.notes">
+                                <span class="meta-badge note-badge">
+                                    <i data-lucide="notebook-pen"></i> Notes
+                                </span>
+                            </div>
+                            <div class="list-item-tags">
+                                <span v-for="name in getIngredientNames(recipe, 5)" class="ingredient-tag">{{ name }}</span>
+                                <span v-if="uniqueIngredientNames(recipe).length > 5"
+                                    class="ingredient-tag more-tag">+{{ uniqueIngredientNames(recipe).length - 5 }} more</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-        <div v-if="current === 'recipe'" class="recipe">
-            <div class="leftSide">
-                <h1 id="rec-title">{{rtitle}}</h1>
-                <h5 v-if="rnotes" id="rec-notes">{{rnotes}}</h5>
-                <img id="rec-image" :src="rimage" :alt="rtitle">
-            </div>
+            <!-- Search Results -->
+            <section v-if="current === 'search'">
+                <div class="section-header sticky-title" :class="{ scrolled: scrolled }">
+                    <button class="back-btn" @click="home()" aria-label="Back to categories">
+                        <i data-lucide="arrow-left"></i>
+                        <span class="section-title">Results for "{{ searchQuery }}"</span>
+                    </button>
+                </div>
+                <div v-if="recipes.length === 0" class="empty-state">
+                    <i data-lucide="search-x"></i>
+                    <p>No recipes found.</p>
+                </div>
+                <!-- Card View -->
+                <div v-else-if="viewMode === 'card'" class="content-grid recipe-grid" :class="{ compact: compactCards }">
+                    <div v-for="recipe in recipes" :key="recipe.title" class="card recipe-card"
+                        @click="showRecipe(recipe)" role="button" :aria-label="'View recipe: ' + recipe.title"
+                        tabindex="0" @keydown.enter="showRecipe(recipe)">
+                        <img :src="recipe.image" :alt="recipe.title" loading="lazy">
+                        <div class="card-overlay">
+                            <span>{{ recipe.title }}</span>
+                        </div>
+                    </div>
+                </div>
+                <!-- List View -->
+                <div v-else class="list-view">
+                    <div v-for="recipe in recipes" :key="recipe.title" class="list-item"
+                        @click="showRecipe(recipe)" role="button" :aria-label="'View recipe: ' + recipe.title"
+                        tabindex="0" @keydown.enter="showRecipe(recipe)">
+                        <img :src="recipe.image" :alt="recipe.title" loading="lazy">
+                        <div class="list-item-info">
+                            <div class="list-item-top">
+                                <h3 class="list-item-title">{{ recipe.title }}</h3>
+                                <div class="list-item-counts">
+                                    <span class="count-badge">
+                                        <i data-lucide="carrot"></i> {{ uniqueIngredientNames(recipe).length }} {{ uniqueIngredientNames(recipe).length === 1 ? 'ingredient' : 'ingredients' }}
+                                    </span>
+                                    <span class="count-badge">
+                                        <i data-lucide="chef-hat"></i> {{ recipe.instructions ? recipe.instructions.length : 0 }} {{ (recipe.instructions ? recipe.instructions.length : 0) === 1 ? 'step' : 'steps' }}
+                                    </span>
+                                </div>
+                            </div>
+                            <div class="list-item-meta">
+                                <span class="meta-badge category-badge" v-if="recipe.category">
+                                    <i data-lucide="tag"></i> {{ recipe.category }}
+                                </span>
+                                <span class="meta-badge note-badge" v-if="recipe.notes">
+                                    <i data-lucide="notebook-pen"></i> Notes
+                                </span>
+                            </div>
+                            <div class="list-item-tags">
+                                <span v-for="name in getIngredientNames(recipe, 5)" class="ingredient-tag">{{ name }}</span>
+                                <span v-if="uniqueIngredientNames(recipe).length > 5"
+                                    class="ingredient-tag more-tag">+{{ uniqueIngredientNames(recipe).length - 5 }} more</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-            <div class="rightSide">
-                <h2 id="ingredients">Ingredients</h2>
-                <ul>
-                    <li v-for="ingredient in ringredients">{{ingredient}}</li>
-                </ul>
-                <h2 id="instructions">Instructions</h2>
-                <ol>
-                    <li v-for="instruction in rinstructions">{{instruction}}</li>
-                </ol>
-            </div>
-        </div>
+            <!-- Recipe Detail -->
+            <section v-if="current === 'recipe'" class="recipe-detail">
+                <div class="section-header recipe-header">
+                    <button class="back-btn" @click="goBack()" aria-label="Go back">
+                        <i data-lucide="arrow-left"></i>
+                        <span class="section-title recipe-title-header">{{ rtitle }}</span>
+                    </button>
+                    <div class="recipe-actions">
+                        <button v-if="!hidePrintButton" class="icon-btn print-btn" @click="printRecipe()" aria-label="Print recipe">
+                            <i data-lucide="printer"></i>
+                        </button>
+                        <button v-if="!hideShareButton" class="icon-btn share-btn" @click="shareRecipe()" aria-label="Share recipe">
+                            <i data-lucide="share"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="recipe-layout">
+                    <div class="recipe-hero">
+                        <img :src="rimage" :alt="rtitle" class="recipe-image">
+                        <p v-if="rnotes" class="recipe-notes">{{ rnotes }}</p>
+                    </div>
+                    <div class="recipe-content">
+                        <div class="recipe-section">
+                            <h2><i data-lucide="list"></i> Ingredients</h2>
+                            <ul class="ingredient-list" :class="{ interactive: interactiveMode }">
+                                <li v-for="(ingredient, idx) in ringredients" :key="idx"
+                                    :class="{ checked: interactiveMode && checkedIngredients.includes(idx) }"
+                                    @click="interactiveMode && toggleIngredient(idx)">
+                                    <span v-if="interactiveMode" class="checkbox"></span>
+                                    <span class="ingredient-text">{{ ingredient }}</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="recipe-section">
+                            <h2><i data-lucide="chef-hat"></i> Instructions</h2>
+                            <ol class="instruction-list" :class="{ interactive: interactiveMode }">
+                                <li v-for="(instruction, idx) in rinstructions" :key="idx"
+                                    :class="{ checked: interactiveMode && checkedSteps.includes(idx) }"
+                                    @click="interactiveMode && toggleStep(idx)">
+                                    {{ instruction }}
+                                </li>
+                            </ol>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
     </div>
 
     <script src="script.js"></script>
