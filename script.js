@@ -246,6 +246,8 @@ Vue.createApp({
         const slug = parts[1];
         const recipe = this.original.find((r) => this.slugify(r.title) === slug);
         if (recipe) {
+          // Clear prevRoute for URL-based navigation since we don't know the origin
+          this.prevRoute = null;
           this.showRecipeNoHash(recipe);
           return;
         }
