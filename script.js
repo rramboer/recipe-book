@@ -336,7 +336,7 @@ Vue.createApp({
             }
           }
         }
-        // Fallback for direct links: go to recipe's category or home
+        // Fallback for direct links: go to recipe's category
         const recipe = this.original.find(r => r.title === this.rtitle);
         if (recipe && recipe.category) {
           const catIndex = this.categories.findIndex(c => c.name === recipe.category);
@@ -345,10 +345,9 @@ Vue.createApp({
             return;
           }
         }
-        this.home();
-      } else {
-        this.home();
       }
+      // Default: go home
+      this.home();
     },
     printRecipe() {
       window.print();
