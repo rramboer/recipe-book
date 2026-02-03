@@ -1342,7 +1342,8 @@ main {
     .settings-backdrop,
     .settings-panel,
     .back-btn,
-    .print-btn {
+    .print-btn,
+    .share-btn {
         display: none !important;
     }
 
@@ -1376,8 +1377,18 @@ main {
         align-items: flex-start;
     }
 
-    /* Recipe title */
+    /* Recipe title - show the back-btn in recipe header so title is visible */
+    .recipe-header .back-btn {
+        display: flex !important;
+        padding: 0 !important;
+    }
+
+    .recipe-header .back-btn svg {
+        display: none !important;
+    }
+
     .recipe-title-header {
+        font-family: var(--font-body) !important;
         font-size: 19pt !important;
         font-weight: 700 !important;
         color: black !important;
