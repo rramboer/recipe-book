@@ -34,6 +34,7 @@ Vue.createApp({
       hideShareButton: false,
       checkedIngredients: [],
       checkedSteps: [],
+      prevRoute: null, // Tracks where user came from for smart back navigation
     };
   },
   async created() {
@@ -305,12 +306,51 @@ Vue.createApp({
       this.clearChecked();
     },
     showRecipe(recipe) {
+      // Save where we came from for smart back navigation
+      if (this.current === 'search') {
+        this.prevRoute = { type: 'search', query: this.searchQuery };
+      } else if (this.current === 'category' && this.activeCategory !== null) {
+        this.prevRoute = { type: 'category', index: this.activeCategory };
+      } else {
+        this.prevRoute = null;
+      }
       this.showRecipeNoHash(recipe);
       window.location.hash = "#/recipe/" + this.slugify(recipe.title);
       window.scrollTo(0, 0);
     },
     goBack() {
-      window.history.back();
+      if (this.current === 'recipe') {
+        // If we know where we came from, go back there
+        if (this.prevRoute) {
+          if (this.prevRoute.type === 'search') {
+            this.searchQuery = this.prevRoute.query;
+            this.showSearch = true;
+            this.search();
+            return;
+          }
+          if (this.prevRoute.type === 'category') {
+            const idx = this.prevRoute.index;
+            if (idx >= 0 && idx < this.categories.length) {
+              this.toggle(this.categories[idx], idx);
+              return;
+            }
+          }
+        }
+        // Fallback for direct links: go to recipe's category or home
+        const recipe = this.original.find(r => r.title === this.rtitle);
+        if (recipe && recipe.category) {
+          const catIndex = this.categories.findIndex(c => c.name === recipe.category);
+          if (catIndex !== -1) {
+            this.toggle(this.categories[catIndex], catIndex);
+            return;
+          }
+        }
+        this.home();
+      } else if (this.current === 'category' || this.current === 'search') {
+        this.home();
+      } else {
+        this.home();
+      }
     },
     printRecipe() {
       window.print();
