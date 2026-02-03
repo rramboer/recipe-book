@@ -346,8 +346,6 @@ Vue.createApp({
           }
         }
         this.home();
-      } else if (this.current === 'category' || this.current === 'search') {
-        this.home();
       } else {
         this.home();
       }
