@@ -34,6 +34,7 @@ Vue.createApp({
       hideShareButton: false,
       checkedIngredients: [],
       checkedSteps: [],
+      hasInternalNav: false,
     };
   },
   async created() {
@@ -279,6 +280,7 @@ Vue.createApp({
       this.selectCategory(cat.name);
     },
     toggle(cat, index) {
+      this.hasInternalNav = true;
       this.toggleNoHash(cat, index);
       window.location.hash = "#/" + this.slugify(cat.name);
       window.scrollTo(0, 0);
@@ -305,12 +307,19 @@ Vue.createApp({
       this.clearChecked();
     },
     showRecipe(recipe) {
+      this.hasInternalNav = true;
       this.showRecipeNoHash(recipe);
       window.location.hash = "#/recipe/" + this.slugify(recipe.title);
       window.scrollTo(0, 0);
     },
     goBack() {
-      window.history.back();
+      if (this.hasInternalNav) {
+        window.history.back();
+      } else {
+        // Direct link - go to home instead
+        this.current = 'home';
+        window.location.hash = '';
+      }
     },
     printRecipe() {
       window.print();
@@ -364,6 +373,7 @@ Vue.createApp({
       this.current = "search";
     },
     search() {
+      this.hasInternalNav = true;
       this.searchNoHash();
       if (this.searchQuery.trim()) {
         window.location.hash = "#/search/" + encodeURIComponent(this.searchQuery.trim());
