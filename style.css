@@ -467,6 +467,10 @@ input {
     background: #74B944;
 }
 
+.color-swatch.red {
+    background: #b94444;
+}
+
 /* Text Size Slider */
 .text-size-control {
     display: flex;
