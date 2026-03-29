@@ -138,6 +138,11 @@ Vue.createApp({
           light: { accent: "#74B944", hover: "#65a33b", light: "rgba(116, 185, 68, 0.1)" },
           dark: { accent: "#8BC963", hover: "#74B944", light: "rgba(139, 201, 99, 0.12)" },
         },
+        red: {
+          pill: "#b94444",
+          light: { accent: "#b94444", hover: "#a33b3b", light: "rgba(185, 68, 68, 0.1)" },
+          dark: { accent: "#c96363", hover: "#b94444", light: "rgba(201, 99, 99, 0.12)" },
+        },
       };
       const theme = this.theme === "system"
         ? (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")
